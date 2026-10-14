@@ -1,0 +1,60 @@
+040121-040124  # VWF hook JSL
+04048A-0404A1  # group table
+108000-10FFFF  # free bank 21: script / asm
+130000-137FFF  # free bank 26: script / asm
+1C8800-1CFFFF  # free bank 39: script / asm
+1D3000-1D7FFF  # free bank 3A: script / asm
+1D0000-1D2FFF  # asm/main.asm + font (bank 3A)
+0212A3-021703  # names bank 04
+027C9B-027FFF  # names bank 04
+03312D-03326D  # names bank 06
+037994-037FFF  # names bank 06
+040772-040AA6  # names bank 08
+040B97-040C68  # names bank 08
+043056-047FFF  # names bank 08
+021DB4-021DCB  # name slots bank 04
+021708-021AB1  # name slots bank 04
+0333F0-03343D  # name slots bank 06
+040AE3-040B96  # name slots bank 08
+040C87-040CBC  # name slots bank 08
+090000-093BFF  # 1bpp labels
+072000-077FFF  # recompressed gfx
+13AC40-13FFFF  # recompressed gfx
+0ABC00-0AFFFF  # recompressed gfx
+086019-08601B  # loader -> 11D1C4
+086084-086086  # loader -> 11D1C4
+086020-086022  # loader -> 11D4F7
+08608B-08608D  # loader -> 11D4F7
+086027-086029  # loader -> 11D815
+086092-086094  # loader -> 11D815
+0860A0-0860A2  # loader -> 122657
+08602E-086030  # loader -> 11DB85
+086099-08609B  # loader -> 11DB85
+085CE2-085CE4  # loader -> 1177A3
+085CE9-085CEB  # loader -> 118017
+085D22-085D24  # loader -> 11CA5A
+085D38-085D3A  # loader -> 11AFE7
+0861A9-0861AB  # loader -> 11AFE7
+085D3F-085D41  # loader -> 11B489
+0861B0-0861B2  # loader -> 11B489
+085D46-085D48  # loader -> 11B8C5
+0861B7-0861B9  # loader -> 11B8C5
+085D4D-085D4F  # loader -> 11BCBA
+0861BE-0861C0  # loader -> 11BCBA
+085D54-085D56  # loader -> 11BEF9
+0861C5-0861C7  # loader -> 11BEF9
+085D5B-085D5D  # loader -> 11C2C8
+0861CC-0861CE  # loader -> 11C2C8
+08611A-08611C  # loader -> 120CEE
+0861F7-0861F9  # loader -> 120CEE
+086121-086123  # loader -> 1210D5
+0861FE-086200  # loader -> 1210D5
+086161-086163  # loader -> 122D72
+086168-08616A  # loader -> 123181
+08615A-08615C  # loader -> 12293A
+085E93-085E95  # loader -> 11E23F
+086059-08605B  # loader -> 11E23F
+085E9A-085E9C  # loader -> 11E79E
+086060-086062  # loader -> 11E79E
+06B000-06BEFF  # status plates
+039D7A-039DA1  # default ranking names

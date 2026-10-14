@@ -8,7 +8,8 @@ Skill: translate-retro-game (H:/translation/sugoro-quest-dicenics/.claude/skills
 - Check:   `tools/check.py` (pytest tests/ + lint.py; the pre-commit hook runs this)
 - Smoke:   `python -X utf8 .claude/skills/translate-retro-game/scripts/emu.py build/sq_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Text:    `tools/batches.py list|split|check|merge|pairs|apply|checkfile|fit` (b1..b7b), `tools/namelist.py split|check|merge`
-- Release: not written yet.
+- Release: `tools/release.py --version X.Y` -> release/ (BPS + README zip; local only, never publish without the user).
+  After adding a new kind of ROM write: `tools/ranges.py` (allowed ranges for the romdiff test).
 - RE helpers: script.py, peek.py, fontview.py, lz.py, gfx_assets.py, find_tables.py, find_tilemaps.py, strips.py,
   spans.py, winview.py, tallview.py, labels.py sheet, plates.py preview, gfxtext.py (preview). Lua: tools/lua/*.
 
@@ -32,7 +33,8 @@ Skill: translate-retro-game (H:/translation/sugoro-quest-dicenics/.claude/skills
 - Input: B confirms Diceman picks; X/Y = Yes on the controller-wheel prompts; Start = sub-screen; Select = status.
 
 ## Status (2026-10-15)
-- Done: main script translated + reviewed + fixed; names + 1bpp labels; gfx: title menu, sub-screen menu, bios,
-  rule windows, map descriptions, name plates, save/load boxes, status plates.
-- Next gfx: options words (LZ 122D72/123181), status labels (126313/128FED), high-score names (11E23F/11E79E,
-  12156A), kana sets 11FB6C.. (name entry?), panel vertical "ダイスマン" (raw 0x6A000 area). Then QA tour, release.
+- Done: main script translated + reviewed + fixed; names + 1bpp labels; gfx: title menu, sub-screen menu, options,
+  bios, rule windows, map descriptions, name/status plates, save/load boxes, ranking. v0.9 built in release/.
+- Open: results-screen labels (126313/128FED), name-entry keyboards, save-slot font 12156A (all end-game /
+  saved-data screens, not reached yet; docs/re/graphics.md). Autoplay can't take a human turn yet (roll input
+  unknown) - deep event QA needs the user's playtest or a found roll input.

@@ -1055,6 +1055,87 @@
      "style": "header"
     }
    ]
+  },
+  {
+   "name": "ranking screen character names (11E23F at tile 0x240, 11E79E at 0x280; 5-tile spans)",
+   "blocks": {
+    "240": "11E23F",
+    "280": "11E79E"
+   },
+   "items": [
+    {
+     "jp": "プリッツ",
+     "en": "Pritz",
+     "tiles": [
+      608,
+      609,
+      610,
+      611,
+      612
+     ],
+     "style": "outline:9:6"
+    },
+    {
+     "jp": "タンギー",
+     "en": "Tanguy",
+     "tiles": [
+      613,
+      614,
+      615,
+      616,
+      617
+     ],
+     "style": "outline:9:6"
+    },
+    {
+     "jp": "ウルリク",
+     "en": "Ulrik",
+     "tiles": [
+      618,
+      619,
+      620,
+      621,
+      622
+     ],
+     "style": "outline:9:6"
+    },
+    {
+     "jp": "シンシア",
+     "en": "Cynthia",
+     "tiles": [
+      640,
+      641,
+      642,
+      643,
+      644
+     ],
+     "style": "outline:9:6"
+    },
+    {
+     "jp": "デヒテル",
+     "en": "Dechtel",
+     "tiles": [
+      645,
+      646,
+      647,
+      648,
+      649
+     ],
+     "style": "outline:9:6"
+    },
+    {
+     "jp": "ディアナ",
+     "en": "Diana",
+     "tiles": [
+      650,
+      651,
+      652,
+      653,
+      654
+     ],
+     "style": "outline:9:6"
+    }
+   ]
   }
  ]
 }

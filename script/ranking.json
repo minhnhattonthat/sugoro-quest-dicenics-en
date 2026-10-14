@@ -1,0 +1,15 @@
+{
+ "note": "Default high-score names at 0x39D7A: 10 x 4 raw main-font glyph codes (no VWF): uppercase, digits, . - and space only.",
+ "names": [
+  {"jp": "タカハシ", "en": "TAKA"},
+  {"jp": "Ｋ、サワ", "en": "K.SA"},
+  {"jp": "ワヒラ", "en": "WAHI"},
+  {"jp": "ツッチー", "en": "TSU-"},
+  {"jp": "まるやま", "en": "MARU"},
+  {"jp": "まるた", "en": "MRTA"},
+  {"jp": "Ｈ．なべ", "en": "H.NA"},
+  {"jp": "Ｔ．つぼ", "en": "T.TS"},
+  {"jp": "たけの～", "en": "TAKE"},
+  {"jp": "オオタケ", "en": "OTAK"}
+ ]
+}

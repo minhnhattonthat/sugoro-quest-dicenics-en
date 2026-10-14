@@ -46,9 +46,21 @@ def strip(text, ntiles, align, style=None):
                     continue
                 if ink & (0x80 >> b):
                     px[y][x + b] = INK
-                elif sh & (0x80 >> b) and style != "header":
+                elif sh & (0x80 >> b) and not style:
                     px[y][x + b] = SHADOW
         x += w
+    if style and style.startswith("outline:"):  # "outline:INK:EDGE" (hex colours)
+        body, edge = (int(v, 16) for v in style.split(":")[1:])
+        ink = [[v == INK for v in row] for row in px]
+        for y in range(16):
+            for x in range(ntiles * 8):
+                if ink[y][x]:
+                    px[y][x] = body
+                elif any(0 <= y + dy < 16 and 0 <= x + dx < ntiles * 8 and ink[y + dy][x + dx]
+                         for dy in (-1, 0, 1) for dx in (-1, 0, 1)):
+                    px[y][x] = edge
+                else:
+                    px[y][x] = 0
     if style == "header":
         ink = [[v == INK for v in row] for row in px]
         for y in range(16):

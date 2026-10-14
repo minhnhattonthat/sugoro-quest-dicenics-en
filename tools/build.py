@@ -44,6 +44,20 @@ def marker(e):
     return "".join(out)
 
 
+RANKING = 0x39D7A
+
+
+def pack_ranking(rom):
+    """Default high-score names: 4 raw main-font codes each (uppercase A-Z = 0x21-0x3A, digits, '.', '-', ' ')."""
+    import json
+    names_ = json.loads((ROOT / "script/ranking.json").read_text(encoding="utf-8"))["names"]
+    for i, e in enumerate(names_):
+        b = EN.encode(e["en"])
+        if len(b) != 4 or any(not (c in (0, 5, 0x0C) or 0x10 <= c <= 0x19 or 0x21 <= c <= 0x3A) for c in b):
+            raise ValueError(f"ranking name {e['en']!r} must be 4 chars of A-Z 0-9 . - space")
+        rom[RANKING + 4 * i:RANKING + 4 * i + 4] = b
+
+
 def check_free(rom):
     for bank, lo, hi in FREE:
         a, b = text.script.lorom(bank, lo), text.script.lorom(bank, hi - 1) + 1
@@ -107,6 +121,7 @@ def build(identity=False, marker_build=False, qa=None, out=None):
     labels.pack(rom)
     gfxtext.pack(rom, ORIG.read_bytes())
     plates.pack(rom)
+    pack_ranking(rom)
     out.write_bytes(rom)
     return bytes(rom)
 

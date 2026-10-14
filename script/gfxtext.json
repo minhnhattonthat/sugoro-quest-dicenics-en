@@ -378,17 +378,263 @@
    ]
   },
   {
+   "name": "map select descriptions (BG3 2bpp; left: MAP n y4, level y19; right lines y2/12/22 per 32-px map)",
+   "type": "lines2",
+   "block": "11CA5A",
+   "items": [
+    {
+     "jp": "なんいど ふつう",
+     "half": 0,
+     "y": 19,
+     "clear": [
+      14,
+      31
+     ],
+     "en": "Level: Normal"
+    },
+    {
+     "jp": "マップのおおきさも",
+     "half": 1,
+     "y": 2,
+     "clear": [
+      0,
+      9
+     ],
+     "en": "Medium in size,"
+    },
+    {
+     "jp": "ちゅうくらいの",
+     "half": 1,
+     "y": 12,
+     "clear": [
+      10,
+      19
+     ],
+     "en": "a course for"
+    },
+    {
+     "jp": "ちゅうきゅうコース",
+     "half": 1,
+     "y": 22,
+     "clear": [
+      20,
+      31
+     ],
+     "en": "intermediates."
+    },
+    {
+     "jp": "なんいど かんたん",
+     "half": 0,
+     "y": 51,
+     "clear": [
+      46,
+      63
+     ],
+     "en": "Level: Easy"
+    },
+    {
+     "jp": "じかんのかからない",
+     "half": 1,
+     "y": 34,
+     "clear": [
+      32,
+      41
+     ],
+     "en": "A map that takes"
+    },
+    {
+     "jp": "マップなのですこし",
+     "half": 1,
+     "y": 44,
+     "clear": [
+      42,
+      51
+     ],
+     "en": "little time, for"
+    },
+    {
+     "jp": "あそぶのにさいてき",
+     "half": 1,
+     "y": 54,
+     "clear": [
+      52,
+      63
+     ],
+     "en": "a short game."
+    },
+    {
+     "jp": "なんいど むずかしい",
+     "half": 0,
+     "y": 83,
+     "clear": [
+      78,
+      95
+     ],
+     "en": "Level: Hard"
+    },
+    {
+     "jp": "とってもひろいマップ",
+     "half": 1,
+     "y": 66,
+     "clear": [
+      64,
+      73
+     ],
+     "en": "A really huge map!"
+    },
+    {
+     "jp": "しょしんしゃには",
+     "half": 1,
+     "y": 76,
+     "clear": [
+      74,
+      83
+     ],
+     "en": "Beginners are"
+    },
+    {
+     "jp": "きっと つらいぞ！",
+     "half": 1,
+     "y": 86,
+     "clear": [
+      84,
+      95
+     ],
+     "en": "sure to struggle!"
+    },
+    {
+     "jp": "さいごのたたかい",
+     "half": 0,
+     "y": 115,
+     "clear": [
+      110,
+      127
+     ],
+     "en": "The Final Battle"
+    },
+    {
+     "jp": "ＭＡＰ１～３を",
+     "half": 1,
+     "y": 97,
+     "clear": [
+      96,
+      105
+     ],
+     "en": "To you, who beat"
+    },
+    {
+     "jp": "クリアしたキミへ",
+     "half": 1,
+     "y": 107,
+     "clear": [
+      106,
+      115
+     ],
+     "en": "Maps 1 through 3:"
+    },
+    {
+     "jp": "プレゼント",
+     "half": 1,
+     "y": 116,
+     "clear": [
+      116,
+      127
+     ],
+     "en": "a present!"
+    }
+   ]
+  },
+  {
    "name": "rule setup windows (sprites; tools/rulewin.py)",
    "type": "rulewin",
    "windows": [
-    {"k": 0, "pitch": 9, "jp": ["クエストを６回する", "クエストを１２回する", "２時間あそぶ", "４時間あそぶ", "１０回死ぬまで", "２００００ＴＫあつめる", "なし"],
-     "lines": ["Clear 6 quests", "Clear 12 quests", "Play 2 hours", "Play 4 hours", "Until 10 deaths", "Collect 20000 TK", "None"]},
-    {"k": 1, "pitch": 9, "jp": ["３０分あそぶ", "２時間あそぶ", "４時間あそぶ", "２回死ぬまで", "１０回死ぬまで", "４０００ＴＫあつめる", "なし"],
-     "lines": ["Play 30 minutes", "Play 2 hours", "Play 4 hours", "Until 2 deaths", "Until 10 deaths", "Collect 4000 TK", "None"]},
-    {"k": 2, "pitch": 9, "jp": ["なし", "なし", "なし", "なし", "なし", "なし", "なし"],
-     "lines": ["None", "None", "None", "None", "None", "None", "None"]},
-    {"k": 3, "pitch": 10, "y0": 3, "jp": ["ダイスマンブレイク", "ありがたやウルリクさま", "ぬかるみのシンシア", "だってダーなんだもん", "いつもハッピーですわ♡", "サイランドバケーション"],
-     "lines": ["Diceman Break", "Hail Ulrik-sama", "Muddy Cynthia", "'Cause It's Daa!", "Always Happy!", "Siland Vacation"]}
+    {
+     "k": 0,
+     "pitch": 9,
+     "jp": [
+      "クエストを６回する",
+      "クエストを１２回する",
+      "２時間あそぶ",
+      "４時間あそぶ",
+      "１０回死ぬまで",
+      "２００００ＴＫあつめる",
+      "なし"
+     ],
+     "lines": [
+      "Clear 6 quests",
+      "Clear 12 quests",
+      "Play 2 hours",
+      "Play 4 hours",
+      "Until 10 deaths",
+      "Collect 20000 TK",
+      "None"
+     ]
+    },
+    {
+     "k": 1,
+     "pitch": 9,
+     "jp": [
+      "３０分あそぶ",
+      "２時間あそぶ",
+      "４時間あそぶ",
+      "２回死ぬまで",
+      "１０回死ぬまで",
+      "４０００ＴＫあつめる",
+      "なし"
+     ],
+     "lines": [
+      "Play 30 minutes",
+      "Play 2 hours",
+      "Play 4 hours",
+      "Until 2 deaths",
+      "Until 10 deaths",
+      "Collect 4000 TK",
+      "None"
+     ]
+    },
+    {
+     "k": 2,
+     "pitch": 9,
+     "jp": [
+      "なし",
+      "なし",
+      "なし",
+      "なし",
+      "なし",
+      "なし",
+      "なし"
+     ],
+     "lines": [
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None"
+     ]
+    },
+    {
+     "k": 3,
+     "pitch": 10,
+     "y0": 3,
+     "jp": [
+      "ダイスマンブレイク",
+      "ありがたやウルリクさま",
+      "ぬかるみのシンシア",
+      "だってダーなんだもん",
+      "いつもハッピーですわ♡",
+      "サイランドバケーション"
+     ],
+     "lines": [
+      "Diceman Break",
+      "Hail Ulrik-sama",
+      "Muddy Cynthia",
+      "'Cause It's Daa!",
+      "Always Happy!",
+      "Siland Vacation"
+     ]
+    }
    ]
   }
  ]

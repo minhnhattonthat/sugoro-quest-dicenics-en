@@ -101,6 +101,49 @@ def apply_rows2(data, screen):
             data[(first + t) * 16:(first + t) * 16 + 16] = tile
 
 
+def apply_lines2(data, screen):
+    """2bpp, 16 tiles wide; item = {"y": pixel top, "half": 0/1, "en", "clear": [y0, y1]} - clears pixel rows
+    y0..y1 of that half, then draws the condensed-font line at y (colour = most common colour cleared)."""
+    import labels
+    from collections import Counter
+
+    def loc(x, y):
+        r, yy = divmod(y, 8)
+        return (r * 16 + x // 8) * 16 + 2 * yy, 0x80 >> (x % 8)
+
+    for item in screen["items"]:
+        x0 = item["half"] * 64
+        y0, y1 = item["clear"]
+        seen = Counter()
+        for y in range(y0, y1 + 1):
+            for x in range(x0, x0 + 64):
+                i, m = loc(x, y)
+                v = (1 if data[i] & m else 0) | (2 if data[i + 1] & m else 0)
+                if v:
+                    seen[v] += 1
+                data[i] &= ~m & 0xFF
+                data[i + 1] &= ~m & 0xFF
+        colour = seen.most_common(1)[0][0] if seen else 1
+        text = item["en"]
+        w = labels.text_width(text)
+        if w > 64:
+            raise ValueError(f"{text!r}: {w}px > 64px")
+        bits = labels.render(text)
+        shift = (64 - w) // 2
+        for yy in range(8):
+            row = 0
+            for t in range(8):
+                row = (row << 8) | bits[t * 8 + yy]
+            row = (row << shift) & ((1 << 64) - 1)
+            for c in range(64):
+                if row & (1 << (63 - c)):
+                    i, m = loc(x0 + c, item["y"] + yy)
+                    if colour & 1:
+                        data[i] |= m
+                    if colour & 2:
+                        data[i + 1] |= m
+
+
 def apply(rom_orig):
     """-> {block id: new decompressed bytes} for every block a spec item touches."""
     spec = json.loads(SPEC.read_text(encoding="utf-8"))
@@ -110,10 +153,10 @@ def apply(rom_orig):
             import rulewin
             out.update(rulewin.apply(rom_orig, screen))
             continue
-        if screen.get("type") == "rows2":
+        if screen.get("type") in ("rows2", "lines2"):
             bid = screen["block"]
             out.setdefault(bid, bytearray(lz.decompress(rom_orig, int(bid, 16))[0]))
-            apply_rows2(out[bid], screen)
+            (apply_rows2 if screen["type"] == "rows2" else apply_lines2)(out[bid], screen)
             continue
         blocks = {int(k, 16): v for k, v in screen["blocks"].items()}
         for item in screen["items"]:

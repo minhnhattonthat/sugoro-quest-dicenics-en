@@ -1,0 +1,8 @@
+# Cold boot -> new game (1P + 3 COMP). Use with: --frames 4200 --mash 45 --mash-key start
+600 -
+6 start
+300 -
+6 start
+200 -
+6 a
+300 -

@@ -2,7 +2,7 @@
  {
   "id": "4000",
   "jp": "{clr}{v1}は宝箱を見つけた！{nl}悪い予感がするので、良くしらべると、{nl}どうやらワナがしかけられているようだ{key}{nl}{clr}ここでにげ出しては、{nl}サイランドの冒険者の名がすたる。{nl}気をつけてワナを解除する事にした。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} found a treasure chest!{nl}A bad feeling prompted a close look:{nl}it seems to be booby-trapped.{key}{nl}{clr}But running away now would shame{nl}the name of a Siland adventurer.{nl}Time to carefully disarm the trap.{key}{end}"
  },
  {
   "id": "4001",
@@ -11,197 +11,197 @@
  {
   "id": "4002",
   "jp": "{clr}宝箱のワナ解除の結果を判定するため、{nl}{end}",
-  "en": ""
+  "en": "{clr}To decide how disarming the trap goes,{nl}{end}"
  },
  {
   "id": "4003",
   "jp": "{clr}カチッ！{wait0}{nl}宝箱はバクハツし、{v1}にとって、{nl}最も不幸な結果となった。{key}{end}",
-  "en": ""
+  "en": "{clr}Click!{wait0}{nl}The chest exploded, with the worst{nl}possible outcome for {v1}.{key}{end}"
  },
  {
   "id": "4004",
   "jp": "{clr}{v1}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "4005",
   "jp": "{clr}無事に宝箱はひらき、{v1}は{nl}ほっとタメイキをついた。{key}{end}",
-  "en": ""
+  "en": "{clr}The chest opened safely, and {v1}{nl}let out a sigh of relief.{key}{end}"
  },
  {
   "id": "4006",
   "jp": "{clr}プリッツ「うえぇぇ～～～ん。{nl}ボクは何も悪い事してないよう。{key}{end}",
-  "en": ""
+  "en": "{clr}Pritz: \"Waaaaaah~~~!{nl}I didn't do anything wrooong!\"{key}{end}"
  },
  {
   "id": "4007",
   "jp": "{clr}プリッツ「あッ…。{wait0}{nl}う、ううん。いいの、これで。{key}{end}",
-  "en": ""
+  "en": "{clr}Pritz: \"Ah...{wait0}{nl}N-no... It's fine. This is fine.\"{key}{end}"
  },
  {
   "id": "4008",
   "jp": "{clr}プリッツ「どっひゃ～～～{key}{end}",
-  "en": ""
+  "en": "{clr}Pritz: \"Yowzaaa~~~!\"{key}{end}"
  },
  {
   "id": "4009",
   "jp": "{clr}タンギー「クエェェ！{nl}オイラぁ、もうガマン出来ないィィ！{nl}キッツぅ～～。{key}{end}",
-  "en": ""
+  "en": "{clr}Tanguy: \"Kweeeh!{nl}I can't stand it anymooore!{nl}That's rough~~.\"{key}{end}"
  },
  {
   "id": "400A",
   "jp": "{clr}タンギー「ヒョー{nl}もう、オイラぁボロボロだぜい！{nl}カックイイ～。{key}{end}",
-  "en": ""
+  "en": "{clr}Tanguy: \"Whooo!{nl}Look, I'm all torn up now, y'know!{nl}So coooool~.\"{key}{end}"
  },
  {
   "id": "400B",
   "jp": "{clr}タンギー「はうぅぅぅ。{key}{end}",
-  "en": ""
+  "en": "{clr}Tanguy: \"Hnnnnngh...\"{key}{end}"
  },
  {
   "id": "400C",
   "jp": "{clr}ウルリク「なっ、なぜこうなるのじゃ。{nl}なんとおそろしい世の中じゃ…。{key}{end}",
-  "en": ""
+  "en": "{clr}Ulrik: \"Wh-why must this befall me?{nl}What a dreadful world this is...\"{key}{end}"
  },
  {
   "id": "400D",
   "jp": "{clr}ウルリク「もうヒラニプラ神なぞ{nl}しんよう出来ぬわ！！{key}{end}",
-  "en": ""
+  "en": "{clr}Ulrik: \"Never again shall I trust{nl}the god Hiranipla!!\"{key}{end}"
  },
  {
   "id": "400E",
   "jp": "{clr}ウルリク「おのれ…。{nl}いまに見ておれ…、{nl}私の信者どもは何をしておるのじゃ！{key}{end}",
-  "en": ""
+  "en": "{clr}Ulrik: \"Curse it...{nl}Just you wait...{nl}What are my followers doing, I say!\"{key}{end}"
  },
  {
   "id": "400F",
   "jp": "{clr}シンシア「しくしくしく…。{key}{end}",
-  "en": ""
+  "en": "{clr}Cynthia: \"Sob, sob, sob...\"{key}{end}"
  },
  {
   "id": "4010",
   "jp": "{clr}シンシア「あァ…、やっぱり私は{nl}不幸なのがいちばんしっくり来るわ…。{key}{end}",
-  "en": ""
+  "en": "{clr}Cynthia: \"Ahh... I knew it. Misfortune{nl}suits me better than anything...\"{key}{end}"
  },
  {
   "id": "4011",
   "jp": "{clr}シンシア「へいきよ…。{nl}なれているもの。{key}{end}",
-  "en": ""
+  "en": "{clr}Cynthia: \"I'm fine...{nl}I'm used to it.\"{key}{end}"
  },
  {
   "id": "4012",
   "jp": "{clr}デヒテル「ウオォォォッ！！{nl}オレ様としたことがぁ！なぜだー！！{key}{end}",
-  "en": ""
+  "en": "{clr}Dechtel: \"Uwoooohh!!{nl}The great me, blundering!? Whyyy!!\"{key}{end}"
  },
  {
   "id": "4013",
   "jp": "{clr}デヒテル「ウグググ…。{nl}こんな解せない事があってたまるか…。{key}{end}",
-  "en": ""
+  "en": "{clr}Dechtel: \"Grrrgh...{nl}How can such nonsense be allowed...!\"{key}{end}"
  },
  {
   "id": "4014",
   "jp": "{clr}デヒテル「かんべんしてくれ…。{key}{end}",
-  "en": ""
+  "en": "{clr}Dechtel: \"Gimme a break...\"{key}{end}"
  },
  {
   "id": "4015",
   "jp": "{clr}ディアナ「ギョエ！{nl}どうしてですの？{nl}でもガマンしますの…。くすん。{key}{end}",
-  "en": ""
+  "en": "{clr}Diana: \"Eeek!{nl}But whyyy~?{nl}Still, I shall endure it... Sniff.\"{key}{end}"
  },
  {
   "id": "4016",
   "jp": "{clr}ディアナ「とほほほー。{nl}たいへんな事になってしまいましたわぁ{key}{end}",
-  "en": ""
+  "en": "{clr}Diana: \"Oh, woe is me~.{nl}This has turned out quite dreadful~\"{key}{end}"
  },
  {
   "id": "4017",
   "jp": "{clr}ディアナ「ひィ～～ん{key}{end}",
-  "en": ""
+  "en": "{clr}Diana: \"Eeeeeeek~~\"{key}{end}"
  },
  {
   "id": "4018",
   "jp": "{clr}{v1}は、いつのまにかサイフが{nl}かるくなっている事に気づいた。{key}{nl}{clr}なんと！サイフに大きなあなが{nl}あいているではないか！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} noticed that the wallet{nl}had somehow gotten lighter.{key}{nl}{clr}Good grief! There's a big hole{nl}in the wallet!{key}{end}"
  },
  {
   "id": "4019",
   "jp": "{clr}{v1}は{v9}ＴＫうしなった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} lost {v9} TK!{key}{end}"
  },
  {
   "id": "401A",
   "jp": "{clr}{v1}は、{nl}わき見をしながら歩いていた。{key}{nl}{clr}{nl}       グキッ！{key}{nl}{clr}なんと、足をネンザしてしまった！{nl}これではしばらく歩くのは無理そうだ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} was walking along{nl}without watching the road.{key}{nl}{clr}{nl}{at8}Crack!{key}{nl}{clr}Oh no, a sprained ankle!{nl}Walking looks impossible for a while.{key}{end}"
  },
  {
   "id": "401B",
   "jp": "{clr}{v1}は、とつぜん痛みを感じた。{nl}虫歯がズキズキする。{key}{nl}{clr}ちゃんと冒険に出かける前になおして{nl}おかなかったのが悪い。{nl}ハンセイしながら、ぐっとこらえた。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} suddenly felt a pain.{nl}A cavity is throbbing.{key}{nl}{clr}It was a mistake not to fix it before{nl}setting off on the adventure.{nl}Lesson learned... Grin and bear it!{key}{end}"
  },
  {
   "id": "401C",
   "jp": "{clr}ニコニコしながら娘が近づいて来た。{key}{nl}{clr}「こんにちは{v1}さん。{nl}アナタのために、お料理をつくったの。{nl}食べて下さいネ！{key}{nl}{clr}娘は{v1}に料理を手わたすと、{nl}どこかへ行ってしまった。{key}{end}",
-  "en": ""
+  "en": "{clr}A girl came up, smiling sweetly.{key}{nl}{clr}\"Hello, {v1}-san.{nl}I made some food just for you.{nl}Please eat it!\"{key}{nl}{clr}The girl handed {v1} the food{nl}and went off somewhere.{key}{end}"
  },
  {
   "id": "401D",
   "jp": "{clr}手料理には毒がもられていた。{key}{end}",
-  "en": ""
+  "en": "{clr}The home cooking had been poisoned.{key}{end}"
  },
  {
   "id": "401E",
   "jp": "{clr}「ねえねえ！勇者さん。{nl}おねがいがあるの。ボクにダイスを{nl}見せてくれない？ねえねえ！{key}{nl}{clr}{v1}は、こどもに{nl}しぶしぶダイスを見せてあげた。{nl}「うわぁ～すごいな～カッコイイなぁ！{key}{nl}{clr}「も～らった{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hey, hey! Hero!{nl}I've got a favor to ask. Can you show{nl}me your dice? Hey, hey!\"{key}{nl}{clr}Reluctantly, {v1} showed{nl}the dice to the child.{nl}\"Wooow~ So cool~ Awesome!\"{key}{nl}{clr}\"Mine nooow~!\"{key}{end}"
  },
  {
   "id": "401F",
   "jp": "{clr}こどもはダイスをひとつ、{nl}持ちにげした。{v1}は悔しいが{nl}ぐっとこらえた。{key}{end}",
-  "en": ""
+  "en": "{clr}The child ran off with one{nl}of the dice. It was galling, but{nl}{v1} held it in.{key}{end}"
  },
  {
   "id": "4020",
   "jp": "{clr}{v1}は{v9}ラウンドのあいだ、{nl}オヤスミです。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} takes a break for{nl}{v9} round(s).{key}{end}"
  },
  {
   "id": "4021",
   "jp": "{clr}どこからともなく、不気味なうた声が{nl}きこえてきた。{key}{nl}{clr}{v1}は、あわててみみを{nl}ふさごうとしたが、手がうごかない。{key}{nl}{clr}声をきいていると、アタマがぼーっと{nl}して、魔法をどんどん忘れてしまう…。{nl}魔法使用回数が、減ってしまった！！{key}{end}",
-  "en": ""
+  "en": "{clr}From out of nowhere, an eerie song{nl}could be heard.{key}{nl}{clr}{v1} hurried to cover both ears,{nl}but couldn't move a hand.{key}{nl}{clr}Hearing the voice, the mind goes{nl}foggy and spells keep slipping away...{nl}Spell uses have gone down!!{key}{end}"
  },
  {
   "id": "4022",
   "jp": "{clr}{v1}が歩いていると、{nl}前からやってきた男と、ぶつかって{nl}しまった。{key}{nl}{clr}「すまぬ、いそいでいたものでな。{nl}ケガはなかったか？{nl}うむ、だいじょうぶのようじゃ、では。{key}{end}",
-  "en": ""
+  "en": "{clr}While walking along, {v1} bumped{nl}into a man coming the other way.{key}{nl}{clr}\"Pardon me, I was in a hurry.{nl}Are you hurt? Hm, you seem{nl}to be all right. Farewell, then.\"{key}{end}"
  },
  {
   "id": "4023",
   "jp": "{clr}{v1}は、{nl}男がスリだったと気づいた。{nl}だがもう男のすがたは見えなかった。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} realized the man{nl}was a pickpocket.{nl}But he was already long gone.{key}{end}"
  },
  {
   "id": "4024",
   "jp": "{clr}見たこともない不思議なすがたの虫が{nl}{v1}の足にとまった。気味が悪い{nl}ので、おいはらおうとした。{key}{nl}{clr}{nl}       チクッ！{key}{nl}{clr}足に、するどい痛みがはしった！{nl}たいへんだ！毒虫かもしれない！{key}{end}",
-  "en": ""
+  "en": "{clr}A strange, never-before-seen bug{nl}landed on {v1}'s leg. Creepy!{nl}Better shoo it away.{key}{nl}{clr}{nl}{at8}Sting!{key}{nl}{clr}A sharp pain shot through the leg!{nl}Oh no! It might be a poison bug!{key}{end}"
  },
  {
   "id": "4025",
   "jp": "{clr}虫にさされた結果を判定するために{nl}{end}",
-  "en": ""
+  "en": "{clr}To decide what the bug sting does,{nl}{end}"
  },
  {
   "id": "4026",
   "jp": "{clr}どうやら、あの虫は強い毒を持っていた{nl}ようだ。{v1}は手足がしびれ、気が{nl}遠くなって行く…。ああ…。{key}{nl}{clr}なんたる不幸だろう。{nl}{v1}は死んでしまった。{key}{end}",
-  "en": ""
+  "en": "{clr}It seems that bug was highly{nl}poisonous. {v1}'s limbs go numb,{nl}and everything fades... Ahh...{key}{nl}{clr}What terrible misfortune.{nl}{v1} has died.{key}{end}"
  },
  {
   "id": "4027",
   "jp": "{clr}どうやら、あの虫は毒など持って{nl}いなかったようだ。ちょっと足が{nl}かゆいけど、このぐらいガマンしよう。{key}{end}",
-  "en": ""
+  "en": "{clr}It seems that bug wasn't poisonous{nl}after all. The leg itches a bit,{nl}but that's easy enough to put up with.{key}{end}"
  },
  {
   "id": "4028",
   "jp": "{clr}{v2}は{v6}を{nl}手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}{v2} obtained{nl}\"{v6}\"!{key}{end}"
  },
  {
   "id": "4029",
@@ -210,206 +210,206 @@
  {
   "id": "402A",
   "jp": "{clr}{v1}は思った。私たちは幸せだと。{key}{nl}世の中には、もっと困っている人が{nl}たくさんいるにちがいない。{key}{nl}{clr}{v1}のよびかけで、{nl}全員が、きふをする事になった。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} thought: we're so fortunate.{key}{nl}Surely there are many people in{nl}the world who are far worse off.{key}{nl}{clr}At {v1}'s urging, everyone{nl}decided to make a donation.{key}{end}"
  },
  {
   "id": "402B",
   "jp": "{clr}{v2}は{v9}ＴＫうしなった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v2} lost {v9} TK!{key}{end}"
  },
  {
   "id": "402C",
   "jp": "{clr}{v3}は{v9}ＴＫうしなった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v3} lost {v9} TK!{key}{end}"
  },
  {
   "id": "402D",
   "jp": "{clr}{v4}は{v9}ＴＫうしなった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v4} lost {v9} TK!{key}{end}"
  },
  {
   "id": "402E",
   "jp": "{clr}{v1}は{v6}を{nl}うしなった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} lost{nl}\"{v6}\"!{key}{end}"
  },
  {
   "id": "402F",
   "jp": "{clr}{v2}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v2} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "4030",
   "jp": "{clr}{v3}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v3} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "4031",
   "jp": "{clr}{v4}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v4} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "4032",
   "jp": "{clr}{v1}の足の下で、何かがモゾモゾと{nl}うごいた。{key}{nl}{clr}悪い予感がして、たしかめて見ると、{nl}イモ虫をふんづけていた！！{nl}{v1}「ギエェェェェ～～～！！{key}{nl}{clr}イモ虫がニガテな{v1}は、{nl}ショックから、しばらく回復出来そうも{nl}ない。{key}{end}",
-  "en": ""
+  "en": "{clr}Something squirmed under{nl}{v1}'s foot.{key}{nl}{clr}With a bad feeling, a quick check{nl}showed a squashed caterpillar!!{nl}{v1}: \"Gyaaaaaaah~~~!!\"{key}{nl}{clr}{v1} can't stand caterpillars,{nl}and won't get over the shock{nl}for a while.{key}{end}"
  },
  {
   "id": "4033",
   "jp": "{clr}「最近イヤなウワサをきいたんですよ。{nl}何でも、大魔王ナントカっていうのが{nl}世界を滅ぼそうと、うごき出したとか。{key}{nl}{clr}本当だったらコワイですね。{nl}でも、{v1}さんがいるから、私は{nl}しんぱいしてませんけどね！{key}{end}",
-  "en": ""
+  "en": "{clr}\"I've heard a nasty rumor lately.{nl}The Demon Lord Whatsit the Great{nl}is out to destroy the world, they say.{key}{nl}{clr}Scary, if it's true. But with{nl}{v1}-san around, I'm not worried{nl}one bit!\"{key}{end}"
  },
  {
   "id": "4034",
   "jp": "{clr}「やっと見つけた！{nl}エイッ！おとうさまのカタキ！{nl}{v1}『え？！？！{key}{nl}{clr}とつぜん、見おぼえのない娘が{nl}ナイフを振りかざして、切りつけて{nl}来た！{key}{nl}{clr}娘は、人ちがいをしているようだ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Found you at last!{nl}Hyah! Revenge for my father!\"{nl}{v1}: \"Wha?!?!\"{key}{nl}{clr}Suddenly a girl never seen before{nl}swings a knife and slashes out!{key}{nl}{clr}It seems she has the wrong person.{key}{end}"
  },
  {
   "id": "4035",
   "jp": "{clr}ナイフを上手くかわせるか判定するため{nl}{end}",
-  "en": ""
+  "en": "{clr}To decide if the knife can be dodged,{nl}{end}"
  },
  {
   "id": "4036",
   "jp": "{clr}{v1}は、よけきれなかった！{nl}ナイフはウデに、つきささった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} couldn't dodge in time!{nl}The knife sank into the arm!{key}{end}"
  },
  {
   "id": "4037",
   "jp": "{clr}バシッ！{nl}{v1}は、娘のナイフを{nl}たたき落とした。{key}{nl}{clr}「ああぁ…、おとうさま…、私には{nl}出来ませんでした…、ゴメンなさい。{key}{nl}{clr}「あ、あら？人ちがいだったの？！{nl}すいません……。メガネをしてないと{nl}よく見えないんです…。{key}{end}",
-  "en": ""
+  "en": "{clr}Whack!{nl}{v1} knocked the knife{nl}out of the girl's hand.{key}{nl}{clr}\"Ahh... Father... I couldn't{nl}do it... I'm so sorry.\"{key}{nl}{clr}\"Oh, huh? It was the wrong person?!{nl}I'm sorry...... Without my glasses{nl}I can't see very well...\"{key}{end}"
  },
  {
   "id": "4038",
   "jp": "{clr}{v1}「あっれェ？おかしいなあ…。{nl}何だか魔法が減っている気がするなァ。{nl}いつのまに唱えたんだろう？{key}{nl}{clr}「ボクって、ときどき{nl}何をやっていたのか、忘れちゃうんだよ{nl}ね。まあいいやっ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Huuuh? That's weird...{nl}Feels like my magic went down.{nl}When did I cast anything?\"{key}{nl}{clr}\"Sometimes I just forget{nl}what I was doing, you know.{nl}Oh well!\"{key}{end}"
  },
  {
   "id": "4039",
   "jp": "{clr}{v1}は{v5}を{nl}うしなった。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} lost{nl}\"{v5}\".{key}{end}"
  },
  {
   "id": "403A",
   "jp": "{clr}{v1}「ウグググゥ…。{nl}足がフラフラするわい。最近血をすって{nl}いなかったからな。オレ様とした事が。{key}{nl}{clr}「血ィ……、血……。ああぁ、もう{nl}ダメだ…。ガクッ{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Ugggh...{nl}My legs are wobbly. I haven't had{nl}blood lately. How could the great me...\"{key}{nl}{clr}\"Blood... blood... Ahh, I'm{nl}done for... Urk.\"{key}{end}"
  },
  {
   "id": "403B",
   "jp": "{clr}なんだか天気が悪くなって来た。{nl}遠くで、カミナリがなっている。{key}{nl}{clr}{v1}「ああ、悪い予感がするわ…。{key}{nl}{clr}悪い予感は的中し、全員めがけて{nl}カミナリが落ちた！{nl}{v1}「キャ～～～～！！！{key}{end}",
-  "en": ""
+  "en": "{clr}The weather is turning nasty.{nl}Thunder rumbles in the distance.{key}{nl}{clr}{v1}: \"Oh, I have a bad feeling...\"{key}{nl}{clr}The bad feeling came true: lightning{nl}struck at everyone!{nl}{v1}: \"Kyaaaaaa~~~~!!!\"{key}{end}"
  },
  {
   "id": "403C",
   "jp": "{clr}{v2}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v2} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "403D",
   "jp": "{clr}{v3}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v3} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "403E",
   "jp": "{clr}{v4}のＨＰに{v9}のダメージ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v4} takes {v9} HP damage!{key}{end}"
  },
  {
   "id": "403F",
   "jp": "{clr}{v1}は、ショックで魔法を{nl}思いついた！{key}{end}",
-  "en": ""
+  "en": "{clr}The shock gave {v1}{nl}an idea for a spell!{key}{end}"
  },
  {
   "id": "4040",
   "jp": "{clr}小さなこどもが、こっちを見ている。{key}{nl}{clr}{v1}『どうしたのじゃ？{nl}お前も、私のありがたい話しを、{nl}ききたいのか？見所のあるこどもじゃ。{key}{nl}{clr}「あっ！コワイおねえちゃんだ！{nl}にげろ！{key}{end}",
-  "en": ""
+  "en": "{clr}A little child is staring this way.{key}{nl}{clr}{v1}: \"What is it, child?{nl}Wouldst thou hear my blessed words?{nl}Thou hast promise, I see.\"{key}{nl}{clr}\"Ah! It's the scary lady!{nl}Run!\"{key}{end}"
  },
  {
   "id": "4041",
   "jp": "{clr}{v1}「うぬぬぬ…。ウルリク教も{nl}まだまだじゃ…。{nl}もっと信者を、増やさねばならぬわ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Grrr... The Church of Ulrik{nl}still has far to go...{nl}I must win more followers, I must.\"{key}{end}"
  },
  {
   "id": "4042",
   "jp": "{clr}{v1}が歩いていると、とつぜん{nl}流れ魔法が飛んできた！！{key}{nl}{clr}魔法が{v1}を直撃！！{nl}{v1}『うわぁッ～～、誰だァ～！{key}{end}",
-  "en": ""
+  "en": "{clr}As {v1} walked along, a stray{nl}spell suddenly came flying in!!{key}{nl}{clr}The spell hit {v1} dead-on!!{nl}{v1}: \"Waaagh~~, who did that~!\"{key}{end}"
  },
  {
   "id": "4043",
   "jp": "{clr}魔法はファイアーボールだった！{key}{end}",
-  "en": ""
+  "en": "{clr}The spell was Fireball!{key}{end}"
  },
  {
   "id": "4044",
   "jp": "{clr}魔法はパラライズだった！{key}{end}",
-  "en": ""
+  "en": "{clr}The spell was Paralyze!{key}{end}"
  },
  {
   "id": "4045",
   "jp": "{clr}魔法はサンダーボルトだった！{key}{end}",
-  "en": ""
+  "en": "{clr}The spell was Thunderbolt!{key}{end}"
  },
  {
   "id": "4046",
   "jp": "{clr}魔法はアシッドレインだった！{key}{end}",
-  "en": ""
+  "en": "{clr}The spell was Acid Rain!{key}{end}"
  },
  {
   "id": "4047",
   "jp": "{clr}「よう、{v1}！{nl}オレもしゅぎょうのすえ、こんな魔法を{nl}唱えられるようになったぜ。{key}{nl}{clr}「まあ見ていてくれ！{key}{nl}{clr}{nl}  シーフステップ！ レベル１！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hey, {v1}!{nl}I trained hard, and now I can cast{nl}a spell like this too.\"{key}{nl}{clr}\"Just watch!\"{key}{nl}{clr}{nl}{at5}\"Thief Step! Level 1!\"{key}{end}"
  },
  {
   "id": "4048",
   "jp": "{clr}{v1}は{nl}どうもやる気が起きない。{key}{nl}{clr}出来る事なら、このまま何もしないで{nl}静かに座っていたいと思った。{key}{nl}{clr}{v1}は{nl}すっかり無気力になってしまった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} just can't{nl}get motivated.{key}{nl}{clr}If possible, it'd be nice to just sit{nl}quietly and do nothing at all.{key}{nl}{clr}{v1} has become{nl}completely listless!{key}{end}"
  },
  {
   "id": "4049",
   "jp": "{clr}{v1}の目の前に、{nl}とつぜん小さな人かげが現れた！{key}{nl}{clr}「フフッ。お前、なかなか良い{nl}ダイスを持っているじゃないか。{key}{nl}{clr}「だがそれはお前にふさわしくない。{nl}私がいただこう。{key}{nl}{clr}小さな人かげは{nl}{v1}の手からダイスをうばうと{nl}ケムリのように見えなくなった…。{key}{end}",
-  "en": ""
+  "en": "{clr}Suddenly, a small figure appeared{nl}right in front of {v1}!{key}{nl}{clr}\"Heh heh. That's quite a fine{nl}die you've got there.\"{key}{nl}{clr}\"But it doesn't suit you.{nl}I'll be taking it.\"{key}{nl}{clr}The small figure snatched the die{nl}from {v1}'s hand and vanished{nl}like smoke...{key}{end}"
  },
  {
   "id": "404A",
   "jp": "{clr}{v1}は、不思議な光をはなつ{nl}ふるめかしい宝箱を見つけた。{key}{nl}{clr}箱の表面に、こう書かれている。{key}{nl}{clr}{nl}     「金食いの箱」{key}{nl}{clr}{v1}は{nl}あわてて飛び退いたが、見る見るうちに{nl}ＴＫがすいこまれてしまった！！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at5}\"Money-Guzzler Box\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}TK got sucked right in!!{key}{end}"
  },
  {
   "id": "404B",
   "jp": "{clr}「ワシは、便利な魔法もアイテムも{nl}持っておらんのだが、何かお前達の{nl}力になってやりたいと思っておるのだ。{key}{nl}{clr}「こんな物でも、少しは戦いの足しに{nl}なるのではないかと、集めておいたぞ。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"I've no handy spells or items to{nl}offer, but I'd still like to lend{nl}you folks a hand somehow.\"{key}{nl}{clr}\"It's not much, but I gathered these{nl}to help a little in your battles.\"{key}{nl}{end}"
  },
  {
   "id": "404C",
   "jp": "{clr}{v1}が歩いていると、とつぜん{nl}流れ魔法が飛んできた！！{key}{nl}{clr}魔法は{v1}の近くの木に当たった！{nl}{v1}『ああー！こわかった！{key}{end}",
-  "en": ""
+  "en": "{clr}As {v1} walked along, a stray{nl}spell suddenly came flying in!!{key}{nl}{clr}The spell hit a tree near {v1}!{nl}{v1}: \"Whoa! That was scary!\"{key}{end}"
  },
  {
   "id": "404D",
   "jp": "{clr}「けっ！何がサイランドの勇者だ！{nl}オレは気に食わないね！マジで！{key}{nl}{clr}「王様はアンタ達に、いろいろ用立てて{nl}いるそうじゃないか。そんな事よりも{nl}オレ達国民のために金を使うべきだ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Tch! 'Heroes of Siland,' my foot!{nl}I can't stand you lot! Seriously!\"{key}{nl}{clr}\"I hear the King's been supplying{nl}you people with all sorts of stuff.{nl}He oughta spend it on us citizens!\"{key}{end}"
  },
  {
   "id": "404E",
   "jp": "{clr}{v1}は気分が悪くなった。{nl}さっき食べたチーズがいけなかった{nl}のだろうか？{key}{nl}{clr}{v1}『くッ！くるしいっ…！{key}{nl}{clr}{v1}『あうっ！マジでくるしい！{key}{nl}はあはあはあ…。うううう……。{nl}だ、誰か…、たすけ…て…{key}{nl}{clr}{v1}は、体調が良くなるまで{nl}しばらくオヤスミする事にした。{nl}はやく良くなってね！{v1}さん！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} started feeling sick.{nl}Was it that cheese from earlier?{key}{nl}{clr}{v1}: \"Ngh! The pain...!\"{key}{nl}{clr}{v1}: \"Agh! This seriously hurts!{key}{nl}Hah... hah... hah... Uuugh......{nl}S-somebody... h-help... me...\"{key}{nl}{clr}{v1} decided to rest a while{nl}until feeling better.{nl}Get well soon, {v1}-san!{key}{end}"
  },
  {
   "id": "404F",
   "jp": "{clr}{v1}『へっくしゅっ！！{key}{nl}{clr}{v1}はクシャミをしたひょうしに{nl}ダイスを落としてしまった。{key}{nl}{clr}{nl}        ポト{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Ah-choo!!\"{key}{nl}{clr}Mid-sneeze, {v1}{nl}dropped the dice.{key}{nl}{clr}{nl}{at8}Plop{key}{end}"
  },
  {
   "id": "4050",
   "jp": "{clr}{v1}『ああ！ダイスダイス…{key}{nl}{clr}{v1}はダイスを探したが、なかなか{nl}見つからない。ダイスを探している間に{nl}お金を落としてしまった！{key}{nl}{clr}{nl}      チャリ～～ン{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Ah! My dice, my dice...\"{key}{nl}{clr}{v1} looked for the dice, but they{nl}just wouldn't turn up. And while{nl}searching, some money fell out!{key}{nl}{clr}{nl}{at7}Ka-chiiing~{key}{end}"
  },
  {
   "id": "4051",
   "jp": "{clr}{v1}『ああ！ＴＫ、ＴＫ…{key}{nl}{clr}{v1}はお金を探したが、なかなか{nl}見つからない。{key}{nl}{clr}お金を探している間に……{key}{nl}{clr}このぐらいにしておきましょう。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Ah! My TK, my TK...\"{key}{nl}{clr}{v1} looked for the money, but{nl}it just wouldn't turn up.{key}{nl}{clr}And while searching for the money......{key}{nl}{clr}Let's just leave it at that.{key}{end}"
  },
  {
   "id": "4052",
   "jp": "{clr}{v1}は、不思議な光をはなつ{nl}ふるめかしい宝箱を見つけた。{key}{nl}{clr}箱の表面に、こう書かれている。{key}{nl}{clr}{nl}    「金食いの箱ターボ」{key}{nl}{clr}{v1}は{nl}あわてて飛び退いたが、見る見るうちに{nl}ＴＫがすいこまれてしまった！！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at3}\"Money-Guzzler Box Turbo\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}TK got sucked right in!!{key}{end}"
  }
 ]

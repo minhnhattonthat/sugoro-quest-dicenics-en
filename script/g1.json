@@ -2,276 +2,276 @@
  {
   "id": "1000",
   "jp": "{clr}    {v1}の攻撃！{end}",
-  "en": ""
+  "en": "{clr}{v1} attacks!{end}"
  },
  {
   "id": "1001",
   "jp": "{clr}{v1}は{nl}{v5}を唱えた！{end}",
-  "en": ""
+  "en": "{clr}{v1} cast{nl}{v5}!{end}"
  },
  {
   "id": "1002",
   "jp": "{clr}{v1}は{nl}{v6}を使った！{end}",
-  "en": ""
+  "en": "{clr}{v1} used{nl}{v6}!{end}"
  },
  {
   "id": "1003",
   "jp": "{clr}{v1}は{nl}{v5}している！{end}",
-  "en": ""
+  "en": "{clr}{v1} is under{nl}the effect of {v5}!{end}"
  },
  {
   "id": "1004",
   "jp": "{clr}{v1}は、ぼうぎょした！{end}",
-  "en": ""
+  "en": "{clr}{v1} is on guard!{end}"
  },
  {
   "id": "1005",
   "jp": "{clr}      {v9}発ヒット！{end}",
-  "en": ""
+  "en": "{clr}{v9} hit(s)!{end}"
  },
  {
   "id": "1006",
   "jp": "{clr} {v5} レベル{v9}！{end}",
-  "en": ""
+  "en": "{clr}{v5} Level {v9}!{end}"
  },
  {
   "id": "1007",
   "jp": "{clr}{v1}のＨＰが{nl}{v9}ポイントアップ！{end}",
-  "en": ""
+  "en": "{clr}{v1}'s HP went up{nl}by {v9} points!{end}"
  },
  {
   "id": "1008",
   "jp": "{clr}     トータルダメージ！{nl} {v9} ＶＳ{end}",
-  "en": ""
+  "en": "{clr}Total damage!{nl}{v9} VS{end}"
  },
  {
   "id": "1009",
   "jp": " {v9}{wait0}{end}",
-  "en": ""
+  "en": " {v9}{wait0}{end}"
  },
  {
   "id": "100A",
   "jp": "{clr}  {v1}パーティーの勝利！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s party wins!{wait0}{end}"
  },
  {
   "id": "100B",
   "jp": "{clr}  {v2}パーティーの勝利！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v2}'s party wins!{wait0}{end}"
  },
  {
   "id": "100C",
   "jp": "{clr}    モンスター達の勝利！{wait0}{end}",
-  "en": ""
+  "en": "{clr}The monsters win!{wait0}{end}"
  },
  {
   "id": "100D",
   "jp": "{clr}{v1}は、特殊能力{nl}『{v5}』を使った！{end}",
-  "en": ""
+  "en": "{clr}{v1} used the special ability{nl}\"{v5}\"!{end}"
  },
  {
   "id": "100E",
   "jp": "{clr}    {v7}の攻撃！{end}",
-  "en": ""
+  "en": "{clr}{v7} attacks!{end}"
  },
  {
   "id": "100F",
   "jp": "{clr}{v7}は{nl}{v5}を唱えた！{end}",
-  "en": ""
+  "en": "{clr}{v7} cast{nl}{v5}!{end}"
  },
  {
   "id": "1010",
   "jp": "{clr}{v7}は{nl}{v6}を使った！{end}",
-  "en": ""
+  "en": "{clr}{v7} used{nl}{v6}!{end}"
  },
  {
   "id": "1011",
   "jp": "{clr}{v7}は{nl}{v5}している！{end}",
-  "en": ""
+  "en": "{clr}{v7} is under{nl}the effect of {v5}!{end}"
  },
  {
   "id": "1012",
   "jp": "{clr}{v7}は、ぼうぎょした！{end}",
-  "en": ""
+  "en": "{clr}{v7} is on guard!{end}"
  },
  {
   "id": "1013",
   "jp": "{clr}{v7}のＨＰが{nl}{v9}ポイントアップ！{end}",
-  "en": ""
+  "en": "{clr}{v7}'s HP went up{nl}by {v9} points!{end}"
  },
  {
   "id": "1014",
   "jp": "{clr}{v1}は、{v2}から{nl}{v10}をいただいた！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} robbed {v2}{nl}of {v10}!{wait0}{end}"
  },
  {
   "id": "1015",
   "jp": "{clr}{v1}は、{v2}から{nl}{v8}をいただいた！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} robbed {v2}{nl}of {v8}!{wait0}{end}"
  },
  {
   "id": "1016",
   "jp": "{clr}{v1}は、{v2}から{nl}{v5}をいただいた！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} robbed {v2}{nl}of {v5}!{wait0}{end}"
  },
  {
   "id": "1017",
   "jp": "{clr}{v1}は、{v2}から{nl}{v6}をいただいた！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} robbed {v2}{nl}of {v6}!{wait0}{end}"
  },
  {
   "id": "1018",
   "jp": "{clr}{v1}は、{v2}から{nl}{v9}ＴＫいただいた！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} robbed {v2}{nl}of {v9} TK!{wait0}{end}"
  },
  {
   "id": "1019",
   "jp": "{clr}{v1}は{v2}から{nl}うばえる物が何もなかった！{wait0}{end}",
-  "en": ""
+  "en": "{clr}{v1} found nothing{nl}to steal from {v2}!{wait0}{end}"
  },
  {
   "id": "101A",
   "jp": "{clr}   大きな目が出やすくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}High rolls come up more often now!{wait2}{end}"
  },
  {
   "id": "101B",
   "jp": "{clr}   大きな目が出にくくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}High rolls come up less often now!{wait2}{end}"
  },
  {
   "id": "101C",
   "jp": "{clr}    ６しか出なくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Now only 6s will come up!{wait2}{end}"
  },
  {
   "id": "101D",
   "jp": "{clr}    １しか出なくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Now only 1s will come up!{wait2}{end}"
  },
  {
   "id": "101E",
   "jp": "{clr}もうファイアーボールは、こわくない！{wait2}{nl}{end}",
-  "en": ""
+  "en": "{clr}Fireball is no longer scary!{wait2}{nl}{end}"
  },
  {
   "id": "101F",
   "jp": "{clr}    ファイアーで回復！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Fire now heals!{wait2}{end}"
  },
  {
   "id": "1020",
   "jp": "{clr}もうサンダーボルトは、こわくない！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Thunderbolt is no longer scary!{wait2}{end}"
  },
  {
   "id": "1021",
   "jp": "{clr}     サンダーで回復！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Thunder now heals!{wait2}{end}"
  },
  {
   "id": "1022",
   "jp": "{clr}もうアシッドレインは、こわくない！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Acid Rain is no longer scary!{wait2}{end}"
  },
  {
   "id": "1023",
   "jp": "{clr}     アシッドで回復！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Acid now heals!{wait2}{end}"
  },
  {
   "id": "1024",
   "jp": "{clr}{v1}は{nl}{v9}ＥＸＰ獲得！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} gained{nl}{v9} EXP!{key}{end}"
  },
  {
   "id": "1025",
   "jp": "{clr}{v1}はモンスターから{nl}{v6}を獲得！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} got from the monster:{nl}{v6}!{key}{end}"
  },
  {
   "id": "1026",
   "jp": "{clr}{v1}はモンスターから{nl}{v5}を獲得{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} got from the monster:{nl}{v5}!{key}{end}"
  },
  {
   "id": "1027",
   "jp": "{clr}{v1}はモンスターから{nl}{v8}を獲得{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} got from the monster:{nl}{v8}!{key}{end}"
  },
  {
   "id": "1028",
   "jp": "{clr}{v1}はモンスターから{nl}{v6}を獲得{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} got from the monster:{nl}{v6}!{key}{end}"
  },
  {
   "id": "1029",
   "jp": "{clr}{v1}達は{wait0}ついに！{wait0}{nl}{clr}死の魔王{wait0}プロブレマティカを{nl}倒した{wait2}！{wait2}！{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s party{wait0} has finally{wait0}...{nl}{clr}defeated the Demon Lord of Death,{wait0}{nl}Problematica{wait2}!{wait2}!{wait1}{wait1}{end}"
  },
  {
   "id": "102A",
   "jp": "{clr}  {v1}は、やわらかくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}{v1} softened up!{wait2}{end}"
  },
  {
   "id": "102B",
   "jp": "{clr} モンスターは、やわらかくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}The monsters softened up!{wait2}{end}"
  },
  {
   "id": "102C",
   "jp": "{clr}   {v1}は、かたくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}{v1} toughened up!{wait2}{end}"
  },
  {
   "id": "102D",
   "jp": "{clr}  モンスターは、かたくなった！{wait2}{end}",
-  "en": ""
+  "en": "{clr}The monsters toughened up!{wait2}{end}"
  },
  {
   "id": "102E",
   "jp": "{clr}{v1}の、{nl}５００ＴＫのカードはムダになった。{wait2}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s{nl}500 TK card went to waste.{wait2}{end}"
  },
  {
   "id": "102F",
   "jp": "{clr}{v1}の、{nl}９９９９ＴＫのカードはムダになった。{wait2}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s{nl}9999 TK card went to waste.{wait2}{nl}{end}"
  },
  {
   "id": "1030",
   "jp": "{clr}{v1}の、５００ＴＫのカードは{nl}見事に的中！５００ＴＫ手に入れた！{wait2}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s 500 TK card{nl}hit the mark! Won 500 TK!{wait2}{end}"
  },
  {
   "id": "1031",
   "jp": "{clr}{v1}の、９９９９ＴＫのカードは{nl}見事に的中！９９９９ＴＫ手に入れた！{wait2}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s 9999 TK card{nl}hit the mark! Won 9999 TK!{wait2}{nl}{end}"
  },
  {
   "id": "1032",
   "jp": "{clr} ダイスマンは死んでいなかった！！{wait2}{end}",
-  "en": ""
+  "en": "{clr}The Diceman wasn't dead!!{wait2}{end}"
  },
  {
   "id": "1033",
   "jp": "{clr}  ダイスマンはいきかえった！！{wait2}{end}",
-  "en": ""
+  "en": "{clr}The Diceman came back to life!!{wait2}{end}"
  },
  {
   "id": "1034",
   "jp": "{clr}バックグラウンド全員も{nl}{v9}ポイント回復！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Everyone in the background also{nl}recovers {v9} points!{wait0}{end}"
  },
  {
   "id": "1035",
   "jp": "{clr} ブレイクするダイスマンがいない！{wait0}{end}",
-  "en": ""
+  "en": "{clr}There's no Diceman to Break!{wait0}{end}"
  },
  {
   "id": "1036",
   "jp": "{clr}  ダイスマンブレイクしっぱい！{wait2}{end}",
-  "en": ""
+  "en": "{clr}Diceman Break failed!{wait2}{end}"
  }
 ]

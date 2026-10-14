@@ -444,37 +444,37 @@
  {
   "id": "705A",
   "jp": "{clr}  あと５０００ＴＫで終了です！{wait0}{nl}{clr}   がんばって稼いで下さい！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Just 5000 TK more until the end!{wait0}{nl}{clr}Work hard and earn it!{wait1}{end}"
  },
  {
   "id": "705B",
   "jp": "{clr}  スタートから１５分たちました{wait0}{nl}{clr}     あと１５分です！{wait1}{end}",
-  "en": ""
+  "en": "{clr}15 minutes have passed since the start.{wait0}{nl}{clr}15 minutes left!{wait1}{end}"
  },
  {
   "id": "705C",
   "jp": "{clr}    あと５分で終了です！{wait1}{end}",
-  "en": ""
+  "en": "{clr}5 minutes left until the end!{wait1}{end}"
  },
  {
   "id": "705D",
   "jp": "{clr}  スタートから３０分たちました{wait0}{nl}{clr}  のこり半分がんばって下さい！{wait1}{end}",
-  "en": ""
+  "en": "{clr}30 minutes have passed since the start.{wait0}{nl}{clr}Halfway there, keep it up!{wait1}{end}"
  },
  {
   "id": "705E",
   "jp": "{clr}  あと１０分でゲーム終了です！{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
-  "en": ""
+  "en": "{clr}10 minutes left until the game ends!{wait0}{nl}{clr}Now the real contest begins!{wait0}{end}"
  },
  {
   "id": "705F",
   "jp": "{clr}  あと１回誰かが死ぬと終了です{wait1}{end}",
-  "en": ""
+  "en": "{clr}1 more death and the game ends.{wait1}{end}"
  },
  {
   "id": "7060",
   "jp": "{clr} ２０００ＴＫ集めた人がいます{wait0}{nl}{clr} あと半分です、がんばりましょう。{wait1}{nl}{end}",
-  "en": ""
+  "en": "{clr}Someone has collected 2000 TK!{wait0}{nl}{clr}Halfway there, let's keep going.{wait1}{nl}{end}"
  },
  {
   "id": "7061",
@@ -483,371 +483,371 @@
  {
   "id": "7062",
   "jp": "{clr}  のこり５００ＴＫの人がいます{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Someone is just 500 TK away!{wait0}{nl}{clr}Now the real contest begins!{wait0}{end}"
  },
  {
   "id": "7063",
   "jp": "{clr}   ＢＧＭをえらんでください{end}",
-  "en": ""
+  "en": "{clr}Please choose the BGM.{end}"
  },
  {
   "id": "7064",
   "jp": "{clr}おつかれさまでした！４人の勇者達よ！{nl}謁見の間で、王様がおまちかねです。{nl}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}Great work, four heroes!{nl}The King awaits you in the{nl}audience chamber.{wait1}{wait1}{end}"
  },
  {
   "id": "7065",
   "jp": "{clr}「おお、{wait0}無事もどったか！{nl}ごくろうじゃった！ワシはうれしいぞ！{key}{nl}{clr}「おぬし達のかつやくのウワサは、{nl}ワシの所へも聞こえてまいった。{key}{nl}{clr}「なかなかの{nl}勇ましい戦いぶりだったそうじゃな。{key}{nl}{clr}「ワシもハナが高いぞ。ホッホッホ{key}{nl}{clr}「うぉっほん。{key}{nl}では、おぬし達の成績を見てみる事に{nl}いたす。心して聞くがよい。{key}{end}",
-  "en": ""
+  "en": "{clr}Oh,{wait0} you've returned safe and sound!{nl}Well done! This makes me so happy!{key}{nl}{clr}Rumors of your great deeds{nl}have reached even my ears.{key}{nl}{clr}I hear you fought{nl}most valiantly out there.{key}{nl}{clr}You make me so proud. Ho ho ho.{key}{nl}{clr}Ahem.{key}{nl}Now then, I shall review your results.{nl}Listen closely.{key}{end}"
  },
  {
   "id": "7066",
   "jp": "{clr}「{v1}よ、おぬしのスコアは{nl}{v9}０ポイントじゃ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}, your score is{nl}{v9}0 points.{key}{end}"
  },
  {
   "id": "7067",
   "jp": "{clr}「続いて、{nl}{v1}の持ち物を清算いたす！{key}{clr}{end}",
-  "en": ""
+  "en": "{clr}Next, I shall tally up{nl}{v1}'s belongings!{key}{clr}{end}"
  },
  {
   "id": "7068",
   "jp": "{clr}「うぉっほん。{nl}では各賞の発表にまいるぞ。{key}{end}",
-  "en": ""
+  "en": "{clr}Ahem.{nl}Now for the special awards.{key}{end}"
  },
  {
   "id": "7069",
   "jp": "{clr}「はじめは、{nl}いちばんクエストを解いたで賞！じゃ！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}First up, the{nl}Most Quests Cleared Award!{key}{nl}{end}"
  },
  {
   "id": "706A",
   "jp": "{clr}「つづいて、{nl}いちばんレベルが上がったで賞じゃ！{key}{end}",
-  "en": ""
+  "en": "{clr}Next, the{nl}Most Levels Gained Award!{key}{end}"
  },
  {
   "id": "706B",
   "jp": "{clr}「さいごに、{nl}いちばんたくさん死んだで賞じゃ！{key}{end}",
-  "en": ""
+  "en": "{clr}And last, the{nl}Most Deaths Award!{key}{end}"
  },
  {
   "id": "706C",
   "jp": "{clr}「{v1}よ、良くぞなしとげた！{nl}{v9}ポイントをつかわす。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}, splendidly done!{nl}I grant you {v9} points.{key}{end}"
  },
  {
   "id": "706D",
   "jp": "{clr}「{v1}よ、何をしておったのやら…。{nl}{v9}ポイントマイナスじゃ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}, what were you even doing...?{nl}Minus {v9} points!{key}{end}"
  },
  {
   "id": "706E",
   "jp": "{clr}「ざんねんながら、この賞は該当者なし{nl}じゃったわい。ワシが１０００ポイント{nl}もらっておこう。{key}{end}",
-  "en": ""
+  "en": "{clr}Alas, no one qualified for this{nl}award. I shall keep the 1000 points{nl}for myself.{key}{end}"
  },
  {
   "id": "706F",
   "jp": "{clr}「うむ！では順位の発表じゃ！！{key}{end}",
-  "en": ""
+  "en": "{clr}Very well! Now for the rankings!!{key}{end}"
  },
  {
   "id": "7070",
   "jp": "{clr}      ４位！！{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at7}4th place!!{wait1}{end}"
  },
  {
   "id": "7071",
   "jp": "{clr}      ３位！！{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at7}3rd place!!{wait1}{end}"
  },
  {
   "id": "7072",
   "jp": "{clr}      ２位！！{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at7}2nd place!!{wait1}{end}"
  },
  {
   "id": "7073",
   "jp": "{clr}「{v1}であるッ！！{key}{end}",
-  "en": ""
+  "en": "{clr}It is {v1}!!{key}{end}"
  },
  {
   "id": "7074",
   "jp": "{clr}「のこるは…{wait0}{wait2}{end}",
-  "en": ""
+  "en": "{clr}And the last one is...{wait0}{wait2}{end}"
  },
  {
   "id": "7075",
   "jp": "{clr}     {v1}さん！！{wait1}{wait0}{nl}{clr}  お{wait2}  め{wait2}  で{wait2}  と{wait2}  う{nl}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at5}{v1}-san!!{wait1}{wait0}{nl}{clr}{at1}Con{wait2}{at5}gra{wait2}{at9}tu{wait2}{at12}la{wait2}{at15}tions!{nl}{wait1}{end}"
  },
  {
   "id": "7076",
   "jp": "{clr}また遊んでね！！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Come play again!!{wait1}{end}"
  },
  {
   "id": "7077",
   "jp": "{clr}「やぁ～、ボク、ダイスマン１ごう。{key}{nl}{clr}「ＨＰもダイスも、ぜんぶ１。{key}{nl}{clr}「ふっ…。{key}{nl}{clr}「こんなボクだけど～！{nl}最後に、しきらせてもらうよ。{key}{end}",
-  "en": ""
+  "en": "{clr}Hiya~, I'm Diceman No. 1.{key}{nl}{clr}My HP and my dice are all just 1.{key}{nl}{clr}Heh...{key}{nl}{clr}Lowly as I am~!{nl}I'll be hosting the finale.{key}{end}"
  },
  {
   "id": "7078",
   "jp": "{clr}「{v9}Ｐの{v1}を{nl}使っていた人の名前が聞きたいなー。{end}",
-  "en": ""
+  "en": "{clr}I'd like the name of whoever{nl}played the {v9}P {v1}.{end}"
  },
  {
   "id": "7079",
   "jp": "{clr}    {v9}Ｐ {v1}{end}",
-  "en": ""
+  "en": "{clr}{v9}P {v1}{end}"
  },
  {
   "id": "707A",
   "jp": "{clr}「おっけい、次は{nl}キャラクターをセーブする場所を{nl}えらんでほしいんだな。{key}{end}",
-  "en": ""
+  "en": "{clr}Okey-dokey, next I need you{nl}to pick a place to save{nl}your character.{key}{end}"
  },
  {
   "id": "707B",
   "jp": "{clr}{v5}さん、どこにセーブする？{end}",
-  "en": ""
+  "en": "{clr}{v5}-san, where to save?{end}"
  },
  {
   "id": "707C",
   "jp": "{clr}「おぉぉ～～！！すごいや。{nl}{v5}さんが、ハイスコアの{nl}トップ１０入りしたらしいぞ。{key}{end}",
-  "en": ""
+  "en": "{clr}Whoaaa~!! Amazing!{nl}Looks like {v5}-san made it{nl}into the high score top 10!{key}{end}"
  },
  {
   "id": "707D",
   "jp": "{clr}「じゃ～、ハイスコアを見ながら{nl}おわかれしようかな。{wait1}{wait1}{wait1}{nl}{clr}「ファンレターまってるよ！{nl}バイバイ！{wait1}{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}Well then~, let's say goodbye{nl}while we look at the high scores.{wait1}{wait1}{wait1}{nl}{clr}I'll be waiting for your fan letters!{nl}Bye-bye!{wait1}{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "707E",
   "jp": "{clr}すでに４人参加しているので{nl}    途中参加はできません{wait1}{end}",
-  "en": ""
+  "en": "{clr}Four players are already in, so{nl}no one else can join mid-game.{wait1}{end}"
  },
  {
   "id": "707F",
   "jp": "{clr}ゲームに途中参加する人は{nl}  スタートボタンを押して下さい{end}",
-  "en": ""
+  "en": "{clr}To join the game in progress,{nl}press the START button.{end}"
  },
  {
   "id": "7080",
   "jp": "{clr}ただいま１人プレイですので{nl}      途中抜けはできません{wait1}{end}",
-  "en": ""
+  "en": "{clr}This is a 1-player game, so{nl}no one can leave mid-game.{wait1}{end}"
  },
  {
   "id": "7081",
   "jp": "{clr}ゲームを途中で抜ける人は{nl}  スタートボタンを押して下さい{end}",
-  "en": ""
+  "en": "{clr}To leave the game in progress,{nl}press the START button.{end}"
  },
  {
   "id": "7082",
   "jp": "{clr}全員抜ける事はできません{nl}     やりなおして下さい{wait1}{end}",
-  "en": ""
+  "en": "{clr}Not everyone can leave.{nl}Please try again.{wait1}{end}"
  },
  {
   "id": "7083",
   "jp": "{clr}どのルールに変更しますか？{end}",
-  "en": ""
+  "en": "{clr}Which rule do you want to switch to?{end}"
  },
  {
   "id": "7084",
   "jp": "{clr} このルールは、{nl}すでに達成されていますが…{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}This rule has{nl}already been met, though...{wait1}{wait0}{end}"
  },
  {
   "id": "7085",
   "jp": "{clr}ゲームをセーブします{wait0}{nl}{clr}  {wait0}…{wait0}…{wait0}…{wait0}セーブかんりょう！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Saving the game.{wait0}{nl}{clr}{wait0}...{wait0}...{wait0}...{wait0}Save complete!{wait1}{end}"
  },
  {
   "id": "7086",
   "jp": "{clr}{v1}はレベルが上がった！{wait1}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} leveled up!{wait1}{nl}{end}"
  },
  {
   "id": "7087",
   "jp": "レベル{v9}になり、ボーナス{nl}{end}",
-  "en": ""
+  "en": "Now at Level {v9}! Earned a bonus{nl}{end}"
  },
  {
   "id": "7088",
   "jp": "ポイントを{v9}０獲得！{key}{end}",
-  "en": ""
+  "en": "of {v9}0 points!{key}{end}"
  },
  {
   "id": "7089",
   "jp": "{clr}{v1}さんは１位ですね。{key}{nl}{clr}なかなか調子が良いようですが、{nl}{v3}に抜かれないようにね！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san, you're in 1st place.{key}{nl}{clr}You seem to be on a roll, but{nl}don't let {v3} overtake you!{key}{end}"
  },
  {
   "id": "708A",
   "jp": "{clr}１位は{v1}さんです！{key}{nl}{clr}このペースでどんどん{nl}{v3}を、ひきはなしましょう！{key}{end}",
-  "en": ""
+  "en": "{clr}In 1st place is {v1}-san!{key}{nl}{clr}Keep up this pace and leave{nl}{v3} in the dust!{key}{end}"
  },
  {
   "id": "708B",
   "jp": "{clr}１位は{v1}さんです。{key}{nl}{clr}でも{v3}も、だまって{nl}見ているわけではありませんね。{key}{end}",
-  "en": ""
+  "en": "{clr}In 1st place is {v1}-san.{key}{nl}{clr}But {v3} won't just sit{nl}back and watch, you know.{key}{end}"
  },
  {
   "id": "708C",
   "jp": "{clr}２位は{v1}さんのようです！{key}{nl}{clr}１位の{v2}と、３位の{v3}に{nl}目を光らせましょうね！{key}{end}",
-  "en": ""
+  "en": "{clr}Looks like {v1}-san is 2nd!{key}{nl}{clr}Keep an eye on {v2} in 1st{nl}and {v3} in 3rd!{key}{end}"
  },
  {
   "id": "708D",
   "jp": "{clr}２位は{v1}さんですね。{key}{nl}{clr}ここはひとつ、１位の{v2}に{nl}魔法でも飛ばしてみませんか？{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 2nd place.{key}{nl}{clr}Why not try flinging a spell{nl}at {v2} in 1st place?{key}{end}"
  },
  {
   "id": "708E",
   "jp": "{clr}２位は{v1}さんです！{key}{nl}{clr}３位の{v3}の攻撃に{nl}用心した方がいいですよ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 2nd place!{key}{nl}{clr}Better watch out for attacks{nl}from {v3} in 3rd.{key}{end}"
  },
  {
   "id": "708F",
   "jp": "{clr}３位は{v1}さんのようです{key}{nl}{clr}３位ってなかなか大変ですよね。{nl}でも{v2}も、きっと大変ですよ！{key}{end}",
-  "en": ""
+  "en": "{clr}Looks like {v1}-san is 3rd.{key}{nl}{clr}3rd place is pretty rough, huh?{nl}But it must be rough for {v2} too!{key}{end}"
  },
  {
   "id": "7090",
   "jp": "{clr}３位は{v1}さんです！{key}{nl}{clr}もうこうなったら、誰でもいいから{nl}攻撃してみませんか？{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 3rd place!{key}{nl}{clr}At this point, why not attack{nl}anyone at all?{key}{end}"
  },
  {
   "id": "7091",
   "jp": "{clr}３位は{v1}さんですね。{key}{nl}{clr}４位の{v3}が{v1}を{nl}ねらっている気がします。ご用心！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 3rd place.{key}{nl}{clr}I sense {v3} in 4th is after{nl}{v1}. Be careful!{key}{end}"
  },
  {
   "id": "7092",
   "jp": "{clr}４位は{v1}さんです！{key}{nl}{clr}ビリケツですけど、めげずに{nl}がんばって下さいね。{v1}さん！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 4th place!{key}{nl}{clr}Dead last, but don't give up!{nl}Hang in there, {v1}-san!{key}{end}"
  },
  {
   "id": "7093",
   "jp": "{clr}４位は{v1}さんのようです！{key}{nl}{clr}なあに、ゆっくりと{v2}を{nl}抜けばいいんですよ！ゆっくりとね！{key}{end}",
-  "en": ""
+  "en": "{clr}Looks like {v1}-san is 4th!{key}{nl}{clr}No worries, just pass {v2}{nl}nice and slow! Nice and slow!{key}{end}"
  },
  {
   "id": "7094",
   "jp": "{clr}４位は{v1}さんですね。{key}{nl}{clr}ここはひとつ、３位の{v2}に{nl}戦闘でも、しかけてみませんか？{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}-san is in 4th place.{key}{nl}{clr}Why not pick a fight with{nl}{v2} in 3rd place?{key}{end}"
  },
  {
   "id": "7095",
   "jp": "{clr}最後の戦いは終わり、{nl}勇者達はサイランド城に集まった。{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}The final battle was over, and the{nl}heroes gathered at Siland Castle.{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "7096",
   "jp": "{clr}{wait1}{wait1}{wait1}「良くやったな、プリッツ。{nl}オレ達が、魔王ハデスを倒した時の事を{nl}思い出したぜ。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}プリッツ『本当に遠い道のりだったよ、{nl}途中、何回もくじけそうになったよ。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そうだな……{wait1}オレ達もそうだった。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}プリッツ『ねえ！ボクといっしょに{nl}冒険をしない？{wait1}ううん、いっしょに{nl}連れてってくれない？いいでしょ？{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「それも悪くないな。{wait1}オレはこれから{nl}山をこえて、辺境世界を冒険しようと{nl}思っている。{wait0}お前も来るか？{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Well done, Pritz. Takes me back{nl}to the day we brought down{nl}the Demon Lord Hades.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Pritz: It was a really long road.{nl}I almost gave up so many times.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Yeah...{wait1} It was the same for us.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Pritz: Hey! Wanna go adventuring{nl}with me?{wait1} No, wait, will you{nl}take me along? Pretty please?{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Not a bad idea.{wait1} Next, I'm heading{nl}over the mountains to explore the{nl}frontier.{wait0} Want to come along?{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "7097",
   "jp": "{clr}{wait1}{wait1}{wait1}「くーー！！{wait0}やっぱオレの目には{nl}くるいはなかった！！タンギーーー！{nl}お前ならやってくれると思っていたぜ！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}タンギー『でしょでしょ～～？{nl}オイラ強いからァ～。当たり前といえば{nl}当たり前だしぃ。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「なぁ！オレ達さあ、気が合うよなぁ？{nl}どうだい？２人で商売やろうぜェ～！{wait1}{wait1}{nl}タンギーとローギーの武器屋！いいだろ！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}{wait0}タンギー『オウ！ナイスアイデアだ！{wait1}{wait1}{wait1}{nl}{clr}{wait0}「武器屋の名前はもう決めてあるんだ！{wait1}{wait1}{nl}ダブルドラゴンってーのさ！{nl}どうだい？ブラザー？{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Yesss!!{wait0} I knew my eyes{nl}didn't deceive me!! Tanguyyyy!{nl}I knew you could pull it off!{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Tanguy: Toldja, toldja~~?{nl}I'm strong, y'knooow~. It's only{nl}natural, if ya think about it.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Hey! We really hit it off, huh?{nl}Whaddaya say? Let's go into business!{wait1}{wait1}{nl}Tanguy and Rogie's Weapon Shop! Huh?{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}{wait0}Tanguy: Yeah! Great idea!{wait1}{wait1}{wait1}{nl}{clr}{wait0}I already picked the shop's name!{wait1}{wait1}{nl}We call it \"Double Dragon\"!{nl}How 'bout it, brother?{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "7098",
   "jp": "{clr}{wait1}{wait1}{wait1}ウルリク『どうじゃ？勇ましい私の{nl}かつやくを見て、おヌシもウルリク教に{nl}入信したくなったであろう？{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「い、いや…。{wait0}{nl}ワシはえんりょしておくわい。{wait1}{wait1}{wait1}{nl}{clr}{wait0}ウルリク『そうか？つまらぬのう。{wait1}{nl}では、ドワーフ教というのを{nl}こしらえてみてはどうじゃ？{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そ、そんなモノ、かんたんに{nl}こしらえて良いんじゃろうか？{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}ウルリク『うむ、かまわぬ。{wait1}{wait1}{nl}{clr}{wait0}「そ、そういうモノなんじゃな…{wait1}{nl}そうか…、{wait0}ドワーフ教…{wait0}ううむむ。{nl}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Ulrik: Well? Having seen my{nl}valiant deeds, surely you now wish{nl}to join the Church of Ulrik?{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}W-well...{wait0}{nl}I believe I shall pass.{wait1}{wait1}{wait1}{nl}{clr}{wait0}Ulrik: No? How dull.{wait1}{nl}Then why not try founding{nl}a Church of Dwarves of your own?{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}S-surely one cannot just{nl}cook up such a thing so easily?{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}Ulrik: Indeed, one can.{wait1}{wait1}{nl}{clr}{wait0}I-is that how it works...{wait1}{nl}I see...{wait0} A Church of Dwarves...{wait0} Hmmm.{nl}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "7099",
   "jp": "{clr}{wait1}{wait1}{wait1}「シンシアちゃんは思いきり{nl}運が悪いのに、最後までがんばったね。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}シンシア『ええ。見て…。{wait1}{nl}魔王を倒してから、運のダイスが２個{nl}持てるようになったのよ…{wait0}ふふ…。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そ、それはすごいね！{wait1}うん。{wait1}{wait1}{nl}後はもう少し、あかるく話せるように{nl}なればカンペキよ！きっと！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}シンシア『う、うん{wait0}、そうね。{wait1}{nl}いつか運のダイスを６個持てるように{nl}なって、おとうさまの所へ帰るわ…。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}「私もおうえんするね！{wait1}{wait1}{nl}{clr}{wait0}{nl}シンシア『うれしい……。{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Cynthia-chan, your luck was awful,{nl}but you kept going to the very end.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Cynthia: Yes. Look...{wait1}{nl}Since the Demon Lord fell, I can{nl}hold two Luck Dice...{wait0} Hehe...{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}W-wow, that's amazing!{wait1} Yeah.{wait1}{wait1}{nl}Now if you could just talk a bit{nl}more cheerfully, you'd be perfect!{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Cynthia: Y-yes{wait0}, you're right.{wait1}{nl}Someday, once I can hold six Luck{nl}Dice, I'll go home to Father...{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}I'll be cheering for you too!{wait1}{wait1}{nl}{clr}{wait0}{nl}Cynthia: That makes me so happy...{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "709A",
   "jp": "{clr}{wait1}{wait1}{wait1}「やァ～、やっつけちゃったんだねえ。{nl}アンタ達がねえ～。ふう～～ん。{wait1}{wait1}{wait1}{nl}{clr}{wait0}「いやいや、これはしっけい。{wait1}{nl}よっぽど弱い魔王だったのかな？{wait1}{wait1}{wait1}{nl}{clr}{wait0}デヒテル『キサマ…{wait1}{wait1}{wait1}{nl}{clr}{wait0}「アッハッハ！おこるなよう！{wait0}{nl}あ、そうだ、強いけど体調が悪い{nl}魔王ってのはどう？クククク。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}デヒテル『おのれ！血をすわれたいか！{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}「キャハハハ！くすぐったい！{nl}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Whoa~, so you actually beat it.{nl}YOU lot, huh~. Hmmmm.{wait1}{wait1}{wait1}{nl}{clr}{wait0}Oh, oh, pardon me.{wait1}{nl}Was the Demon Lord just that weak?{wait1}{wait1}{wait1}{nl}{clr}{wait0}Dechtel: Why, you...{wait1}{wait1}{wait1}{nl}{clr}{wait0}Ahahaha! Don't get mad!{wait0}{nl}Oh, I know! How about: the Demon{nl}Lord was strong but felt sick? Heheh.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Dechtel: Curse you! Want me to{nl}suck your blood?!{wait1}{wait1}{wait1}{nl}{clr}{wait0}{nl}Kyahaha! That tickles!{nl}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "709B",
   "jp": "{clr}{wait1}{wait1}{wait1}ディアナ『王様、私の使命は{nl}終わりましたわ。{wait1}天空へ帰る時が{nl}来ました。おわかれですの。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そうか…{wait1}とうとうその時が来たか。{wait1}{nl}ディアナよ、{wait0}そしてプリッツ、{wait0}タンギー{wait0}{nl}ウルリク、{wait0}シンシア、{wait0}デヒテル。{wait1}{wait1}{nl}{clr}{wait0}「サイランドの全国民になりかわり{nl}礼をいうぞ。心から感謝しておる！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}ディアナ『さようならですわ！{nl}{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{wait1}{wait1}Diana: If it please the King, my{nl}mission is complete~.{wait1} The time has{nl}come to return to the heavens. Farewell~.{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}I see...{wait1} So the time has come at last.{wait1}{nl}Diana,{wait0} and Pritz,{wait0} Tanguy,{wait0}{nl}Ulrik,{wait0} Cynthia,{wait0} Dechtel.{wait1}{wait1}{nl}{clr}{wait0}On behalf of all the people of Siland,{nl}I thank you, from the bottom of my heart!{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}Diana: Farewell, everyone~!{nl}{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "709C",
   "jp": "{clr}    Ｓ Ｕ Ｇ Ｏ Ｒ Ｏ{nl}{nl}   Ｑ Ｕ Ｅ Ｓ Ｔ ＋ ＋{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}       ＴＥＡＭ{nl}     ＳＣＩＲＯＣＣＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}     ＰＲＯＤＵＣＥＤ{nl}{nl}  ＭＡＳＡＯ ＳＨＩＲＯＴＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}  ＭＡＰ  ＰＲＯＧＲＡＭＩＮＧ{nl}{nl} ＭＩＴＳＵＲＵ ＴＡＫＡＨＡＳＨＩ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}ＢＡＴＴＬＥ ＰＲＯＧＲＡＭＩＮＧ{nl}{nl} ＨＩＲＯＥ  ＴＳＵＣＨＩＤＡ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}ＳＥＣＯＮＤ  ＰＲＯＧＲＡＭＩＮＧ{nl}   ＨＩＤＥＹＵＫＩ ＡＢＥ{nl} ＴＡＫＡ～ ＴＡＫＥＮＯＵＣＨＩ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1}ＳＥＣＯＮＤ  ＰＲＯＧＲＡＭＩＮＧ{nl}  ＴＡＫＥＳＩ  ＨＯＳＯＮＯ{nl} ＴＯＳＨＩＹＵＫＩ  ＫＯＮＤＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}   ＭＡＰ  ＧＲＡＰＨＩＣ{nl}{nl}  ＴＥＴＳＵＹＡ ＷＡＨＩＲＡ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}     ＵＮＩＴ ａｎｄ{nl} ＥＦＦＥＣＴＳ  ＧＲＡＰＨＩＣ{nl}   ＫＯＵＪＩ ＭＡＲＵＴＡ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}ＥＶＥＮＴ ＦＡＣＥ ＤＥＳＩＧＮ{nl}{nl}  ＭＡＳＡＯ ＳＨＩＲＯＴＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＭＯＮＳＴＥＲ  ＤＥＳＩＧＮ{nl}{nl}  ＭＡＳＡＯ ＳＨＩＲＯＴＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＭＯＮＳＴＥＲ  ＧＲＡＰＨＩＣ{nl} ＴＡＤＡＳＨＩ ＭＡＲＵＹＡＭＡ{nl}ＨＡＲＵＹＵＫＩ  ＷＡＴＡＮＡＢＥ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＤＩＣＥ・ＭＡＮ  ＤＥＳＩＧＮ{nl}{nl}   ＴＯＲＵ ＴＳＵＢＯＹＡ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}ＧＲＡＰＨＩＣ  ＡＳＳＩＳＴＡＮＴ{nl}{nl}  ＴＳＵＹＯＳＨＩ ＯＴＡＫＥ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1}   ＦＯＮＴ  ＤＥＳＩＧＮ{nl}{nl}ＨＡＲＵＹＵＫＩ  ＷＡＴＡＮＡＢＥ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＬＯＧＯ ＴＹＰＥ ＤＥＳＩＧＮ{nl}{nl}     ＫＯＪＩ ＫＡＩ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}     ＭＵＳＩＣ ＢＹ{nl}{nl} ＫＡＺＵＯ ＳＡＷＡ 『ＤＳＰ』{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＳＰＥＣＩＡＬ ＴＨＡＮＫＳ １{nl}       が  み{nl}  ＳＴＲＡＩＧＨＴ ＳＡＴＯＵ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＳＰＥＣＩＡＬ ＴＨＡＮＫＳ ２{nl}    Ｎｉｎｊａ カシワヤ{nl}   ウルリク教信者のみなさん{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1} ＳＰＥＣＩＡＬ ＴＨＡＮＫＳ ３{nl}   ＢＥＡＲ ＥＡＲ Ｒ子{nl} ＭＩＷＡＫＯ ａｎｄ ＫＡＹＯ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}    ＴＨＡＮＫ ＹＯＵ{nl}       ＦＯＲ{nl}     ＰＬＡＹＩＮＧ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}ＳＥＥ ＹＯＵ ＮＥＸＴ ＱＵＥＳＴ{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at7}S U G O R O{nl}{nl}{at6}Q U E S T + +{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}{at8}TEAM{nl}{at7}SCIROCCO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at7}PRODUCED{nl}{nl}{at6}MASAO SHIROTO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}MAP PROGRAMMING{nl}{nl}{at5}MITSURU TAKAHASHI{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at4}BATTLE PROGRAMMING{nl}{nl}{at6}HIROE TSUCHIDA{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at4}SECOND PROGRAMMING{nl}{at6}HIDEYUKI ABE{nl}{at5}TAKA~ TAKENOUCHI{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at4}SECOND PROGRAMMING{nl}{at6}TAKESI HOSONO{nl}{at6}TOSHIYUKI KONDO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at6}MAP GRAPHIC{nl}{nl}{at6}TETSUYA WAHIRA{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at7}UNIT and{nl}{at5}EFFECTS GRAPHIC{nl}{at6}KOUJI MARUTA{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}EVENT FACE DESIGN{nl}{nl}{at6}MASAO SHIROTO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at6}MONSTER DESIGN{nl}{nl}{at6}MASAO SHIROTO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}MONSTER GRAPHIC{nl}{at5}TADASHI MARUYAMA{nl}{at5}HARUYUKI WATANABE{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at6}DICE MAN DESIGN{nl}{nl}{at6}TORU TSUBOYA{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}GRAPHIC ASSISTANT{nl}{nl}{at6}TSUYOSHI OTAKE{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at6}FONT DESIGN{nl}{nl}{at5}HARUYUKI WATANABE{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}LOGO TYPE DESIGN{nl}{nl}{at7}KOJI KAI{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at7}MUSIC BY{nl}{nl}{at5}KAZUO SAWA \"DSP\"{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}SPECIAL THANKS 1{nl}{at8}GAMI{nl}{at6}STRAIGHT SATOU{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}SPECIAL THANKS 2{nl}{at6}Ninja KASHIWAYA{nl}{at3}CHURCH OF ULRIK FAITHFUL{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{wait1}{wait1}{wait1}{at5}SPECIAL THANKS 3{nl}{at6}BEAR EAR R-KO{nl}{at5}MIWAKO and KAYO{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{nl}{clr}{at7}THANK YOU{nl}{at8}FOR{nl}{at7}PLAYING{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{nl}{clr}{nl}{at5}SEE YOU NEXT QUEST{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "709D",
   "jp": "{clr}    リバースされました！{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at6}Reversed!{wait1}{end}"
  },
  {
   "id": "709E",
   "jp": "{clr}   シャッフルされました！{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at6}Shuffled!{wait1}{end}"
  },
  {
   "id": "709F",
   "jp": "{clr}「{v9}Ｐの{v1}は、ロードした{nl}キャラだから勝手にセーブしておくよ。{end}",
-  "en": ""
+  "en": "{clr}The {v9}P {v1} is a loaded{nl}character, so I'll just save it for you.{end}"
  },
  {
   "id": "70A0",
   "jp": "{clr}どのプリッツをロードするかなァ？{end}",
-  "en": ""
+  "en": "{clr}Which Pritz shall we load, hmm?{end}"
  },
  {
   "id": "70A1",
   "jp": "{clr}どのタンギーをロードするんだァ～？{end}",
-  "en": ""
+  "en": "{clr}Which Tanguy ya gonna load~?{end}"
  },
  {
   "id": "70A2",
   "jp": "{clr}どのウルリクをロードするのじゃ？{end}",
-  "en": ""
+  "en": "{clr}Which Ulrik wilt thou load, hm?{end}"
  },
  {
   "id": "70A3",
   "jp": "{clr}どのシンシアをロードしようかしら…{end}",
-  "en": ""
+  "en": "{clr}Which Cynthia to load, I wonder...{end}"
  },
  {
   "id": "70A4",
   "jp": "{clr}どのデヒテル様をロードするんだ？{end}",
-  "en": ""
+  "en": "{clr}Which Dechtel-sama will you load?{end}"
  },
  {
   "id": "70A5",
   "jp": "{clr}どのディアナをロードしますの？{end}",
-  "en": ""
+  "en": "{clr}Which Diana shall you load~?{end}"
  },
  {
   "id": "70A6",
   "jp": "{clr}    コンティニューエラー{wait1}{nl}{clr}セーブされているデータは{nl}マルチタップを使用したプレイです{wait1}{wait1}{wait1}{nl}{clr}コンティニューするにはマルチタップを{nl}せつぞくするひつようがあります{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at4}Continue Error{wait1}{nl}{clr}The saved data is from a game{nl}played with a Multitap.{wait1}{wait1}{wait1}{nl}{clr}To continue, you need to{nl}connect a Multitap.{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "70A7",
   "jp": "{clr}セーブデータがありません！{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}No save data found!{wait1}{wait1}{end}"
  },
  {
   "id": "70A8",
   "jp": "{clr}マウスがせつぞくされています{wait1}{nl}{clr}マウスを抜いて{nl}リセットボタンを押して下さい{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}A mouse is connected.{wait1}{nl}{clr}Please unplug the mouse and{nl}press the RESET button.{wait1}{wait1}{end}"
  },
  {
   "id": "70A9",
   "jp": "{clr}    よ  う  こ  そ{nl}ＳＵＧＯＲＯ ＱＵＥＳＴ＋＋の世界へ{end}",
-  "en": ""
+  "en": "{clr}{at5}W E L C O M E{nl}to the world of SUGORO QUEST++{end}"
  },
  {
   "id": "70AA",
   "jp": "{clr}バックアップ・クリアコマンドが{nl}入力されました！！！{wait1}{wait1}{wait1}{nl}{clr}  全てのデータをクリアします！{nl}    やめる    クリアする{end}",
-  "en": ""
+  "en": "{clr}The backup clear command{nl}has been entered!!!{wait1}{wait1}{wait1}{nl}{clr}All data will be cleared!{nl}{at4}Cancel{at11}Clear{end}"
  },
  {
   "id": "70AB",
   "jp": "{clr}ざんねんですがバックアップされている{nl}データがこわれているようです。{wait1}{wait1}{wait1}{wait1}{nl}{clr}バックアップＲＡＭ上のデータを{nl}すべてクリアしました。{wait1}{wait1}{wait1}{wait1}{clr}{end}",
-  "en": ""
+  "en": "{clr}Sorry, but the backup data{nl}appears to be corrupted.{wait1}{wait1}{wait1}{wait1}{nl}{clr}All data in backup RAM{nl}has been cleared.{wait1}{wait1}{wait1}{wait1}{clr}{end}"
  }
 ]

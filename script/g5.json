@@ -2,606 +2,606 @@
  {
   "id": "5000",
   "jp": "{clr}「{v1}さん、ようこそ…。{nl}じつは、すこし困った事があるのです。{nl}話しだけでも、きいてくれませんか？{key}{nl}{clr}「森に、大きな木があるのですが{nl}どうやらそこに、大切なアイテムを{nl}忘れてきてしまったようなのです…。{key}{nl}{clr}「どうでしょう？{v1}さん、{nl}アイテムを拾って、ここまで届けて{nl}くれませんか？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Welcome, {v1}-san...{nl}The truth is, I'm in a bit of trouble.{nl}Won't you at least hear me out?\"{key}{nl}{clr}\"There's a big tree in the forest,{nl}and it seems I left an important{nl}item behind there...\"{key}{nl}{clr}\"What do you say, {v1}-san?{nl}Would you pick up the item and{nl}bring it back here to me?\"{key}{end}"
  },
  {
   "id": "5001",
   "jp": "{clr} このクエストを請け負いますか？{nl}{nl}    まかせろ   いやです{end}",
-  "en": ""
+  "en": "{clr}Will you take on this quest?{nl}{nl}{at4}You bet!{at11}No way{end}"
  },
  {
   "id": "5002",
   "jp": "{clr}「さすが{v1}さん！ありがとう！{nl}では、私はここで{v1}さんの{nl}帰りをまつことにします。{key}{end}",
-  "en": ""
+  "en": "{clr}\"That's {v1}-san for you! Thanks!{nl}Then I'll wait right here{nl}for {v1}-san to come back.\"{key}{end}"
  },
  {
   "id": "5003",
   "jp": "{clr}「ステキよ！{v1}さん！{nl}ワタシはここで{v1}さんが{nl}帰ってくるのをまつことにしますわ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Marvelous, {v1}-san!{nl}I shall wait right here until{nl}{v1}-san comes back to me.\"{key}{end}"
  },
  {
   "id": "5004",
   "jp": "{clr}「おぉ、頼もしいのう、{v1}。{nl}ではワシはここで{v1}の帰りを{nl}まつことにするわい。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ohh, I can count on you, {v1}.{nl}Then this old man will wait here{nl}for {v1} to return.\"{key}{end}"
  },
  {
   "id": "5005",
   "jp": "{clr}「ざんねんです…、{v1}さんは{nl}もっと、たよれる人だと思ってました。{key}{end}",
-  "en": ""
+  "en": "{clr}\"What a shame... I thought {v1}-san{nl}was more dependable than that.\"{key}{end}"
  },
  {
   "id": "5006",
   "jp": "{clr}「さんねんだわ…、{v1}さんって{nl}もっと、たよれる人だと思ってたのに。{key}{end}",
-  "en": ""
+  "en": "{clr}\"How disappointing... I thought{nl}{v1}-san was more dependable.\"{key}{end}"
  },
  {
   "id": "5007",
   "jp": "{clr}「ざんねんじゃ…、{v1}殿はもっと{nl}たよれる人に見えるんじゃがのう。{key}{end}",
-  "en": ""
+  "en": "{clr}\"A pity... {v1}-dono seemed{nl}a more dependable sort, I'd thought.\"{key}{end}"
  },
  {
   "id": "5008",
   "jp": "{clr}「たいへんだわ！ウチのかわいい{nl}ツッチちゃんが見当たらないわ！{key}{nl}{clr}「最近では、魔物もおおいし、{nl}あれほど廃虚へは、遊びに行くなと{nl}いっておいたのに。{key}{nl}{clr}「だれか、ツッチちゃんを連れ帰って{nl}くれないかしら？{key}{nl}{clr}「{v1}さん、アナタに{nl}おねがいして良い？お礼はするわ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh no! My precious little{nl}Tsucchi-chan is nowhere to be found!\"{key}{nl}{clr}\"There are so many monsters lately,{nl}and I told that child time and again{nl}not to go play in the ruins!\"{key}{nl}{clr}\"Won't somebody please bring{nl}Tsucchi-chan home?\"{key}{nl}{clr}\"{v1}-san, may I ask this of you?{nl}I'll make it worth your while.\"{key}{end}"
  },
  {
   "id": "5009",
-  "jp": "{clr}「困ったわ。これから食事のしたくを{nl}しなくちゃイケナイのに、{nl}お料理のざいりょうが、足りないの。{key}{nl}{clr}「洞窟から、モンスターの内を{nl}持ってきてくれないかしら？{nl}ごちそうしますよ！{v1}さん。{key}{end}",
-  "en": ""
+  "jp": "{clr}「困ったわ。これから食事のしたくを{nl}しなくちゃイケナイのに、{nl}お料理のざいりょうが、足りないの。{key}{nl}{clr}「洞窟から、モンスターの肉を{nl}持ってきてくれないかしら？{nl}ごちそうしますよ！{v1}さん。{key}{end}",
+  "en": "{clr}\"Oh dear. I have to start making{nl}dinner, but I don't have enough{nl}ingredients for the meal.\"{key}{nl}{clr}\"Could you bring me some monster{nl}meat from the cave? I'll treat you{nl}to a feast, {v1}-san!\"{key}{end}"
  },
  {
   "id": "500A",
   "jp": "{clr}「ふえっふぇっふぇ…{nl}{v1}殿。ちょうど良いところへ{nl}やってきたな。{key}{nl}{clr}「ワシはカラダが弱くてのォ、{nl}水くみも、いい加減つかれたわい。{key}{nl}{clr}「どうじゃ？{v1}どの。{nl}ワシのかわりに、湖から水をくんできて{nl}もらえんかのう？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Heh heh heh...{nl}{v1}-dono. You've come at just{nl}the right time.\"{key}{nl}{clr}\"My body's frail, you see, and I'm{nl}plumb tired of hauling water.\"{key}{nl}{clr}\"How about it, {v1}-dono?{nl}Would you fetch water from the lake{nl}for me in my stead?\"{key}{end}"
  },
  {
   "id": "500B",
   "jp": "{clr}「よっ！こんちは、{v1}さん。{nl}ちょうど良い所へ来てくれたなあ。{key}{nl}{clr}「オレはな、カガミしょくにんの{nl}ミツってぇ者なんだがよォ。{nl}じつはな、足をケガしちまって…。{key}{nl}{clr}「なっ、頼むよ{v1}さん！{nl}この、しゅうりしたばかりのカガミ、{nl}教会まで届けてくれねぇかなァ？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Yo! Howdy, {v1}-san.{nl}You showed up at just the right time.\"{key}{nl}{clr}\"Name's Mitsu, see, I'm a{nl}mirror craftsman. Thing is,{nl}I went and hurt my leg...\"{key}{nl}{clr}\"C'mon, I'm beggin' ya, {v1}-san!{nl}Won't ya take this mirror I just fixed{nl}and deliver it to the church?\"{key}{end}"
  },
  {
   "id": "500C",
   "jp": "{clr}{v1}『誰か、いませんか？{key}{nl}{clr}どうやら{v1}は用事のない所へ{nl}来てしまったようだ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Hello? Is anyone here?\"{key}{nl}{clr}Looks like {v1} came somewhere{nl}there's no business to be done.{key}{end}"
  },
  {
   "id": "500D",
   "jp": "{clr}「ブツブツブツブツ…{nl}おぉ！ちょうど良いところに人が来た。{key}{nl}{clr}「すみませんけど、私の発見した魔法の{nl}テストに、つきあってくれませんか？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Mutter mutter mutter...{nl}Oh! Someone's come at just the right time.\"{key}{nl}{clr}\"Sorry to ask, but would you help me{nl}test a spell I've discovered?\"{key}{end}"
  },
  {
   "id": "500E",
   "jp": "{clr}{v1}は、クエストを請け負った！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} accepted the quest!{key}{end}"
  },
  {
   "id": "500F",
   "jp": "{clr}{v1}は、クエストをことわった！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} turned down the quest!{key}{end}"
  },
  {
   "id": "5010",
   "jp": "{clr}「悪いけど、いまは何も用事はないよ。{nl}また来ておくれ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Sorry, but I've got nothing for you{nl}right now. Come again sometime.\"{key}{end}"
  },
  {
   "id": "5011",
   "jp": "{clr}「やあ{v1}。{nl}最近になって、神殿におっかない魔物が{nl}あらわれたってぇ話しだ。{key}{nl}{clr}「どうだい？魔物を退治してくれたら{nl}何かお礼をするぜ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hey, {v1}.{nl}Word is a scary monster's shown up{nl}in the temple lately.\"{key}{nl}{clr}\"How 'bout it? Take care of that monster{nl}and I'll give ya somethin' for it.\"{key}{end}"
  },
  {
   "id": "5012",
   "jp": "{clr}{v1}は、報酬として{nl}{v8}を１個手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}got {v8} x1!{key}{end}"
  },
  {
   "id": "5013",
   "jp": "{clr}{v1}は、報酬として{nl}{v8}を２個手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}got {v8} x2!{key}{end}"
  },
  {
   "id": "5014",
   "jp": "{clr}{v1}は、報酬として{nl}{v9}ＴＫうけとった！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}received {v9} TK!{key}{end}"
  },
  {
   "id": "5015",
   "jp": "{clr}{v1}は、報酬として{nl}いくつかのアイテムをうけとった！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}received several items!{key}{end}"
  },
  {
   "id": "5016",
   "jp": "{clr}{v6}を手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}Obtained {v6}!{key}{end}"
  },
  {
   "id": "5017",
   "jp": "{clr}{v1}は、報酬として{nl}いくつかの魔法をうけとった！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}received several spells!{key}{end}"
  },
  {
   "id": "5018",
   "jp": "{clr}{v5}を手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}Obtained {v5}!{key}{end}"
  },
  {
   "id": "5019",
   "jp": "{clr}{v1}は、報酬として{nl}{v6}を手に入れた！{key}{end}",
-  "en": ""
+  "en": "{clr}As a reward, {v1}{nl}obtained {v6}!{key}{end}"
  },
  {
   "id": "501A",
-  "jp": "{clr}「ではこの、大きなおさらに{nl}モンスターの内を、山もりにしてきて{nl}くださいな。{key}{end}",
-  "en": ""
+  "jp": "{clr}「ではこの、大きなおさらに{nl}モンスターの肉を、山もりにしてきて{nl}くださいな。{key}{end}",
+  "en": "{clr}\"Then please heap this big platter{nl}high with monster meat{nl}for me.\"{key}{end}"
  },
  {
   "id": "501B",
-  "jp": "{clr}{v1}はカンバンをよんだ。{key}{nl}{clr}いま大流行！おいしいモンスターの{nl}内で、らくらくダイエット。{nl} ～サイランド食料連合～{key}{end}",
-  "en": ""
+  "jp": "{clr}{v1}はカンバンをよんだ。{key}{nl}{clr}いま大流行！おいしいモンスターの{nl}肉で、らくらくダイエット。{nl} ～サイランド食料連合～{key}{end}",
+  "en": "{clr}{v1} read the signboard.{key}{nl}{clr}All the rage! Easy dieting with{nl}delicious monster meat!{nl}~Siland Food Union~{key}{end}"
  },
  {
   "id": "501C",
-  "jp": "{clr}{v1}は洞窟に入っていった。{key}{nl}{clr}するととつぜん！目の前にモンスターが{nl}飛び出してきた！{key}{nl}{clr}{v1}『のこのこ出てきたなっ。{nl}おあつらえむきだ！内になれ！{key}{end}",
-  "en": ""
+  "jp": "{clr}{v1}は洞窟に入っていった。{key}{nl}{clr}するととつぜん！目の前にモンスターが{nl}飛び出してきた！{key}{nl}{clr}{v1}『のこのこ出てきたなっ。{nl}おあつらえむきだ！肉になれ！{key}{end}",
+  "en": "{clr}{v1} went into the cave.{key}{nl}{clr}Then suddenly, right up ahead,{nl}a monster jumped out!{key}{nl}{clr}{v1}: \"Strolling right out, huh?{nl}Just what I ordered! Be my meat!\"{key}{end}"
  },
  {
   "id": "501D",
-  "jp": "{clr}{v1}は、見事にモンスターを{nl}やっつけた。これで頼まれた内を{nl}持ち帰ることが出来そうだ。{key}{end}",
-  "en": ""
+  "jp": "{clr}{v1}は、見事にモンスターを{nl}やっつけた。これで頼まれた肉を{nl}持ち帰ることが出来そうだ。{key}{end}",
+  "en": "{clr}{v1} beat the monster in fine{nl}style. Now it should be possible{nl}to bring back the requested meat.{key}{end}"
  },
  {
   "id": "501E",
   "jp": "{clr}{v1}は、なさけない事に{nl}モンスターに負けてしまった。{key}{nl}{clr}これでは、勇者をなのるどころでは{nl}ない。{v1}はじぶんの{nl}ちから不足を痛感した。{key}{end}",
-  "en": ""
+  "en": "{clr}Pathetically, {v1}{nl}lost to the monster.{key}{nl}{clr}This is no way to call yourself{nl}a hero! {v1} was painfully{nl}aware of being too weak.{key}{end}"
  },
  {
   "id": "501F",
-  "jp": "{clr}「まぁ！{v1}さん、すごいわ！{nl}こんなに、たくさんモンスターの内を！{key}{nl}{clr}「感謝しますわ。さあっ！{nl}これはお礼です、うけとって下さいな。{key}{end}",
-  "en": ""
+  "jp": "{clr}「まぁ！{v1}さん、すごいわ！{nl}こんなに、たくさんモンスターの肉を！{key}{nl}{clr}「感謝しますわ。さあっ！{nl}これはお礼です、うけとって下さいな。{key}{end}",
+  "en": "{clr}\"My! {v1}-san, how wonderful!{nl}So much monster meat!\"{key}{nl}{clr}\"I'm so grateful. Here you are!{nl}This is your reward, please take it.\"{key}{end}"
  },
  {
   "id": "5020",
   "jp": "{clr}{v1}は、森にそびえる大木の下へ{nl}やって来た。高いこずえを見上げてると{nl}戦いの事など、忘れてしまいそうだ。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、大木の下を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} came to the great tree{nl}towering in the forest. Gazing up at{nl}its high boughs, battle feels far away.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the great tree behind.{key}{end}"
  },
  {
   "id": "5021",
   "jp": "{clr}{v1}は、不気味な気配のする{nl}廃虚へやって来た。ただならぬ気配に{nl}思わずみがまえた。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、廃虚を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} arrived at ruins with an eerie{nl}air, and at that ominous presence,{nl}braced for a fight on instinct.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the ruins behind.{key}{end}"
  },
  {
   "id": "5022",
   "jp": "{clr}{v1}は、しんとしずまりかえった{nl}湖にたどりついた。つめたくて、気持ち{nl}良さそうな水がたたえられている。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、湖を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} reached a hushed, still{nl}lake. It brimmed with cool water{nl}that looked so refreshing.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the lake behind.{key}{end}"
  },
  {
   "id": "5023",
   "jp": "{clr}{v1}は、うす暗い洞窟の中に{nl}入って行った…。水がしたたり落ちる{nl}おとだけがひびいている。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、洞窟を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} went into a dim cave...{nl}The only sound was the echo{nl}of dripping water.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the cave behind.{key}{end}"
  },
  {
   "id": "5024",
   "jp": "{clr}{v1}は、教会の中へ{nl}入って行った。いのりをささげている{nl}人達がおおぜいいる。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、教会を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} went inside the church.{nl}Many people were there,{nl}offering up their prayers.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the church behind.{key}{end}"
  },
  {
   "id": "5025",
   "jp": "{clr}{v1}は、神殿の中へ入って行った。{nl}何か、まがまがしい気配を感じて{nl}{v1}は、足がすくんだ。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、神殿を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} went inside the temple.{nl}Sensing something sinister,{nl}{v1} was rooted to the spot.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the temple behind.{key}{end}"
  },
  {
   "id": "5026",
   "jp": "{clr}「じゃあ、このカギを持って行きな。{nl}神殿の中の、カギのかかったドアの{nl}向こうに魔物がいるらしいぜ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Then take this key with ya.{nl}Seems the monster's behind a locked{nl}door inside the temple.\"{key}{end}"
  },
  {
   "id": "5027",
   "jp": "{clr}{v1}は、見事クエストを達成した！{key}{nl}{clr}{nl}     {v9}ＥＸＰ獲得！{key}{nl}{clr}{nl}スコアが{v9}０ポイントアップ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} completed the quest!{key}{nl}{clr}{nl}Gained {v9} EXP!{key}{nl}{clr}{nl}Score up by {v9}0 points!{key}{end}"
  },
  {
   "id": "5028",
   "jp": "{clr}「おや？{v1}さん、もう帰ってきた{nl}のですか？ちゃんと目的を達成してから{nl}帰ってきて下さいね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh? Back already, {v1}-san?{nl}Please come back after you've{nl}properly accomplished your goal.\"{key}{end}"
  },
  {
   "id": "5029",
   "jp": "{clr}「なんじゃ？{v1}殿。{nl}ちゃんと目的を果たしてから{nl}もどってくれんかのう…。{key}{end}",
-  "en": ""
+  "en": "{clr}\"What's this, {v1}-dono?{nl}Won't you please come back once{nl}you've properly done the job...\"{key}{end}"
  },
  {
   "id": "502A",
   "jp": "{clr}このクエストの報酬は、{nl}{v8}、１個だそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest,{nl}they say, is {v8} x1.{key}{end}"
  },
  {
   "id": "502B",
   "jp": "{clr}このクエストの報酬は、{nl}{v8}、２個だそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest,{nl}they say, is {v8} x2.{key}{end}"
  },
  {
   "id": "502C",
   "jp": "{clr}このクエストの報酬は、{nl}現金で、{v9}ＴＫくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is {v9} TK in cash.{key}{end}"
  },
  {
   "id": "502D",
   "jp": "{clr}このクエストの報酬は、{nl}アイテムを何個か、くれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is several items.{key}{end}"
  },
  {
   "id": "502E",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている武器より、少しだけ立派な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is a weapon just a bit finer than{nl}the one {v1} has.{key}{end}"
  },
  {
   "id": "502F",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている鎧より、少しだけ立派な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is armor just a bit finer than{nl}what {v1} has.{key}{end}"
  },
  {
   "id": "5030",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている盾より、少しだけ立派な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is a shield just a bit finer than{nl}the one {v1} has.{key}{end}"
  },
  {
   "id": "5031",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている武器より、そこそこ強力な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is a weapon a good deal stronger{nl}than the one {v1} has.{key}{end}"
  },
  {
   "id": "5032",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている鎧より、そこそこ強力な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is armor a good deal stronger{nl}than what {v1} has.{key}{end}"
  },
  {
   "id": "5033",
   "jp": "{clr}このクエストの報酬は、{v1}の{nl}持っている盾より、そこそこ強力な{nl}ものをくれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is a shield a good deal stronger{nl}than the one {v1} has.{key}{end}"
  },
  {
   "id": "5034",
   "jp": "{clr}このクエストの報酬は、{nl}魔法を何個か、くれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest, they say,{nl}is several spells.{key}{end}"
  },
  {
   "id": "5035",
   "jp": "{clr}{v1}は、{nl}おたから「{v10}」を{nl}手に入れた。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}{nl}obtained the treasure{nl}\"{v10}\"!{key}{end}"
  },
  {
   "id": "5036",
   "jp": "{clr}「ではこの、{v10}の中に{nl}入れて持ち帰って下さい。がんばって{nl}見つけてきて下さいね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Then please put it in this{nl}{v10} and bring it back.{nl}Do your best to find it for me.\"{key}{end}"
  },
  {
   "id": "5037",
   "jp": "{clr}カンバンには、こう書かれている。{key}{nl}{clr}{v1}は順調に冒険を続けている{nl}様子である。あたたかく見守ろう。{nl} ～王様より～{key}{end}",
-  "en": ""
+  "en": "{clr}The signboard says this:{key}{nl}{clr}{v1}'s adventure is going{nl}smoothly. Let us watch over it kindly.{nl}~From the King~{key}{end}"
  },
  {
   "id": "5038",
   "jp": "{clr}{v1}は、大木の下へやってきた。{key}{nl}{clr}足下をさがすと、ゴムのアヒルが落ちて{nl}いた。忘れたアイテムというのは、{nl}きっとこれの事だろう。{key}{nl}{clr}さっそく拾って届けてあげよう！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} came to the great tree.{key}{nl}{clr}Searching underfoot, there was{nl}a rubber duck lying on the ground.{nl}It must be the forgotten item.{key}{nl}{clr}Better pick it up and deliver it!{key}{end}"
  },
  {
   "id": "5039",
   "jp": "{clr}「おおっ！それは！{nl}私の大切なアヒルちゃん！{key}{nl}{clr}「ありがとう{v1}さん。たすかり{nl}ました。本当にありがとう！{key}{nl}{clr}「ジョセフィーヌや…、{nl}落としたりしてすまなかったね…。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ohh! Th-that's...!{nl}My precious little duckie!\"{key}{nl}{clr}\"Thank you, {v1}-san. You've saved{nl}me. Thank you so much!\"{key}{nl}{clr}\"Oh, Josephine...{nl}I'm so sorry I dropped you...\"{key}{end}"
  },
  {
   "id": "503A",
   "jp": "{clr}「じゃ、{v10}を持って{nl}行って下さいな。{key}{nl}{clr}「これがあれば、ツッチちゃんが{nl}すぐに見つかりますわ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Then please take this {v10}{nl}with you.\"{key}{nl}{clr}\"With this, you'll find{nl}Tsucchi-chan in no time.\"{key}{end}"
  },
  {
   "id": "503B",
   "jp": "{clr}カンバンにはこう書かれている。{nl}まいご多発！廃虚であそぶな！{nl} ～サイランド子ども団～{key}{end}",
-  "en": ""
+  "en": "{clr}The signboard reads:{nl}Lost kids galore! No playing in the ruins!{nl}~Siland Kids' Club~{key}{end}"
  },
  {
   "id": "503C",
   "jp": "{clr}{v1}は廃虚にたどりついた。{nl}にがおえに、ソックリな子がいるぞ！{key}{nl}{clr}ツッチ「うわぁぁん、帰り道が{nl}わからなくなっちゃったよ～～。{nl}おなかがすいたよぉ。ねむたいようぅ。{key}{nl}{clr}どうやらこの子がツッチらしい、{nl}{v1}はツッチを連れ帰る事にした。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} reached the ruins.{nl}There's a kid just like the portrait!{key}{nl}{clr}Tsucchi: \"Waaah, I can't find{nl}the way home~~.{nl}I'm hungry. I'm sleepyyy.\"{key}{nl}{clr}This kid must be Tsucchi.{nl}{v1} decided to take Tsucchi home.{key}{end}"
  },
  {
   "id": "503D",
   "jp": "{clr}「まあ！良かった、ツッチちゃん{nl}無事だったのね！{nl}おかあさん、しんぱいしていたのよ！{key}{nl}{clr}ツッチ「ありがとう{v1}さん。{nl}でも本当は、ちっとも{nl}こわくなかったんだよ…、本当だよ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh my! Thank goodness, Tsucchi-chan,{nl}you're safe!{nl}Mommy was so worried about you!\"{key}{nl}{clr}Tsucchi: \"Thanks, {v1}-san.{nl}But really, I wasn't scared{nl}one bit... Honest, I wasn't!\"{key}{end}"
  },
  {
   "id": "503E",
   "jp": "{clr}「では、この{v10}に{nl}水を、くんでくるがよい。{nl}いやいや、たすかるのう、{v1}殿。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Now then, use this {v10}{nl}to fetch some water.{nl}Ah, you're a great help, {v1}-dono.\"{key}{end}"
  },
  {
   "id": "503F",
   "jp": "{clr}{v1}は湖のほとりにたどりついた。{key}{nl}{clr}{v1}『この湖の水を、{nl}バケツに入れて行けば良いんだな。{nl}かんたんかんたん……、あれっ？{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} arrived at the lakeshore.{key}{nl}{clr}{v1}: \"So I just fill the bucket{nl}with this lake water and go.{nl}Easy-peasy... Huh?\"{key}{end}"
  },
  {
   "id": "5040",
   "jp": "{clr}重たいバケツが、持ち上がるかどうか{nl}{end}",
-  "en": ""
+  "en": "{clr}Can the heavy bucket be lifted...?{nl}{end}"
  },
  {
   "id": "5041",
   "jp": "{clr}{v1}は、重たいバケツを{nl}持ち上げる事が出来た。どうにか{nl}帰る事が出来そうだ。ほっ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} managed to lift{nl}the heavy bucket. Getting back{nl}should be doable somehow. Phew.{key}{end}"
  },
  {
   "id": "5042",
   "jp": "{clr}{v1}は、どんなにがんばっても{nl}バケツを持ち上げる事が出来なかった。{key}{end}",
-  "en": ""
+  "en": "{clr}No matter how hard {v1} tried,{nl}the bucket could not be lifted.{key}{end}"
  },
  {
   "id": "5043",
   "jp": "{clr}ざんねんですが、このクエストは{nl}しっぱいに終わりました。{nl}{v10}は、うしなわれます。{key}{end}",
-  "en": ""
+  "en": "{clr}Unfortunately, this quest{nl}has ended in failure.{nl}{v10} will be lost.{key}{end}"
  },
  {
   "id": "5044",
   "jp": "{clr}「おぉぉ、おそかったのう{v1}殿。{nl}ふむ、たしかに水でいっぱいじゃ！{nl}礼をいうよ、ありがたいありがたい。{key}{nl}{clr}「ささ、その水をカメに入れておくれ。{nl}さぁ、これがお礼の品物じゃ。{nl}うけとっておくれ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ohhh, you're late, {v1}-dono.{nl}Hmm, it's full of water, all right!{nl}Thank you, thank you kindly.\"{key}{nl}{clr}\"Come, come, pour that water in the jar.{nl}Now then, here's a gift for your trouble.{nl}Please take it.\"{key}{end}"
  },
  {
   "id": "5045",
   "jp": "{clr}{v1}は、バケツが重くて{nl}カンバンは目に入らなかった。{key}{nl}{clr}{v1}『ぜいぜいぜい………。{key}{end}",
-  "en": ""
+  "en": "{clr}The bucket was so heavy that {v1}{nl}never even noticed the sign.{key}{nl}{clr}{v1}: \"Huff... puff... wheeze...\"{key}{end}"
  },
  {
   "id": "5046",
-  "jp": "{clr}「では{v1}さん。内料理を食べて{nl}行きませんこと？良いお味ですわよ。{nl}せっかくだから、食べてって下さいな。{key}{nl}{clr} モンスターの内料理を食べますか？{nl}    はい     いいえ{end}",
-  "en": ""
+  "jp": "{clr}「では{v1}さん。肉料理を食べて{nl}行きませんこと？良いお味ですわよ。{nl}せっかくだから、食べてって下さいな。{key}{nl}{clr} モンスターの肉料理を食べますか？{nl}    はい     いいえ{end}",
+  "en": "{clr}\"Now, {v1}-san. Won't you try some{nl}of my meat dish? It's quite tasty.{nl}Since you're here, do have a bite.\"{key}{nl}{clr}Eat the monster meat dish?{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "5047",
   "jp": "{clr}{v1}は、おそるおそる料理を{nl}食べてみた……。{key}{nl}{clr}あまりおいしくなかったが、ちからが{nl}みなぎって来る！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} timidly took a bite{nl}of the dish...{key}{nl}{clr}It wasn't very tasty, but strength{nl}comes surging in!{key}{end}"
  },
  {
   "id": "5048",
   "jp": "{clr}「あら、おいしいのに…。{nl}もぐもぐもぐ。{nl}{v1}さんったら、いくじなしねェ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh my, but it's delicious...{nl}Munch munch munch.{nl}{v1}-san, what a scaredy-cat.\"{key}{end}"
  },
  {
   "id": "5049",
   "jp": "{clr}「じゃ、よろしくおねがいするぞ。{nl}こわれ物だからな、気をつけて{nl}届けてくれよ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Well then, I'm countin' on ya.{nl}It's fragile, so be careful{nl}deliverin' it!\"{key}{end}"
  },
  {
   "id": "504A",
   "jp": "{clr}{v1}は、どうにかカガミをこわさず{nl}教会にたどりついた。やれやれ。{key}{nl}{clr}「まあ、ミツさんがケガをして？{nl}{v1}さんが、かわりに届けて{nl}くれたの？それはそれは…感謝します。{key}{nl}{clr}「では、さっそくカガミを……、あっ{key}{nl}{clr}{nl}      ガシャーーン！{key}{nl}{clr}「すっ…すみません！届けていただいた{nl}ばかりなのに！手がすべって……。{key}{nl}{clr}「あの…、これ、またミツさんに届けて{nl}下さいませんこと？{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} somehow reached the church{nl}without breaking the mirror. Whew.{key}{nl}{clr}\"Oh my, Mitsu-san got hurt?{nl}And {v1}-san delivered it{nl}in his place? Why, thank you so much.\"{key}{nl}{clr}\"Now then, let's see the mirror... Oh!\"{key}{nl}{clr}{nl}{at6}CRAAASH!{key}{nl}{clr}\"I-I'm so sorry! You only just{nl}delivered it! My hand slipped...\"{key}{nl}{clr}\"Um... Would you mind taking this{nl}back to Mitsu-san for me?\"{key}{end}"
  },
  {
   "id": "504B",
   "jp": "{clr}{v1}は、ミツに{nl}「こなごなのカガミ」を手わたすと、{nl}事情をせつめいした。{key}{nl}{clr}「なんてこったい！とほほほ。{nl}まあ{v1}は、悪くねえからな…、{nl}しょうがねえ、ほれ、持って行きな。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} handed Mitsu{nl}the \"Shattered Mirror\"{nl}and explained what happened.{key}{nl}{clr}\"Well, I'll be! Boo-hoo-hoo.{nl}Still, it ain't {v1}'s fault...{nl}Can't be helped. Here, take this.\"{key}{end}"
  },
  {
   "id": "504C",
   "jp": "{clr}{v1}は、神殿の中を見回した。{nl}しばらく歩き回り、ねじれたカギが{nl}ピタリと合う、カギあなを発見した！{key}{nl}{clr}とびらの向こうから、気味悪い{nl}うなりごえが聞こえる……。{key}{nl}{clr}{nl}      がるるるるッ！！{key}{nl}{clr}{v1}は、勇気をふりしぼって{nl}カギをあけた！！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} looked around the temple.{nl}Wandering a while turned up a keyhole{nl}that the twisted key fit perfectly!{key}{nl}{clr}From beyond the door came{nl}an eerie growl...{key}{nl}{clr}{nl}{at6}GRRRRRR!!{key}{nl}{clr}{v1} summoned up the courage{nl}and unlocked the door!!{key}{end}"
  },
  {
   "id": "504D",
   "jp": "{clr}とびらがひらき、暗がりから{nl}モンスターがおそいかかってきた！！{key}{end}",
-  "en": ""
+  "en": "{clr}The door opened, and from the darkness{nl}a monster lunged to attack!!{key}{end}"
  },
  {
   "id": "504E",
   "jp": "{clr}{v1}は、ゴブリンのキバを{nl}さし出した。{key}{nl}{clr}「おおおっ！本当にやっつけたのかい！{key}{nl}{clr}「{v1}よぉ、アンタは強いなァ。{nl}よっしゃ、ちゃんとやくそく通り{nl}とっときの武器をあげるぜ。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} held out{nl}the Goblin Fang.{key}{nl}{clr}\"Whoa! You really beat it!\"{key}{nl}{clr}\"{v1}, you sure are strong.{nl}All right, just like I promised,{nl}I'll give ya my prized weapon.\"{key}{end}"
  },
  {
   "id": "504F",
   "jp": "{clr}「ごほっごほっ！あぁ…。{nl}アンタが何でも頼まれてくれるっていう{nl}便利な勇者さんですかい…？{key}{nl}{clr}「じつは、あっしは体の調子が{nl}悪いんでさぁ。ごほッごほッごほッ！{key}{nl}{clr}「サカナを食うと良いって{nl}いわれたんですがね、センセイに。{key}{nl}{clr}「あっしは見ての通りビンボウなもんで{nl}サカナを買う金がねえんでさぁ。{key}{nl}{clr}「どうです、{v1}さん。{nl}あっしのかわりに、湖でサカナを{nl}つって来てくれませんかい？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Cough, cough! Ahh...{nl}So you're the handy hero who'll take{nl}on any job folks ask of ya...?\"{key}{nl}{clr}\"Truth is, I ain't been feelin'{nl}too good. Cough, cough, cough!\"{key}{nl}{clr}\"Eatin' fish would do me good,{nl}the doc told me, see.\"{key}{nl}{clr}\"But as ya can see, I'm dirt poor,{nl}so I ain't got the money for fish.\"{key}{nl}{clr}\"How 'bout it, {v1}-san?{nl}Would ya go fishin' at the lake{nl}for me, in my place?\"{key}{end}"
  },
  {
   "id": "5050",
   "jp": "{clr}「ほいじゃ、この、つりざおを{nl}持って行っておくんなせえ。{key}{nl}{clr}「たのしみにまつ事にしますわ…{nl}ごほッ、ごほごほ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Well then, take this here{nl}fishin' rod with ya.\"{key}{nl}{clr}\"I'll be lookin' forward to it...{nl}Cough, cough-cough!\"{key}{end}"
  },
  {
   "id": "5051",
   "jp": "{clr}{v1}は、つりざおを手に水辺へと{nl}やって来た。静かな水面の下には{nl}サカナのいる気配がする！！{key}{nl}{clr}{v1}はさっそくサカナつりを{nl}する事にした。{key}{nl}{clr}{v1}『それッ！{key}{nl}{clr}{nl}       ポチャン{key}{nl}{nl}{clr}{v1}は１時間ほどかけて、{nl}満足できる数のサカナをつり上げた！{nl}{v1}『よし、帰るとしよう。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} came to the water's edge, rod{nl}in hand. Beneath the still surface,{nl}fish could be sensed lurking!!{key}{nl}{clr}{v1} decided to start{nl}fishing right away.{key}{nl}{clr}{v1}: \"Hup!\"{key}{nl}{clr}{nl}{at7}Plop{key}{nl}{nl}{clr}{v1} fished for about an hour and{nl}reeled in a satisfying number of fish!{nl}{v1}: \"Right, time to head back.\"{key}{end}"
  },
  {
   "id": "5052",
   "jp": "{clr}「おぉ～！こりゃたくさんの獲物だ！{nl}なんだか見ているだけで{nl}体の調子が良くなった気がしますわ。{key}{nl}{clr}「ありがとう！{v1}さん。{nl}これは、ほんのお礼です。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ooh~! What a big catch!{nl}Somehow, just lookin' at it,{nl}I feel like I'm gettin' better already.\"{key}{nl}{clr}\"Thank you, {v1}-san!{nl}Here's a little somethin' for ya.\"{key}{end}"
  },
  {
   "id": "5053",
   "jp": "{clr}「困ったわ…、さっきウチの宝物の{nl}つけものいしを落としちゃって…{nl}半分に、われちゃったのよ。{key}{nl}{clr}「あれはウチのバァちゃんが、大切に{nl}していた物なのよ。{nl}魔法のつけものいしなの。ホントよ。{key}{nl}{clr}「こわしたのがバレたら、メチャメチャ{nl}おこるだろうなぁ。トホホホ。{key}{nl}{clr}「ねえ{v1}さん、悪いんだけど{nl}これにソックリな、いしを拾って来て{nl}くれないかしら？ね、ね？いいでしょ？{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Oh, what'll I do... I just dropped{nl}our family treasure, the pickling stone...{nl}and it cracked right in half.\"{key}{nl}{clr}\"My granny always treasured{nl}that thing.{nl}It's a magic pickling stone. Really!\"{key}{nl}{clr}\"If she finds out I broke it, she's{nl}gonna be SO mad. Boo-hoo-hoo.\"{key}{nl}{clr}\"Hey, {v1}-san, sorry to ask, but{nl}could you go find a stone that looks{nl}just like this? Please? Pretty please?\"{key}{nl}{end}"
  },
  {
   "id": "5054",
   "jp": "{clr}「ありがとう！{v1}さん！{nl}ウチのバァちゃん目が悪いから{nl}それなりにソックリなら良いわ。{key}{nl}{clr}「この、いしのカケラも持って行って{nl}ちょうだい。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Thank you, {v1}-san!{nl}My granny's eyesight is bad, so{nl}anything close enough will do.\"{key}{nl}{clr}\"Take this piece of the stone{nl}along with you, too.\"{key}{end}"
  },
  {
   "id": "5055",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}{nl}   いしころを拾うなら洞窟へ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}{nl}{at3}Picking up stones? Try the cave!{key}{end}"
  },
  {
   "id": "5056",
   "jp": "{clr}{v1}は、洞窟の中を歩んだ。{nl}しばらく歩くと、床にいしころが{nl}ゴロゴロしている場所を見つけた！{key}{nl}{clr}{v1}『どれどれ…{nl}ソックリな物は……、っと。{key}{nl}{clr}{v1}は、カケラにソックリな{nl}いしころを発見した！これならきっと{nl}すりかえても判らないだろう。{key}{nl}{clr}さっそく拾って届けてあげよう！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} walked through the cave.{nl}Walking on a while led to a spot{nl}with stones scattered all over the floor!{key}{nl}{clr}{v1}: \"Let's see...{nl}One that looks just like it...\"{key}{nl}{clr}{v1} found a stone just like{nl}the piece! Surely no one would{nl}notice if the two were swapped.{key}{nl}{clr}Time to pick it up and deliver it!{key}{end}"
  },
  {
   "id": "5057",
   "jp": "{clr}「まあッ、ホントにソックリなのを{nl}見つけてきたわねッ！{nl}アーッハッハッハ！ゆかいゆかい！{key}{nl}{clr}「これならバァちゃんも気づかないね。{nl}やくそく通り、{nl}１０００ＴＫで買い取ってやるよ。{key}{nl}{clr}{v1}は{nl}少し悪い事をしたような気がした。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Wow, you really found one{nl}that looks just like it!{nl}Ah-ha-ha-ha! What a hoot!\"{key}{nl}{clr}\"Granny won't notice a thing now.{nl}As promised,{nl}I'll buy it off ya for 1000 TK.\"{key}{nl}{clr}{v1} felt a little guilty,{nl}as if having done something wrong.{key}{end}"
  },
  {
   "id": "5058",
   "jp": "{clr}「ぐすん、ぐすん…。{nl}あ、{v1}さん。こんにちは。{key}{nl}{clr}「うちのママがね、ネコをかっては{nl}ダメだというの。それで、拾った場所に{nl}すててこいっていうの…。{key}{nl}{clr}「神殿で、拾ったんだけどね。{key}{nl}{clr}「ワタシ、{nl}かわいそうで、すてに行けないから{nl}{v1}さんに、おねがいしていい？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Sniff, sniff...{nl}Oh, {v1}-san. Hello.\"{key}{nl}{clr}\"My mama says I can't keep{nl}a kitty. She says I have to go leave it{nl}back where I found it...\"{key}{nl}{clr}\"I found it at the temple.\"{key}{nl}{clr}\"But I feel too sorry for it{nl}to go leave it there, so{nl}can I ask you, {v1}-san?\"{key}{end}"
  },
  {
   "id": "5059",
   "jp": "{clr}「よしよし、ネコちゃん。{nl}{v1}さんに連れてってもらうのよ。{nl}そいで、誰かにひろってもらうのよ。{key}{nl}{clr}「げんきでね…。{key}{end}",
-  "en": ""
+  "en": "{clr}\"There, there, kitty.{nl}{v1}-san's gonna take you now.{nl}And then somebody'll pick you up.\"{key}{nl}{clr}\"Take care...\"{key}{end}"
  },
  {
   "id": "505A",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}むやみにペットをすててはイケマセン！{nl}小さないのちを大切に。{nl}  ～サイランドペット連合～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}You MUST NOT abandon pets carelessly!{nl}Cherish little lives.{nl}~Siland Pet Federation~{key}{end}"
  },
  {
   "id": "505B",
   "jp": "{clr}{v1}は、神殿の前にたどりついた。{nl}辺りを見回し、誰もいないのをたしかめ{nl}{v1}はネコをそっと下におろした。{key}{nl}{clr}{v1}『ごめんね。{key}{nl}{clr}{nl}      ニャオ～～ゥ{key}{nl}{clr}{v1}はこの場を立ち去ろうとしたが{nl}ネコは{v1}の後ろを、どこまでも{nl}ついてきてしまう。{key}{nl}{clr}{v1}『しょうがないなあ…。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} arrived in front of the temple.{nl}After checking that no one was around,{nl}{v1} gently set the cat down.{key}{nl}{clr}{v1}: \"Sorry.\"{key}{nl}{clr}{nl}{at6}Meooow~{key}{nl}{clr}{v1} tried to leave, but the cat{nl}kept following right behind {v1},{nl}no matter where.{key}{nl}{clr}{v1}: \"Guess it can't be helped...\"{key}{end}"
  },
  {
   "id": "505C",
-  "jp": "{clr}「あッ！ワタシのネコ！{nl}連れて帰って来てくれたのね！{key}{nl}{clr}「あれからママにもういちど{nl}話してみたの。そしたら、ちゃんと{nl}面倒を見るなら、かっても良いって！{key}{nl}{clr}「これから{v1}さんを{nl}むかえに行こうと思っていたの。{nl}良かった！連れて帰ってくれて！{key}{nl}{clr}{v1}は、文の子にネコを{nl}手わたして、少しホッとした。{key}{end}",
-  "en": ""
+  "jp": "{clr}「あッ！ワタシのネコ！{nl}連れて帰って来てくれたのね！{key}{nl}{clr}「あれからママにもういちど{nl}話してみたの。そしたら、ちゃんと{nl}面倒を見るなら、かっても良いって！{key}{nl}{clr}「これから{v1}さんを{nl}むかえに行こうと思っていたの。{nl}良かった！連れて帰ってくれて！{key}{nl}{clr}{v1}は、女の子にネコを{nl}手わたして、少しホッとした。{key}{end}",
+  "en": "{clr}\"Ah! My kitty!{nl}You brought it back!\"{key}{nl}{clr}\"After that I talked to Mama{nl}again. And she said I can keep it{nl}if I really take care of it!\"{key}{nl}{clr}\"I was just about to go{nl}looking for you, {v1}-san.{nl}I'm so glad! You brought it back!\"{key}{nl}{clr}{v1} handed the cat to the girl{nl}and felt a little relieved.{key}{end}"
  },
  {
   "id": "505D",
   "jp": "{clr}「{v1}よ。ワシはクチが悪いので{nl}こんな話し方しか出来ないのだが…。{key}{nl}{clr}「森の大木の辺りに、良いタキギが{nl}落ちておるのじゃが、それがほしい。{nl}拾って、ここへ持ってまいれ。{key}{nl}{clr}「お前も報酬がほしかろう？{nl}なんじゃ、そんなイヤなカオをして。{key}{end}",
-  "en": ""
+  "en": "{clr}\"{v1}. I've got a foul mouth, so{nl}this is the only way I can talk...\"{key}{nl}{clr}\"Near the big tree in the forest,{nl}there's good firewood lyin' about.{nl}I want it. Fetch it here.\"{key}{nl}{clr}\"You'd like a reward too, eh?{nl}What's with that sour face?\"{key}{end}"
  },
  {
   "id": "505E",
   "jp": "{clr}「コレに入れて来てもらおうかのぅ。{nl}くれぐれも、途中で無くすでないぞ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"I'll have you carry it in this.{nl}And whatever you do, don't lose it.\"{key}{end}"
  },
  {
   "id": "505F",
   "jp": "{clr}{v1}は大木の下で、たくさんの{nl}タキギを見つけた。たしかにジイさんの{nl}話しの通り、とても良いタキギだ。{key}{nl}{clr}クチの悪い人のようだが、きっと{nl}物の良さの判る人なのだなァと思った。{key}{nl}{clr}さっそく拾って届けてあげよう！{key}{end}",
-  "en": ""
+  "en": "{clr}Under the big tree, {v1} found{nl}lots of firewood. Just as the old man{nl}said, it's very fine firewood.{key}{nl}{clr}He may have a foul mouth, but he{nl}surely knows quality when he sees it.{key}{nl}{clr}Time to pick it up and deliver it!{key}{end}"
  },
  {
   "id": "5060",
   "jp": "{clr}「おそかったな、{v1}よ。{nl}ほぅほぅ、感心感心。なかなか良い{nl}タキギを持ってきてくれたのう。{key}{nl}{clr}「そら、この武器をもってけ。{key}{nl}{clr}「それから、このダイスもオマケに{nl}くれてやる。{key}{end}",
-  "en": ""
+  "en": "{clr}\"You're late, {v1}.{nl}Well, well, I'm impressed. That's some{nl}fine firewood you brought me.\"{key}{nl}{clr}\"Here, take this weapon.\"{key}{nl}{clr}\"And I'll throw in this die{nl}as a bonus.\"{key}{end}"
  },
  {
   "id": "5061",
   "jp": "{clr}「やぁ{v1}さん！{nl}きょうも良い天気だねっ。あははは。{key}{nl}{clr}「じつは…、その…、頼みたい事が{nl}あってね、こうしてまっていたんです。{key}{nl}{clr}「教会にいるルリナっていう娘に{nl}てがみを届けてほしいんです……。{nl}ああ！ドキドキするぞ！あああ～！{key}{nl}{clr}「す、すいません…。{key}{nl}{clr}「こんな事を勇者さんに頼むのは{nl}もうしわけないんですけど、他の人に{nl}しられたくないんですよ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hey, {v1}-san!{nl}Lovely weather today, huh? Ahaha.\"{key}{nl}{clr}\"Actually... um... there's something{nl}I wanted to ask, so I waited here.\"{key}{nl}{clr}\"Please deliver a letter to a girl{nl}named Rurina at the church...{nl}Ahh! My heart's pounding! Aaah~!\"{key}{nl}{clr}\"S-sorry...\"{key}{nl}{clr}\"I'm sorry to ask a hero a favor{nl}like this, but I don't want anyone{nl}else finding out.\"{key}{end}"
  },
  {
   "id": "5062",
   "jp": "{clr}「では、このてがみ…、あの…、{nl}途中でよまないで下さいね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"So, this letter... um...{nl}please don't read it on the way.\"{key}{end}"
  },
  {
   "id": "5063",
   "jp": "{clr}{v1}は{nl}カンバンの前で立ちどまった。{key}{nl}{clr}{v1}『このラブレター。{nl}カンバンにはりつけて、さらし者に{nl}してやろうか。{key}{nl}{clr}{v1}は、思いとどまった。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} stopped{nl}in front of the sign.{key}{nl}{clr}{v1}: \"This love letter...{nl}I could pin it on the sign and{nl}put him to public shame.\"{key}{nl}{clr}{v1} thought better of it.{key}{end}"
  },
  {
   "id": "5064",
   "jp": "{clr}「はい？ええ、ルリナは私だけど？{nl}ええ？！私にラブレター？{key}{nl}{clr}「まあ、どんな男の人だった？{nl}カッコイイ人ならかんがえてもいいわ。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Yes? Sure, I'm Rurina, why?{nl}What?! A love letter for me?\"{key}{nl}{clr}\"Ooh, what kind of guy was he?{nl}If he's handsome, I might consider it.\"{key}{nl}{end}"
  },
  {
   "id": "5065",
   "jp": "{clr}カッコイイ男だったと理解させるために{nl}{end}",
-  "en": ""
+  "en": "{clr}To convince her he was handsome...{nl}{end}"
  },
  {
   "id": "5066",
   "jp": "{clr}「ふう～ん…、まあ{v1}さんが{nl}それだけプッシュしてるなら…。{key}{nl}そうね、いちど会ってみてもいいわ。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Hmm~... Well, if {v1}-san{nl}is pushing him that hard...{key}{nl}Okay, maybe I'll meet him once.\"{key}{nl}{end}"
  },
  {
   "id": "5067",
   "jp": "{clr}{v1}の話し方が悪かったのか、{nl}ルリナはタイクツそうにアクビをした。{key}{nl}{clr}「ごめんなさいね、私って面食いなの。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}Maybe {v1} told it badly...{nl}Rurina yawned, looking bored.{key}{nl}{clr}\"Sorry, I only go for good looks.\"{key}{nl}{end}"
  },
  {
   "id": "5068",
   "jp": "{clr}「お、おかえりなさい！{v1}さん！{nl}どうでしたか？ドキドキ…。{key}{nl}{clr}{v1}が、よいへんじを聞かせると{nl}男は飛び上がってよろこんだ！{key}{nl}{clr}「ありがとう！！{v1}さんは{nl}ボクら２人のキューピーさんですっ！{key}{nl}{clr}{v1}『キューピット…。{key}{nl}{clr}「そう、そっちそっち！{key}{end}",
-  "en": ""
+  "en": "{clr}\"W-welcome back, {v1}-san!{nl}How did it go? Ba-dump, ba-dump...\"{key}{nl}{clr}When {v1} shared the good news,{nl}the man leapt for joy!{key}{nl}{clr}\"Thank you!! {v1}-san, you're{nl}our very own Cupcake!\"{key}{nl}{clr}{v1}: \"Cupid...\"{key}{nl}{clr}\"Yeah, that, that!\"{key}{end}"
  },
  {
   "id": "5069",
   "jp": "{clr}「シッ。静かに！{nl}いいか、だまって聞くんだ。{key}{nl}{clr}「オレはサイランド王国へ来ている{nl}ある国のスパイなんだ…。げほっげほっ{key}{nl}{clr}「こんな事を勇者に頼むなんて{nl}バカなヤツだと思うかもしれないが…{key}{nl}{clr}「城から死ぬ思いで探し出した{nl}この魔法の書物！これをなかまの所へ{nl}届けてほしいのだ。頼むっ！{key}{nl}{clr}{v1}は男の鎧の下から{nl}血が流れているのに気づいた。{key}{nl}{clr}「ふふっ、オレはもうじき死ぬ。だが{nl}これを届けてくれれば、国でまっている{nl}オレの子どもがたすかるんだ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Shh. Quiet!{nl}Listen, and don't say a word.\"{key}{nl}{clr}\"I'm a spy from another country{nl}here in Siland... Hack, hack.\"{key}{nl}{clr}\"You may think me a fool for asking{nl}a hero to do this, but...\"{key}{nl}{clr}\"This magic tome, I risked my life to{nl}find it in the castle! Get it to my{nl}comrades for me. I beg you!\"{key}{nl}{clr}{v1} noticed blood flowing from{nl}beneath the man's armor.{key}{nl}{clr}\"Heh... I'll be dead soon. But if{nl}you deliver this, my child waiting{nl}back home will be saved.\"{key}{end}"
  },
  {
   "id": "506A",
   "jp": "{clr}このクエストの報酬は、{nl}男の持ち物をぜんぶ、くれるそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest is{nl}all of the man's belongings, it seems.{key}{end}"
  },
  {
   "id": "506B",
   "jp": "{clr}「すまん…、{nl}このカバンを廃虚まで頼む！{nl}ごほっごほっ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Sorry...{nl}Take this bag to the ruins, please!{nl}Cough, cough.\"{key}{end}"
  },
  {
   "id": "506C",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}お城から、きゅうきょくの回復魔法{nl}ヘカトンヒールぬすまれる！{nl} ～サイランドタイムス～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}Ultimate healing spell \"Hecaton Heal\"{nl}stolen from the castle!{nl}~The Siland Times~{key}{end}"
  },
  {
   "id": "506D",
   "jp": "{clr}「おや…、アンタは見ないカオだね…。{nl}そのカバンを持っている所を見ると{nl}アタシらのなかまのようだがね。{key}{nl}{clr}「まあいいわい。さあっ！{nl}カバンをおいて、とっとと行きなっ！{nl}次のしごとに取りかかるんだよっ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Well now... Haven't seen your face{nl}before... But seein' as you've got{nl}that bag, you must be one of us.\"{key}{nl}{clr}\"Ah, whatever. Now then!{nl}Drop the bag and get goin'!{nl}Get started on your next job!\"{key}{end}"
  },
  {
   "id": "506E",
   "jp": "{clr}{v1}『ちゃんととどけてきたよ…{key}{nl}{clr}{v1}『…？？{key}{nl}{clr}{v1}『…{wait2}…{wait2}…。{key}{nl}{clr}{nl}    男はすでに死んでいた…。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1}: \"Delivered it, like you asked...\"{key}{nl}{clr}{v1}: \"...??\"{key}{nl}{clr}{v1}: \"...{wait2}...{wait2}...\"{key}{nl}{clr}{nl}{at3}The man was already dead...{key}{end}"
  },
  {
   "id": "506F",
   "jp": "{clr}{v1}は洞窟の中を歩んだ。{key}{nl}{clr}床には人のホネらしい物がゴロゴロと{nl}転がっている。勇ましい{v1}は{nl}思わず武者ぶるいした。{key}{nl}{clr}この洞窟のヌシはウェアベアーという{nl}おそろしいモンスターなのだそうだ。{key}{nl}{clr}倒して帰ると、きっと王様がほうびを{nl}下さるにちがいない。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} walked through the cave.{key}{nl}{clr}Things that look like human bones{nl}lie scattered across the floor. Even{nl}brave {v1} trembled with nerves.{key}{nl}{clr}The master of this cave is said to be{nl}a fearsome monster called Werebear.{key}{nl}{clr}Defeat it and return, and the King{nl}is sure to give a reward.{key}{nl}{end}"
  },
  {
   "id": "5070",
   "jp": "{clr}その時！暗がりの中から大きな魔物が{nl}すがたを現した！{key}{nl}{clr}「がるるるる！また来たな～～！！{nl}サイランドのこわっぱめ！{nl}ちょうどハラが減っていたんだわさ！{key}{nl}{clr}   ウェアベアーと戦いますか？{nl}    たたかう   にげる{end}",
-  "en": ""
+  "en": "{clr}Just then! From the darkness, a huge{nl}fiend appeared!{key}{nl}{clr}\"Grrrrr! You came again~~!!{nl}You Siland brat!{nl}I was just gettin' hungry!\"{key}{nl}{clr}Fight the Werebear?{nl}{at4}Fight{at11}Run{end}"
  },
  {
   "id": "5071",
   "jp": "{clr}「そんなに食われたいかぁ～～！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"You want to be eaten that bad~~!?\"{key}{end}"
  },
  {
   "id": "5072",
   "jp": "{clr}「おくびょう者め！これでも食らえ！{nl}ベアーパーンチ！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Coward! Take this!{nl}Bear Puuunch!!\"{key}{end}"
  },
  {
   "id": "5073",
   "jp": "{clr}「ハァハァ…。や、やるわね…。{nl}負けちゃった…。{key}{nl}{clr}「このボーシをあげるから、王様に{nl}見せてあげてね。ほめられるよ。{key}{nl}{clr}「ここは本来、ワタシのクビを{nl}切り落とすべきなんだろうけど。{nl}そしたら死んじゃうからね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Huff, huff... N-not bad...{nl}I lost...\"{key}{nl}{clr}\"I'll give you this hat, so show it{nl}to the King. He'll praise you.\"{key}{nl}{clr}\"By rights, you should cut off{nl}my head here, I guess. But then{nl}I'd die, you know.\"{key}{end}"
  },
  {
   "id": "5074",
   "jp": "{clr}「あーっはっはっはッ！{nl}弱い弱いッ！出直してきなぁ～～！！{key}{nl}{clr}「でもケッコウがんばったと思うから{nl}これをあげるね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah-ha-ha-ha!{nl}Weak, weak! Come back stronger~~!!\"{key}{nl}{clr}\"But I think you tried pretty hard,{nl}so here's this.\"{key}{end}"
  },
  {
   "id": "5075",
   "jp": "{clr}{v1}は{nl}ふたたび洞窟に入ってみた。{key}{nl}{clr}ウェアベアーは見当たらなかったが{nl}かわりに宝箱を発見した。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} went into{nl}the cave once more.{key}{nl}{clr}There was no sign of the Werebear,{nl}but a treasure chest turned up instead.{key}{end}"
  },
  {
   "id": "5076",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}キケン！人食いモンスター出現！{nl}倒した者には報酬をつかわす。{nl} ～サイランド国王より～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}DANGER! Man-eating monster sighted!{nl}A reward to whoever defeats it.{nl}~By order of the King of Siland~{key}{end}"
  },
  {
   "id": "5077",
   "jp": "{clr}「おおおッ！でかしたぞ{v1}よ！{key}{nl}{clr}うむ、それはまさしくウェアベアーの{nl}クビ。よくぞなしとげた！{v1}！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ohhh! Well done, {v1}!\"{key}{nl}{clr}\"Yes, that is surely the Werebear's{nl}head. Splendidly done, {v1}!\"{key}{end}"
  },
  {
   "id": "5078",
   "jp": "{clr}{v1}は、見事にモンスターを{nl}やっつけた。魔物退治を達成して{nl}{v1}は、ほっとタメイキをついた。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} splendidly defeated{nl}the monster. With the fiend slain,{nl}{v1} let out a sigh of relief.{key}{end}"
  }
 ]

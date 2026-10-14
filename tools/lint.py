@@ -54,7 +54,12 @@ def jp_cells(line):
 
 
 def controls(s):
-    return [t for t in TOKEN.findall(s) if t != "{nl}" and not t.startswith("{at")]
+    """Ordered control codes that must match JP. {vN} inserts are checked as a set (EN may repeat a name)."""
+    return [t for t in TOKEN.findall(s) if t != "{nl}" and not t.startswith("{at") and not re.fullmatch(r"\{v\d+\}", t)]
+
+
+def var_set(s):
+    return set(re.findall(r"\{v\d+\}", s))
 
 
 def lint_entry(e):
@@ -72,6 +77,8 @@ def lint_entry(e):
         return errs
     if controls(en) != controls(jp):
         errs.append(f"control codes differ: JP {controls(jp)} EN {controls(en)}")
+    if var_set(en) != var_set(jp):
+        errs.append(f"variables differ: JP {sorted(var_set(jp))} EN {sorted(var_set(en))}")
     if re.search(r"\{v\d+\}(st|nd|rd|th)\b", en):
         errs.append("ordinal suffix glued to a variable")
     jp_pages, en_pages = jp.split("{clr}"), en.split("{clr}")

@@ -80,12 +80,32 @@ def hint(e):
     return " ".join(out) or "-"
 
 
+KATA = re.compile(r"[ァ-ヶー]")
+
+
+def term_in(term, jp, gloss):
+    """term occurs in jp as a word: not inside a longer glossary term, and a katakana term is not part of a
+    longer katakana word (マス in フェイマス)."""
+    longer = sorted({t for t, _, _ in gloss if term in t and t != term}, key=len, reverse=True)
+    for t in longer:
+        jp = jp.replace(t, "\0" * len(t))
+    for m in re.finditer(re.escape(term), jp):
+        a, b = m.start(), m.end()
+        if KATA.match(term[0]) and a > 0 and KATA.match(jp[a - 1]):
+            continue
+        if KATA.match(term[-1]) and b < len(jp) and KATA.match(jp[b]):
+            continue
+        return True
+    return False
+
+
 def problems(e, en, gloss):
     errs = lint.lint_entry({"id": e["id"], "jp": e["jp"], "en": en})
     if "\t" in en or "\\" in en:
         errs.append("tab or backslash in text")
+    jp_text = e["jp"]
     for jp, alts, avoid in gloss:
-        if jp in e["jp"] and alts and not any(a.lower() in en.lower() for a in alts):
+        if term_in(jp, jp_text, gloss) and alts and not any(a.lower() in en.lower() for a in alts):
             errs.append(f"glossary: {jp} -> {' / '.join(alts)} missing")
         for a in avoid:
             if re.search(rf"\b{re.escape(a)}\b", en):

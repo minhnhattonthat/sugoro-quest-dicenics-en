@@ -11,7 +11,10 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Plans pre-approved: work through checkpoints, report at the end.
 
 ## Style rules
-- Punctuation map: 「」 -> "...", 『』 -> '...', ・・・/… -> ..., ！？ -> !?
+- Punctuation map: 「」 -> "...", 『』 -> "...", ・・・/… -> ..., ！？ -> !?
+- Speech: 「 opens a quote that the JP never closes: close it at the end of each page ("...{key}"). A named
+  speaker `Name『...` -> `Name: "..."`.
+- Counts of items: "{v8} x2". Honorific 殿/どの -> -dono, 様 after a name -> -sama.
 - No suffix glued to a variable ({v1}st): rephrase.
 
 ## Characters
@@ -32,8 +35,8 @@ Voices (from the char-select bios and banter lines 701B-7032):
 | シンシア | Cynthia | | playable "misfortune user", female | |
 | デヒテル | Dechtel | | playable vampire, male | Dehitel |
 | ディアナ | Diana | | playable spirit of good luck, female | |
-| 王様 | the King | | king of Siland | |
-| 魔王 | the Demon Lord | | | Dark Lord |
+| 王様 | the King / Your Majesty | | king of Siland | |
+| 魔王 | Demon Lord | | | Dark Lord |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -58,5 +61,79 @@ Voices (from the char-select bios and banter lines 701B-7032):
 | 冒険者 | adventurer | | | |
 | 勇者 | hero | | | |
 | ファイアーステップ | Fire Step | | spell | |
+| サンダーステップ | Thunder Step | | spell | |
+| アシッドステップ | Acid Step | | spell | |
+| シーフステップ | Thief Step | | spell | |
+| ファイアーボール | Fireball | | spell | |
+| サンダーボルト | Thunderbolt | | spell | |
+| アシッドレイン | Acid Rain | | spell | |
+| エナジーミサイル | Energy Missile | | spell | |
+| パラライズ | Paralyze | | spell | |
+| インビジブル | Invisible | | spell | |
+| ダイスマイティー | Dice Mighty | | spell | |
+| ダイスマンブレイク | Diceman Break | | spell | |
+| ヘカトンヒール | Hecaton Heal | | spell | |
+| 特殊能力 | special ability / special abilities | | | |
+| 魔法使用回数 | spell uses | | | |
+| バックグラウンド | background | | battle background where players not fighting can act | |
+| ちからのダイス | Power Dice | | stat dice | |
+| 魔法のダイス | Magic Dice | | stat dice | |
+| すばやさのダイス | Speed Dice | | stat dice | |
+| 運のダイス | Luck Dice | | stat dice | |
+| いどうのダイス | Move Dice | | stat dice | |
+| セービングロール | saving roll | | | |
+| ハートマス | Heart space | | | |
+| 戦士タイプ | Warrior type | | | |
+| 幸運タイプ | Lucky type | | | |
+| 不幸タイプ | Unlucky type | | | |
+| カゲ武者 | body double | | | |
+| クラインのサイフ | Klein's Wallet | | | |
+| クラインのダイス | Klein's Dice | | | |
+| クラインの箱 | Klein's Box | | | |
+| 金食いの箱 | Money-Guzzler Box | | | |
+| デモンズエキス | Demon's Extract | | | |
+| マジックシルク | Magic Silk | | | |
+| ゴムのアヒル | rubber duck | | | |
+| ゴブリンのキバ | Goblin Fang | | | |
+| こなごなのカガミ | Shattered Mirror | | | |
+| カンバン | signboard / sign | | | |
+| 報酬 | reward | | | |
+| ラウンド | round | | | |
+| 魔王様 | Demon Lord | | "the Demon Lord" / "Demon Lord-sama" | |
+
+## People and monsters (from batch reports)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| ローギー | Rogie | | merchant dragon, Tanguy's pal | |
+| 商人ドラゴン | merchant dragon | | | |
+| プロブレマティカ | Problematica | | Demon Lord of Death | |
+| ハデス | Hades | | a Demon Lord | |
+| ヒラニプラ | Hiranipla | | Ulrik's god | Hiranipura |
+| ウルリク教 | Church of Ulrik | | Ulrik's cult | Ulrik faith |
+| ツッチ | Tsucchi | | lost child, "Tsucchi-chan" | |
+| ミツ | Mitsu | | mirror craftsman | |
+| ルリナ | Rurina | | | |
+| ケイヌ | Keinu | | missing child | |
+| アリエル | Ariel | | abducted sister | |
+| ジョセフィーヌ | Josephine | | the rubber duck | |
+| メデューサ | Medusa | | | |
+| リッチ | Lich | | | |
+| サッカバス | Succubus | | | |
+| ウェアベア | Werebear | | | |
+| バーミスラックス | Vermithrax | | | |
+| ゴールドドラゴン | Gold Dragon | | | |
+| オオカミ男 | Werewolf | | | |
+
+## Places and organisations
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| 死の洞窟 | Cave of Death | | | |
+| 魔界 | Demon Realm | | | demon realm |
+| 廃虚 | ruins | | | |
+| サイランドタイムス | Siland Times | | newspaper | |
+| デイリーサイランド | Daily Siland | | newspaper | |
+| サイランド食料連合 | Siland Food Union | | | |
+| サイランド子ども団 | Siland Kids' Club | | | |
+| サイランドペット連合 | Siland Pet Federation | | | |
 
 ## Decisions from earlier batches

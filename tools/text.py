@@ -80,6 +80,15 @@ def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "stats"
     if cmd == "dump":
         dump(rom, "--force" in sys.argv)
+    elif cmd == "refresh":  # re-decode every jp field (after a jp.tbl fix), keeping en
+        for g, bank, off, ptrs in script.groups(rom):
+            path = SCRIPT / f"g{g}.json"
+            entries = json.loads(path.read_text(encoding="utf-8"))
+            for e, p in zip(entries, ptrs):
+                if "same" not in e:
+                    e["jp"] = JP.decode(rom, script.lorom(bank, p))[0]
+            save(path, entries)
+        print("jp refreshed")
     elif cmd == "stats":
         tot = done = 0
         for g, entries in load_groups().items():

@@ -2,476 +2,476 @@
  {
   "id": "6000",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「オプション画面で{nl}じゅくすい、かみんのＹＥＳ、ＮＯを{nl}出ないようにする事が出来るんじゃぞ。{key}{nl}{clr}「出ないようにしておけば、{nl}バックグラウンドの時に、ボタンを押す{nl}回数が減って、便利なハズじゃ。{key}{nl}{clr}「しっておったかな？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"On the Options screen, you can hide{nl}the YES/NO prompts for Deep Sleep{nl}and Nap, you know.{key}{nl}{clr}\"With them hidden, you'll press{nl}buttons fewer times while in the{nl}background. Quite handy, I'd say.\"{key}{nl}{clr}\"Did you know that?\"{key}{end}"
  },
  {
   "id": "6001",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「スコアはクエストだけではなく、{nl}マップ上を歩いただけでも、少しづつ{nl}増えて行くんじゃぞい。{key}{nl}{clr}「まあウロウロしているだけで{nl}１位になったりはせんじゃろうがの。{key}{nl}{clr}「しっておったかな？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"Your score rises not just from{nl}quests, but bit by bit from simply{nl}walking around the map, you know.\"{key}{nl}{clr}\"Mind you, nobody will reach first{nl}place just by wandering about.\"{key}{nl}{clr}\"Did you know that?\"{key}{end}"
  },
  {
   "id": "6002",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「冒険に勝つコツはな、特殊能力を{nl}ちゃんと使いこなす事じゃな。{key}{nl}{clr}「じぶんの使える特殊能力はもちろん{nl}じゃが、ライバルの能力を覚えておくと{nl}いざというときピンチにならんぞ。{key}{nl}{clr}「では、がんばるんじゃぞ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"The trick to winning an adventure{nl}is mastering your special abilities.\"{key}{nl}{clr}\"Your own abilities, of course, but{nl}if you remember your rivals' too, you{nl}won't land in a pinch when it counts.\"{key}{nl}{clr}\"Now then, do your best!\"{key}{end}"
  },
  {
   "id": "6003",
   "jp": "{clr}「これがほしいか？…………。{key}{nl}{clr}「ほかのみんなにはナイショじゃぞ。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"You want this, do you?............\"{key}{nl}{clr}\"Keep it secret from the others, now.\"{key}{nl}{end}"
  },
  {
   "id": "6004",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「ダイスマイティーという魔法を{nl}しっておるか？アレはすごいぞ！{key}{nl}{clr}「もし見つけたら、ボスと戦う時まで{nl}大事にとっておくべきかもしれんのう。{key}{nl}{clr}「ナニ？どんな魔法か聞きたいとな？{nl}ふぉっふぉっふぉっふぉ。{nl}使ってみれば判るじゃろう！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"Do you know the spell Dice Mighty?{nl}That one is amazing!\"{key}{nl}{clr}\"If you find it, perhaps you should{nl}save it for when you fight the boss.\"{key}{nl}{clr}\"What? You want to know what it does?{nl}Ho ho ho ho.{nl}Use it and you'll see!\"{key}{nl}{end}"
  },
  {
   "id": "6005",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「バックグラウンドの時に使える魔法は{nl}４タイプに分かれておるんじゃよ。{key}{nl}{clr}「たとえば…、{nl}ファイアーボールしか持っておらん時に{nl}エナジーミサイルを見つけたとしよう。{key}{nl}{clr}「この時はファイアーボールを全て{nl}使いきるまで、サンダーボルトは{nl}見えないのじゃよ。あせるでないぞ。{key}{nl}{clr}「たとえ、アイコンが３個空っぽに{nl}なっていても、攻撃タイプの魔法は{nl}１個しか見えないしくみなのじゃな。{key}{nl}{clr}「理解出来たかの？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"The magic you can use in the{nl}background comes in four types.\"{key}{nl}{clr}\"For example... say you only have{nl}Fireball, and then you happen to{nl}find Energy Missile.\"{key}{nl}{clr}\"In that case, you won't see{nl}Thunderbolt until you use up every{nl}Fireball. So don't fret.\"{key}{nl}{clr}\"Even if three of your icons are{nl}empty, you can only see one{nl}attack-type spell. That's the rule.\"{key}{nl}{clr}\"Did you follow all that?\"{key}{end}"
  },
  {
   "id": "6006",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「キャラクターをセーブすると{nl}どんなデータがバックアップされてるか{nl}しっておるかのう？{key}{nl}{clr}「魔法、アイテム、レベルの他にも{nl}じつは武器や鎧や盾もセーブされて{nl}おるんじゃよ。{key}{nl}{clr}「武器や鎧や盾は、ロードした後で{nl}４人で山分けしてしまうので、少し{nl}弱くなったりする場合もあるんじゃ。{key}{nl}{clr}「しっておったかのう？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"Do you know what data gets backed{nl}up when you save a character?\"{key}{nl}{clr}\"Besides magic, items and level,{nl}the weapon, armor and shield are{nl}actually saved too.\"{key}{nl}{clr}\"After loading, weapons, armor and{nl}shields get split among all four, so{nl}they may end up a little weaker.\"{key}{nl}{clr}\"Did you know that?\"{key}{end}"
  },
  {
   "id": "6007",
   "jp": "{clr}「良く来たな{v1}よ。{key}{nl}たまには冒険の手をやすめて、ワシの{nl}話しを聞くのも悪くないじゃろう。{key}{nl}{clr}「この話しはあまり聞かせたくない{nl}事なのじゃが…、まあ、わざわざワシに{nl}会いに来た事だし、教えてやろうかの。{key}{nl}{clr}「じつは…、この世界のどこかに魔界が{nl}あるのじゃ！そこは悪の中の悪！{nl}死の魔王プロブレマティカの治める国！{key}{nl}{clr}「果たしてお前達に{nl}たどりつけるものかどうか…。{nl}いや、いつかきっと…、お前達なら…。{key}{nl}{clr}「全てのマップの……、……を…、{nl}倒しさえすれば…、道は……………。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Ah, welcome, {v1}.{key}{nl}Now and then, it can't hurt to rest{nl}from adventure and hear me talk.\"{key}{nl}{clr}\"This isn't something I like to tell...{nl}But you came all this way to see me,{nl}so perhaps I'll let you in on it.\"{key}{nl}{clr}\"In truth, somewhere in this world lies{nl}the Demon Realm! Evil of evils! Realm of{nl}the Demon Lord of Death, Problematica!\"{key}{nl}{clr}\"Whether you lot can ever reach it...{nl}No, someday surely... you all...\"{key}{nl}{clr}\"The...... of every map......{nl}if you but defeat them... the way......\"{key}{nl}{end}"
  },
  {
   "id": "6008",
   "jp": "{clr}「大変よ！{v1}！{key}{nl}私、このマップにひそむモンスターの{nl}大ボスについて調べていたの。{key}{nl}{clr}「どこにかくれているか、探す方法が{nl}わかったのよ！おねがい{v1}！{nl}私達の力になってちょうだい！{key}{nl}{clr}「廃虚のガレキを…。そう、あの廃虚は{nl}まちがい無くメデューサが滅ぼした村の{nl}あとなんだけど…。{key}{nl}{clr}「ガレキを私の所まで{nl}持って来てほしいの。そうすればきっと{nl}メデューサを探し出せるわ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"This is big, {v1}!{key}{nl}I've been looking into the big boss{nl}monster lurking on this map.\"{key}{nl}{clr}\"I've found a way to search out where{nl}it's hiding! Please, {v1}!{nl}Lend us your strength!\"{key}{nl}{clr}\"The rubble from the ruins... Yes, those{nl}ruins are surely what's left of a{nl}village Medusa destroyed...\"{key}{nl}{clr}\"Bring that rubble to me, please.{nl}If you do, I'm sure I can track{nl}Medusa down!\"{key}{end}"
  },
  {
   "id": "6009",
   "jp": "{clr}この重大なクエストを請け負いますか？{nl}{nl}    まかせろ   いやです{end}",
-  "en": ""
+  "en": "{clr}Will you take on this grave quest?{nl}{nl}{at4}Count on me{at11}No way{end}"
  },
  {
   "id": "600A",
   "jp": "{clr}このクエストの報酬は、{nl}エルフのオススメ魔法セットだそうです{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest is a{nl}magic set the Elf recommends, it seems.{key}{nl}{end}"
  },
  {
   "id": "600B",
   "jp": "{clr}「うれしいわ。{v1}ちゃん。{nl}サイランドの冒険者はこうでなくちゃ！{key}{nl}{clr}「じゃ、このマジックシルクにつつんで{nl}持ち帰ってちょうだい。いそいでね！{nl}メデューサが、あばれださないうちに！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"I'm so glad, {v1}-chan.{nl}That's how Siland's adventurers do it!\"{key}{nl}{clr}\"Now, wrap it in this Magic Silk and{nl}bring it back. Hurry, before Medusa{nl}starts running wild!\"{key}{nl}{end}"
  },
  {
   "id": "600C",
   "jp": "{clr}「サイテー！{key}{nl}{clr}{v1}の、いくじなしっー{key}{end}",
-  "en": ""
+  "en": "{clr}\"You're the worst!\"{key}{nl}{clr}\"{v1}, you big coward~!\"{key}{end}"
  },
  {
   "id": "600D",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}サイランドの勇者{v1}は{nl}むかしの勇者から、重大なクエストを{nl}請け負った様子。 ～国王よりの発表～{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the signboard.{key}{nl}{clr}Siland's hero {v1} has taken{nl}on a grave quest from a hero of old.{nl}~ Announcement from the King ~{key}{nl}{end}"
  },
  {
   "id": "600E",
   "jp": "{clr}{v1}は、廃虚へたどりついた。{key}{nl}だが、どのガレキを拾えば良いのか{nl}{v1}には見当がつかない！{key}{nl}{clr}{v1}『どうしようか……。{key}{nl}{clr}{v1}は、しかたなく{nl}マジックシルクをヒラリと床に落として{nl}みた。すると……！{key}{nl}{clr}シルクにふれたガレキが{nl}光りかがやきはじめたではないか！{nl}{v1}『これだっ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} reached the ruins.{key}{nl}But {v1} has no idea which{nl}rubble to pick up!{key}{nl}{clr}{v1}: \"What should I do......\"{key}{nl}{clr}{v1} had no choice but to let{nl}the Magic Silk flutter down to the{nl}floor. And then......!{key}{nl}{clr}The rubble the silk touched{nl}began to glow and sparkle!{nl}{v1}: \"This is it!\"{key}{end}"
  },
  {
   "id": "600F",
   "jp": "{clr}「まあ、お帰りなさい{v1}ちゃん。{key}{nl}{clr}「ああ！そう、そのガレキよ！{nl}まちがいないわ。モンスターの気配が{nl}プンプンする。強い闇の力だわ。{key}{nl}{clr}「ふうん…、ガレキだとばかり思って{nl}いたけど、これはメデューサの{nl}カラダから、はがれ落ちた物のようね。{key}{nl}{clr}「ウロコかぁ…。{key}{nl}あ、もう行って良いわよ。{v1}。{nl}何か情報が入ったら教えてあげるわね。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Oh, welcome back, {v1}-chan.\"{key}{nl}{clr}\"Ah! Yes, that rubble! No doubt{nl}about it. It positively reeks of{nl}monster. A strong power of darkness.\"{key}{nl}{clr}\"Hmm... I took it for plain rubble,{nl}but it seems this is something that{nl}peeled off of Medusa's body.\"{key}{nl}{clr}\"A scale, huh...{key}{nl}Oh, you can go now, {v1}.{nl}I'll let you know if I hear anything.\"{key}{nl}{end}"
  },
  {
   "id": "6010",
   "jp": "{clr}「すまんなあ、{v1}よ。{key}{nl}{clr}「こないだお前達に持って来てもらった{nl}ウロコなんだが、あれだけではボスを{nl}探し出す事は出来なかったわい。{key}{nl}{clr}「だが、湖にいるワシらのなかまが、{nl}ぜひウロコを見てみたいというので{nl}すまんが、また運んでもらえんかね？{key}{nl}{clr}「アイツは見栄っぱりで、イヤミばかり{nl}達者なヤツじゃが、変な事をしっておる{nl}からのう。何か判るかもしれん。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Sorry about this, {v1}.\"{key}{nl}{clr}\"That scale you lot brought us the{nl}other day... it wasn't enough to find{nl}the boss on its own, I'm afraid.\"{key}{nl}{clr}\"But a friend of ours at the lake is{nl}dying to see that scale, so... sorry,{nl}but could you carry it there for us?\"{key}{nl}{clr}\"The fellow's a show-off, all snide{nl}remarks, but knows some odd things.{nl}Might figure something out.\"{key}{end}"
  },
  {
   "id": "6011",
   "jp": "{clr}このクエストの報酬は、{nl}ドワーフのオススメ強力鎧だそうです。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest is strong{nl}armor the Dwarf recommends, it seems.{key}{nl}{end}"
  },
  {
   "id": "6012",
   "jp": "{clr}「おぉ！すまんすまん、{v1}殿。{nl}たすかるわい。{key}{nl}{clr}「では、これを湖までたのむぞ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh! Thank you kindly, {v1}-dono.{nl}You're a great help.\"{key}{nl}{clr}\"Then take this to the lake, please!\"{key}{end}"
  },
  {
   "id": "6013",
   "jp": "{clr}「な、なんじゃと………。ギロリ{key}{end}",
-  "en": ""
+  "en": "{clr}\"Wh-what did you say.........?\" Glare.{key}{end}"
  },
  {
   "id": "6014",
   "jp": "{clr}「こうやって、水辺で足をバシャバシャ{nl}やっていると、落ちつくんだ。{nl}お前もどう？つめたくて気持ち良いよ。{key}{nl}{clr}{v1}『それより、このウロコを…{key}{nl}{clr}「フンフン、ララララ～～{key}{nl}{clr}{nl}      バシャバシャ！{key}{nl}{clr}「なんだよう、そんな目で見るなよう。{nl}ちぇっ、しょうがない。見せてみな！{key}{nl}{clr}「ホぅ。これはこれは…。コイツは{nl}ずいぶんとタチの悪いメデューサだね。{key}{nl}{clr}娘になりすまして、人を信じこませて{nl}魂を食ったりする手合いだよ。コイツを{nl}倒すつもりなら、用心した方がいい。{key}{nl}{clr}ハーフエルフは、ペンを取り出すと{nl}ウロコの表面に、不思議なもようを{nl}書き加えた。{key}{nl}{clr}「これを持ってお行き。じゃあね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Splashing my feet in the water like{nl}this calms me down. Why don't you{nl}try? It's cool and feels nice.\"{key}{nl}{clr}{v1}: \"Never mind that, this scale...\"{key}{nl}{clr}\"Hmm hmm, la la la la~~\"{key}{nl}{clr}{nl}Splish splash!{key}{nl}{clr}\"What, don't look at me like that.{nl}Tch, fine then. Let's see it!\"{key}{nl}{clr}\"Oh ho. Well, well... This one's{nl}a really nasty Medusa, isn't it.\"{key}{nl}{clr}\"The kind that poses as a girl, wins{nl}trust, then eats souls. If you mean{nl}to beat it, you'd better be careful.\"{key}{nl}{clr}The half-elf took out a pen and{nl}drew a strange pattern on the{nl}scale's surface.{key}{nl}{clr}\"Take this with you. Bye now.\"{key}{end}"
  },
  {
   "id": "6015",
   "jp": "{clr}{v1}は、ウロコのてがみを見せた。{key}{nl}{clr}「ほうほう…。なるほど…。{key}{nl}{clr}「すまんがワシはこれから調べなくては{nl}ならない事があるから、これで{nl}しつれいするよ。{key}{nl}{clr}「また会おう{v1}！{nl}何か情報が入ったら教えてやるぞい！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} showed the scale letter.{key}{nl}{clr}\"Well, well... I see...\"{key}{nl}{clr}\"Sorry, but I've got something I need{nl}to look into now, so I'll be{nl}taking my leave.\"{key}{nl}{clr}\"See you again, {v1}!{nl}I'll tell you if I hear anything!\"{key}{nl}{end}"
  },
  {
   "id": "6016",
   "jp": "{clr}「やあ、やっと来たな、{v1}よ。{nl}オレのなかまの、ドワーフやエルフが{nl}何かと世話になったな。礼をいうぞ。{key}{nl}{clr}「お前達が力をかしてくれたおかげで{nl}なんとかメデューサのひそむ場所を{nl}探し出すことが出来た。感謝している。{key}{nl}{clr}「だがオレ達が手出しを出来るのは{nl}ここまでだ。ここから後はお前達の{nl}力が頼りなんだ。判るな？{nl}{clr}「教会にいる娘が、最近になって{nl}目に見えて性悪になってしまったそうだ{key}{nl}{clr}「{v1}よ、その目で様子を見てきて{nl}くれないだろうか？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hey, you finally came, {v1}.{nl}My friends the Dwarf and the Elf owe{nl}you a lot. You have my thanks.\"{key}{nl}{clr}\"Thanks to your help, we managed to{nl}find where Medusa is hiding.{nl}I'm grateful.\"{key}{nl}{clr}\"But this is as far as we can help.{nl}From here on, we're relying on your{nl}strength. Understand?\"{nl}{clr}\"The girl at the church has lately{nl}turned visibly nasty, they say.\"{key}{nl}{clr}\"{v1}, would you go and see{nl}how she is with your own eyes?\"{key}{end}"
  },
  {
   "id": "6017",
   "jp": "{clr}このクエストの報酬は、{nl}ファイターのオススメ武器だそうです。{key}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest is a weapon{nl}the Fighter recommends, it seems.{key}{end}"
  },
  {
   "id": "6018",
   "jp": "{clr}「そうか…、さすがだ、{v1}。{key}{nl}{clr}「このウロコのおまもりを持って行け。{nl}これがあれば、ヤツは本当のすがたを{nl}現すだろう。{key}{end}",
-  "en": ""
+  "en": "{clr}\"I knew it... you're the best, {v1}.\"{key}{nl}{clr}\"Take this scale charm with you.{nl}With it, the fiend will show its{nl}true form.\"{key}{end}"
  },
  {
   "id": "6019",
   "jp": "{clr}「ムム…、オレとした事が…、{nl}こんな{v1}を信用していたのか…。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Hmm... how could I, of all people...{nl}have trusted someone like {v1}...\"{key}{nl}{end}"
  },
  {
   "id": "601A",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}いよいよマップ１も山場へ。{nl}全ての国民は{v1}を見ている！{nl} ～サイランドタイムス～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the signboard.{key}{nl}{clr}At last, Map 1 reaches its climax.{nl}The whole nation is watching {v1}!{nl}~ Siland Times ~{key}{end}"
  },
  {
   "id": "601B",
   "jp": "{clr}「アハハ！{nl}いらっしゃ～い{v1}さん！{key}{nl}{clr}「何のご用？遊びに来てくれたのねっ？{nl}ウフフ、まっていたのよ。{nl}こっちへいらっしゃいな！さあ！{key}{nl}{clr}{v1}がウロコのおまもりを取り{nl}出すと、娘は大きく飛び退いた！{key}{nl}{clr}{nl}    グァアアア～～ッ！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ahaha!{nl}Welcome~, {v1}-san!\"{key}{nl}{clr}\"What brings you here? Came to play?{nl}Ufufu, I've been waiting for you.{nl}Come over here! Come on!\"{key}{nl}{clr}As {v1} drew out the scale charm,{nl}the girl leapt far back!{key}{nl}{clr}{nl}\"Graaaahhh~~!!\"{key}{end}"
  },
  {
   "id": "601C",
   "jp": "{clr}「うううおぉぉぉ～～～…{nl}おのれ！！悔しい！！なぜバレたのじゃ{key}{nl}{clr}「こうなったら道連れにしてくれるわ！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Uuuooohhh~~~...{nl}Curse you!! Vexing!! How did you know!?\"{key}{nl}{clr}\"Now I'll drag you down with me!\"{key}{nl}{end}"
  },
  {
   "id": "601D",
   "jp": "{clr}「ぐお……おお…お…、{nl}ま、魔王さ…ま…。{wait0}ガクッ{key}{end}",
-  "en": ""
+  "en": "{clr}\"Guoh...... ohh... oh...{nl}Oh, the Demon Lord-sa...ma...\"{wait0} Slump.{key}{end}"
  },
  {
   "id": "601E",
   "jp": "{clr}「ふははははッ！！{nl}話しにならぬわぁ、こんなに弱くとも{nl}勇者か！わらわせるわいなぁ～～！！{key}{nl}{clr}{nl}    アーッハッハッハ！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Fuhahahaha!!{nl}Pathetic! A hero, this weak!?{nl}Don't make me laugh~~!!\"{key}{nl}{clr}{nl}\"Ahhh-hahahaha!!\"{key}{end}"
  },
  {
   "id": "601F",
   "jp": "{clr}「やったな！{v1}！{key}{nl}{clr}「オレははじめから判っていたぜ。{nl}お前ならきっと勝って帰ってくるとな！{nl}判っていたんだぜ！{key}{nl}{clr}{v1}はメデューサのクビを{nl}手わたそうとした…すると…{key}{nl}{clr}とつぜんクビは天高く飛び上がり、{nl}虚ろな光をはなって見えなくなった。{nl}魔王の叫び声が聞こえた気がした…。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"You did it, {v1}!\"{key}{nl}{clr}\"I knew from the start. I knew you'd{nl}win and come back for sure!{nl}I just knew it!\"{key}{nl}{clr}{v1} went to hand over Medusa's{nl}head... and then...{key}{nl}{clr}Suddenly the head flew high, gave off{nl}a hollow light and vanished. A scream{nl}from the Demon Lord seemed to echo...{key}{nl}{end}"
  },
  {
   "id": "6020",
   "jp": "{clr}{v1}は、つりばしの近くへ{nl}たどりついた。つりばしの向こうへ{nl}行きたいのに、どうも様子がおかしい。{key}{nl}{clr}「あ、勇者の{v1}さんですね。{nl}ほら、見て下さい、このつりばし。{nl}あちこち切れそうになっているでしょ？{key}{nl}{clr}「いま、向こうへわたるのは無理ですわ{nl}でも、何か宝物があると、ここを{nl}通れるんだそうですよ。{key}{nl}{clr}「ええ、私も探しているんです！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} arrived near the rope bridge,{nl}hoping to cross it, but something{nl}seems wrong.{key}{nl}{clr}\"Oh, you're the hero {v1}-san.{nl}Look here, at this rope bridge.{nl}It's about to snap all over, see?\"{key}{nl}{clr}\"Crossing right now is impossible.{nl}But they say if you have a certain{nl}treasure, you can get through.\"{key}{nl}{clr}\"Yes, I'm looking for it too!\"{key}{end}"
  },
  {
   "id": "6021",
   "jp": "{clr}{v1}は、大きなゲートの前に{nl}たどりついた。見上げるほど大きな{nl}トビラがそびえ立っている。{key}{nl}{clr}{v1}は、しばらく通り抜ける方法を{nl}あれこれ思いめぐらせてみたが、{nl}どうにも歯が立たない。{key}{nl}{clr}{v1}は、{nl}あきらめてゲートの前を立ち去った。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} came up to a huge gate.{nl}Its doors tower so high you must{nl}crane your neck to see the top.{key}{nl}{clr}{v1} pondered for a while how{nl}to get through, but nothing{nl}worked at all.{key}{nl}{clr}{v1} gave up and left{nl}the gate behind.{key}{end}"
  },
  {
   "id": "6022",
   "jp": "{clr}「おーす。{v1}！{nl}つりばしの向こうへ行けなくて困って{nl}いるんだってぇ～？{key}{nl}{clr}「アハハぁ。{nl}ちょうど良い宝物があるんだけどなあ。{nl}どうだい？１００００ＴＫで買わない？{key}{nl}{clr}おたから「魔法のツタ」を買いますか？{nl}{nl}    かう     やめておく{end}",
-  "en": ""
+  "en": "{clr}\"Yo, {v1}!{nl}I hear you're stuck 'cause you can't{nl}get across the rope bridge~?\"{key}{nl}{clr}\"Ahaha.{nl}I've got just the right treasure.{nl}How 'bout it? Buy it for 10,000 TK?\"{key}{nl}{clr}Buy the treasure \"Magic Vine\"?{nl}{nl}{at4}Buy{at11}Don't buy{end}"
  },
  {
   "id": "6023",
   "jp": "{clr}「アーッハッハッハ！本気にしてらァ！{nl}うそうそ、アタイがお金なんか取るわけ{nl}ないじゃんか！{key}{nl}{clr}「ほら、持って行きな。これがあれば{nl}もう、つりばしは何回でも行き来出来る{nl}ハズだよん。{key}{nl}{clr}「イジワルしてゴメンね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ahahahaha! You fell for it!{nl}Kidding, kidding! As if I'd take{nl}money from you!\"{key}{nl}{clr}\"Here, take it. With this, you{nl}should be able to cross the rope{nl}bridge as often as you like~\"{key}{nl}{clr}\"Sorry for teasing you.\"{key}{end}"
  },
  {
   "id": "6024",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}{v1}、１歩死の洞窟へ近づく！{nl}あたたかく見守ろう。{nl} ～デイリーサイランド～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the signboard.{key}{nl}{clr}{v1} draws one step closer{nl}to the Cave of Death! Let's all cheer!{nl}~ Daily Siland ~{key}{end}"
  },
  {
   "id": "6025",
   "jp": "{clr}「まあ、{v1}さん。{nl}つりばしをわたれる宝物を見つけて{nl}来たのですね。さすが勇者様ですのね。{key}{nl}{clr}{v1}は、まほうのツタをつりばしに{nl}からめて見た。すると、ツタは{nl}見る見るうちにのびて行くではないか！{key}{nl}{clr}{nl}      ギシギシギシ…{key}{nl}{clr}いまにも切れそうだったつりばしは、{nl}あっという間に、立派な強いつりばしに{nl}なってしまった！{key}{nl}{clr}「ありがとう{v1}さん！{key}{nl}{clr}「これで向こうへ行けますわ。{nl}これは、ほんのお礼です、{nl}えんりょせずに、うけ取って下さいな。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Oh my, {v1}-san.{nl}You found the treasure that lets us{nl}cross the bridge. Just like a hero!\"{key}{nl}{clr}{v1} tried winding the Magic Vine{nl}around the rope bridge. And the vine{nl}grew and grew in the blink of an eye!{key}{nl}{clr}{nl}Creak creak creak...{key}{nl}{clr}The rope bridge that was about to snap{nl}became a fine, sturdy bridge{nl}in no time at all!{key}{nl}{clr}\"Thank you, {v1}-san!\"{key}{nl}{clr}\"Now we can get across.{nl}This is just a small thanks.{nl}Please, don't be shy, take it.\"{key}{nl}{end}"
  },
  {
   "id": "6026",
   "jp": "{clr}「まっていたぞ、{v1}よ。{nl}オレ達４人で、ゲートのカギを{nl}見つけておいたぞ。使ってくれ！{key}{nl}{clr}「もうひとつゲートがあるらしいんだが{nl}そのカギは、まだ発見出来ないんだ。{nl}取り合えず、手前のゲートをたのむぜ。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"I've been waiting, {v1}.{nl}The four of us found the key to{nl}the gate. Go on, use it!\"{key}{nl}{clr}\"There's said to be one more gate,{nl}but we haven't found that key yet.{nl}For now, take care of the near one!\"{key}{nl}{end}"
  },
  {
   "id": "6027",
   "jp": "{clr}{v1}は、カンバンをチラリと見た。{key}{nl}{clr}{v1}、また１歩死の洞窟へ近づく！{nl}何がいるのか？！死の洞窟！{nl} ～デイリーサイランド～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} glanced at the signboard.{key}{nl}{clr}Another step to the Cave of Death{nl}for {v1}! What lurks in that cave!?{nl}~ Daily Siland ~{key}{end}"
  },
  {
   "id": "6028",
   "jp": "{clr}{v1}は、大きなゲートの前に{nl}たどりついた。見上げるほど大きな{nl}トビラがそびえ立っている。{key}{nl}{clr}{v1}は、さっそく、くろいカギを{nl}取り出すと、カギあなにさしこんだ。{key}{nl}{clr}{nl}       ガチャリ！{key}{nl}{clr}あっけないほどカンタンにカギが外れ、{nl}{v1}はトビラをくぐる事が出来た。{key}{nl}{clr}しかも、トビラのすぐ後ろには{nl}宝箱が落ちているではないか！！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} came up to a huge gate.{nl}Its doors tower so high you must{nl}crane your neck to see the top.{key}{nl}{clr}{v1} quickly took out the Black Key{nl}and slid it into the keyhole.{key}{nl}{clr}{nl}Click!{key}{nl}{clr}The lock opened absurdly easily, and{nl}{v1} passed through the doors.{key}{nl}{clr}What's more, right behind the doors{nl}lay a treasure chest!!{key}{end}"
  },
  {
   "id": "6029",
   "jp": "{clr}「まってたよー。{v1}ちゃん！{nl}とうとう次のカギが見つかったよ！{key}{nl}{clr}「これで、死の洞窟へ入れるように{nl}なるハズなんだけど、どうも２番目の{nl}ゲートにワナがありそうな気がするの！{key}{nl}{clr}「気をつけてね…。{key}{end}",
-  "en": ""
+  "en": "{clr}\"I've been waiting, {v1}-chan!{nl}We finally found the next key!\"{key}{nl}{clr}\"With this, you should be able to get{nl}into the Cave of Death, but I have a{nl}feeling the second gate has a trap!\"{key}{nl}{clr}\"Be careful...\"{key}{end}"
  },
  {
   "id": "602A",
   "jp": "{clr}{v1}は、２番目のゲートに{nl}たどりついた。１番目のゲートと何ら{nl}変わらない大きなトビラが見える。{key}{nl}{clr}{v1}『よし…、このクマのカギを…{nl}でも、どうしてクマのカギなんだろう？{key}{nl}{clr}{v1}は、さっそく、クマのカギを{nl}取り出すと、カギあなにさしこんだ。{key}{nl}{clr}{nl}       ガチャリ！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} arrived at the second gate.{nl}Its huge doors look no different{nl}from the first gate's.{key}{nl}{clr}{v1}: \"Okay... with this Bear Key...{nl}but why a bear key, anyway?\"{key}{nl}{clr}{v1} quickly took out the Bear Key{nl}and slid it into the keyhole.{key}{nl}{clr}{nl}Click!{key}{end}"
  },
  {
   "id": "602B",
   "jp": "{clr}「ほーっほっほっほ！{nl}まっていたよ～。{v1}！{nl}マップ２では世話になったねえ。{key}{nl}{clr}「どうしてもお礼がいいたくて、{nl}パワーアップして来てやったよう！！{key}{nl}{clr}{nl}   死んでーーーッ！{v1}！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ohohohoho!{nl}I've been waiting~, {v1}!{nl}Thanks SO much for Map 2!\"{key}{nl}{clr}\"I just had to repay you, so I{nl}powered up and came for you!!\"{key}{nl}{clr}{nl}\"Now diiiie!! {v1}!\"{key}{end}"
  },
  {
   "id": "602C",
   "jp": "{clr}「ふえ～～。まいった。キュー。{key}{nl}{clr}「こ、これでかんべんしてチョーダイ！{nl}ねっ？ねっ？{key}{nl}{clr}ウェアベアーをゆるしてあげますか？{nl}{nl}    ゆるす    ころす{end}",
-  "en": ""
+  "en": "{clr}\"Hweee~~. I give up. Kyuu.\"{key}{nl}{clr}\"P-please, let me off with this!{nl}Okay? Okay?\"{key}{nl}{clr}Will you forgive the Werebear?{nl}{nl}{at4}Forgive{at11}Kill{end}"
  },
  {
   "id": "602D",
   "jp": "{clr}ウェアベアーは{nl}ファイアーボールを唱えた！{key}{end}",
-  "en": ""
+  "en": "{clr}The Werebear{nl}cast Fireball!{key}{end}"
  },
  {
   "id": "602E",
   "jp": "{clr}「そんなッ、しどいッ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Wha-!? That's so meeean!\"{key}{end}"
  },
  {
   "id": "602F",
   "jp": "{clr}「ザマミロー！へなちょこ{v1}！{nl}へっへ～～～んだぁ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Serves you right! Wimpy {v1}!{nl}Nyah nyah nyaaah!\"{key}{end}"
  },
  {
   "id": "6030",
   "jp": "{clr}「まっておったぞい！{v1}殿。{nl}死の洞窟のモンスターを、おびき出す{nl}クスリを調合したんじゃよ。{key}{nl}{clr}「洞窟に入って、このクスリを体に{nl}ふりかけるんじゃ。そうすればニオイに{nl}さそわれ、ヤツがすがたを現すじゃろ。{key}{nl}{clr}「気をつけるのじゃぞ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"I've been waiting, {v1}-dono!{nl}I've brewed a potion to lure out the{nl}monster of the Cave of Death.{key}{nl}{clr}\"Go into the cave and sprinkle this{nl}potion on yourself. The smell should{nl}draw the brute out into the open.{key}{nl}{clr}\"Do be careful, now.{key}{end}"
  },
  {
   "id": "6031",
   "jp": "{clr}{v1}は、いわれた通り体に{nl}デモンズエキスをふりかけてみた。{key}{nl}{clr}辺りに強いエキスのニオイがただよい{nl}{v1}は気が遠くなりそうだった。{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} did as told and sprinkled{nl}the Demon's Extract all over.{key}{nl}{clr}A strong smell of extract filled the air{nl}and {v1} nearly passed out.{key}{nl}{end}"
  },
  {
   "id": "6032",
   "jp": "{clr}その時！大きなカゲが、暗がりの中から{nl}すがたを現した！{key}{nl}{clr}{nl}     ズギャ～～ァ！！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}Just then! A huge shadow emerged{nl}from the darkness!{key}{nl}{clr}{nl}{at6}GRRAAAAAAHHH!!{key}{nl}{end}"
  },
  {
   "id": "6033",
   "jp": "{clr}バーミスラクスを倒した！{key}{end}",
-  "en": ""
+  "en": "{clr}You defeated Vermithrax!{key}{end}"
  },
  {
   "id": "6034",
   "jp": "{clr}バーミスラクスにやられた！{key}{end}",
-  "en": ""
+  "en": "{clr}Vermithrax has beaten you!{key}{end}"
  },
  {
   "id": "6035",
   "jp": "{clr}「来たな来たな！{key}{nl}{clr}「お前か！{v1}！人間ふぜいが{nl}魔界への入りぐちを見つけおって！{key}{nl}{clr}「プロブレマティカ様の手を{nl}わずらわすまでもない。{nl}ここへ来た事を後悔させてやる！{key}{nl}{clr}ゴールドドラゴンが立ちふさがった！{nl}{nl}    たたかう   にげる{end}",
-  "en": ""
+  "en": "{clr}\"So you've come, you've come!{key}{nl}{clr}\"You, {v1}! How dare a mere human{nl}find the way into the Demon Realm!{key}{nl}{clr}\"No need to trouble Problematica-sama{nl}with the likes of you.{nl}I'll make you regret coming here!{key}{nl}{clr}The Gold Dragon blocks the way!{nl}{nl}{at4}Fight{at11}Flee{end}"
  },
  {
   "id": "6036",
-  "jp": "{clr}「みのほどしらずめ！！{nl}内切れにしてくれるわ！！{key}{nl}{clr}{nl}       コロス！{key}{end}",
-  "en": ""
+  "jp": "{clr}「みのほどしらずめ！！{nl}肉切れにしてくれるわ！！{key}{nl}{clr}{nl}       コロス！{key}{end}",
+  "en": "{clr}\"You don't know your place!!{nl}I'll slice you to ribbons!!{key}{nl}{clr}{nl}{at8}DIE!{key}{end}"
  },
  {
   "id": "6037",
   "jp": "{clr}「勝手にしろ！あまりにも弱い勇者を{nl}見たのでハラが痛いぞ！がっはっは！{nl}これをめぐんでやる！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Suit yourself! Such a feeble hero{nl}has my sides splitting! Gahahaha!{nl}Here, take this as charity!{key}{end}"
  },
  {
   "id": "6038",
   "jp": "{clr}「うがぁァ……{key}{nl}{clr}そんなハズは……そんな…{key}{nl}{clr}ゴールドドラゴンの死体のそばに{nl}宝箱が落ちている{key}{end}",
-  "en": ""
+  "en": "{clr}\"Ughaaa...{key}{nl}{clr}It can't be... It can't...{key}{nl}{clr}Beside the Gold Dragon's corpse{nl}lies a treasure chest.{key}{end}"
  },
  {
   "id": "6039",
   "jp": "{clr}「ホホホホホ！また会ったね{v1}！{nl}だが、いつぞやのようには行かぬぞ！{key}{nl}{clr}「血まみれになった{v1}のすがた、{nl}魔王様が見たいとおっしゃっているよ！{key}{nl}{clr}  メデューサが立ちふさがった！{nl}{nl}    たたかう   にげる{end}",
-  "en": ""
+  "en": "{clr}\"Ohohohoho! We meet again, {v1}!{nl}But it won't go like last time!{key}{nl}{clr}\"A blood-soaked {v1}... that's what{nl}the Demon Lord wishes to see!{key}{nl}{clr}Medusa blocks the way!{nl}{nl}{at4}Fight{at11}Flee{end}"
  },
  {
   "id": "603A",
   "jp": "{clr}「ひねりつぶしてくれるわァ！{key}{nl}{clr}{nl}       くらえ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"I'll crush you to a pulp!{key}{nl}{clr}{nl}{at7}Take this!{key}{end}"
  },
  {
   "id": "603B",
   "jp": "{clr}「ふん！勝手にしろ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Hmph! Suit yourself!{key}{end}"
  },
  {
   "id": "603C",
   "jp": "{clr}「ぐおおおお～～、やられた！{nl}な、なぜじゃ…なぜじゃァァ………{key}{nl}{clr}メデューサの死体のそばには{nl}宝箱が落ちていた。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Guoooooh~, I'm beaten!{nl}W-why... Whyyyyy.........{key}{nl}{clr}Beside Medusa's corpse{nl}lay a treasure chest.{key}{end}"
  },
  {
   "id": "603D",
   "jp": "{clr}「ヒェヒェヒェヒェ！{nl}人間なんぞ、もう滅びたとばかり思って{nl}いたよ！ヒェヒェヒェヒェ。{key}{nl}{clr}「{v1}よ。キサマを倒したら{nl}次は人間すべての魂を食らいに行こうと{nl}思うんだがねェ？ヒェヒェヒェ。{key}{nl}{clr}   リッチが立ちふさがった！！{nl}{nl}    たたかう   にげる{end}",
-  "en": ""
+  "en": "{clr}\"Hyeh-heh-heh-heh!{nl}I thought you humans had all died out{nl}long ago! Hyeh-heh-heh-heh.{key}{nl}{clr}\"{v1}, after I defeat you, I think{nl}I'll go feast on every human soul.{nl}How's that sound? Hyeh-heh-heh.{key}{nl}{clr}The Lich blocks the way!!{nl}{nl}{at4}Fight{at11}Flee{end}"
  },
  {
   "id": "603E",
   "jp": "{clr}   ヒャァーーーハハハハッ！{key}{nl}{clr}{nl}       シネ！！{key}{end}",
-  "en": ""
+  "en": "{clr}{at5}Hyaaaa-hahahahah!{key}{nl}{clr}{nl}{at8}DIE!!{key}{end}"
  },
  {
   "id": "603F",
   "jp": "{clr} ヒャ～～ヒャッヒャッヒャッ！！！{key}{nl}{clr}「良い事を教えてやろう。{nl}いいか、良く聞け。メモでもいい。{nl}全てを滅ぼす方法だ。{key}{nl}{clr}「Ｌ＋Ｒ＋上＋Ｙ＋Ｂ。{key}{nl}{clr}「これで何もかも、うしなわれる。{nl}ヒャヒャヒャヒャ！！{key}{end}",
-  "en": ""
+  "en": "{clr}{at5}Hya~~hya-hya-hya!!!{key}{nl}{clr}\"Let me tell you something good.{nl}Listen well. Take notes if you like.{nl}It's a way to destroy everything.{key}{nl}{clr}\"L+R+Up+Y+B.{key}{nl}{clr}\"That will make everything vanish.{nl}Hyahyahyahya!!{key}{end}"
  },
  {
   "id": "6040",
   "jp": "{clr}    ヒャァァ～～～～……{key}{nl}{clr}リッチの死体のそばには{nl}宝箱が落ちていた。{key}{end}",
-  "en": ""
+  "en": "{clr}{at6}Hyaaaa~~~~...{key}{nl}{clr}Beside the Lich's corpse{nl}lay a treasure chest.{key}{end}"
  },
  {
   "id": "6041",
   "jp": "{clr}「私は…私は…{nl}魔王様をお守りするため、ここにいる…{key}{nl}{clr}  サッカバスが立ちふさがった！{nl}{nl}    たたかう   にげる{end}",
-  "en": ""
+  "en": "{clr}\"I... I...{nl}am here to protect the Demon Lord...{key}{nl}{clr}The Succubus blocks the way!{nl}{nl}{at4}Fight{at11}Flee{end}"
  },
  {
   "id": "6042",
   "jp": "{clr}「私は魔王様をお守りする……{key}{end}",
-  "en": ""
+  "en": "{clr}\"I must protect the Demon Lord......{key}{end}"
  },
  {
   "id": "6043",
   "jp": "{clr}「人間の世界へ帰ったら…{key}{nl}私を…私を………ううううう……{key}{end}",
-  "en": ""
+  "en": "{clr}\"When you return to the human world...{key}{nl}me... please, me......... Uuuuuu...{key}{end}"
  },
  {
   "id": "6044",
   "jp": "{clr}サッカバスはみるみるうちに、人間の{nl}表情へもどって行く。{key}{nl}{clr}「……おにい……ちゃ…{key}{nl}{clr}サッカバスは{v1}の目を、{nl}じっと見つめた。{nl}少し、ほほえんだように見えた。{key}{nl}{clr}最後の体力をふりしぼって、{nl}サッカバスはヘカトンヒールを{nl}唱えた！！{key}{end}",
-  "en": ""
+  "en": "{clr}The Succubus's face quickly turned{nl}back into a human expression.{key}{nl}{clr}\"...Big... bro...{key}{nl}{clr}The Succubus gazed steadily{nl}into {v1}'s eyes.{nl}She seemed to smile, just a little.{key}{nl}{clr}With the last of her strength,{nl}the Succubus cast Hecaton Heal!!{key}{end}"
  },
  {
   "id": "6045",
   "jp": "{clr}      グゴゴゴ……{key}{nl}{clr}{nl}       に{wait0}ん{wait0}げ{wait0}ん{key}{nl}{clr}{nl}     ウゴゴゴゴ………{key}{nl}{clr}{nl}   全て…{wait0}静寂……{wait0}死……{wait0}闇…{nl}{wait1}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{at7}Grrrgh......{key}{nl}{clr}{nl}{at8}Hu{wait0}m{wait0}a{wait0}n{key}{nl}{clr}{nl}{at6}Ugggghhh.........{key}{nl}{clr}{nl}{at3}All...{wait0} Silence...{wait0} Death...{wait0} Darkness...{nl}{wait1}{wait1}{wait1}{end}"
  },
  {
   "id": "6046",
   "jp": "{clr}魔界から退く事は出来ない！！{key}{nl}{clr}ここから出るには、魔王を倒すしか{nl}方法がありません。{key}{end}",
-  "en": ""
+  "en": "{clr}No retreat from the Demon Realm!!{key}{nl}{clr}The only way out of here{nl}is to defeat the Demon Lord.{key}{end}"
  },
  {
   "id": "6047",
   "jp": "{clr}「これから教会でバザーがあるんじゃ。{key}{nl}{clr}「ワシはこの、イモリのくろやきを{nl}売りに行こうと思っておるんじゃが{nl}教会は、どうも遠くていかんわい。{key}{nl}{clr}「どうじゃね？ワシのかわりに教会で{nl}コイツを売ってきてくれんじゃろうか？{nl}人気商品じゃ。飛ぶように売れるぞい！{key}{end}",
-  "en": ""
+  "en": "{clr}\"There's a bazaar at the church soon.{key}{nl}{clr}\"I was going to go sell these{nl}roasted newts of mine, but the church{nl}is such a long way off, it's no good.{key}{nl}{clr}\"How about it? Would you sell these{nl}at the church in my place? They're{nl}a hit. They'll fly off the shelves!{key}{end}"
  },
  {
   "id": "6048",
   "jp": "{clr}「よしよし、たくさん売れたら{nl}バイト料も、はずんでやるからのう。{nl}がんばるんじゃぞ。ヒッヒッヒ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Good, good. Sell plenty, and I'll{nl}throw in a nice bonus for your work.{nl}Do your best now. Hee hee hee!{key}{end}"
  },
  {
   "id": "6049",
   "jp": "{clr}このクエストの報酬は、{nl}ババァのオススメ魔法セットだそうです{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}The reward for this quest is said{nl}to be Granny's Choice Spell Set.{key}{nl}{end}"
  },
  {
   "id": "604A",
   "jp": "{clr}カンバンにはこう書かれている。{key}{nl}{clr}１０時から教会にてバザーが行われます{nl}ふるってご来場下さい。{nl} ～やまいもの会～{key}{end}",
-  "en": ""
+  "en": "{clr}The signboard reads:{key}{nl}{clr}Church bazaar from 10 o'clock!{nl}All are welcome to attend.{nl}~The Yam Society~{key}{end}"
  },
  {
   "id": "604B",
   "jp": "{clr}{v1}が教会の前へたどりつくと、{nl}たくさんの人が集まっていた。{key}{nl}{clr}これだけにぎわっていれば、きっと{nl}ヤモリのくろやきも飛ぶように売れる{nl}だろう！{key}{nl}{clr}{v1}『えー…、ヤ、ヤモリの{nl}くろやきはいりませんかあ～～。{key}{nl}{clr}{v1}『ヤモリー。{nl}とても体に良いヤモリのくろやきー。{key}{nl}{clr}{v1}『おいしぃ……ヤモ…{key}{nl}{clr}{v1}『う、売れない…{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}When {v1} reached the church,{nl}a big crowd had gathered.{key}{nl}{clr}With a crowd like this, surely the{nl}roasted newts will fly off the shelves!{key}{nl}{clr}{v1}: \"Um... R-roasted newts...{nl}anyone want roasted newts~?{key}{nl}{clr}{v1}: \"Newts!{nl}Roasted newts, so good for you!{key}{nl}{clr}{v1}: \"Delicious... newts...{key}{nl}{clr}{v1}: \"N-nobody's buying...{key}{nl}{end}"
  },
  {
   "id": "604C",
   "jp": "{clr}「けけけっ！{nl}なんだい勇者ともあろう{v1}が、{nl}シケた商売しやがって。{key}{nl}{clr}「ちっとも売れていないじゃないか！{nl}しょうがない、アタイが１個買って{nl}やろうじゃん。けけけッ！！{key}{nl}{clr}「もぐもぐ…。うわ！{key}{nl}{clr}{nl}     げ、げろマズイ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Kekeke!{nl}What's this? {v1}, a big hero,{nl}running such a shabby business?{key}{nl}{clr}\"You haven't sold a single one!{nl}Oh, fine, I'll buy one{nl}off you. Kekeke!!{key}{nl}{clr}\"Munch munch... Ugh!{key}{nl}{clr}{nl}{at4}B-blech! Tastes like barf!{key}{end}"
  },
  {
   "id": "604D",
   "jp": "{clr}「おや、おかえり。{v1}。{key}{nl}{clr}「な、なんと？！１個売れただって？！{nl}そりゃスゴイっ！{nl}１個も売れたことのないヤモリがあっ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh, welcome back, {v1}.{key}{nl}{clr}\"W-what?! You sold one?!{nl}That's amazing!{nl}Those newts have never sold even one!{key}{end}"
  },
  {
   "id": "604E",
   "jp": "{clr}「ああっ！いそがしい！いそがしい！！{nl}もう、ネコの足をかりたいぐらいよ！{key}{nl}{clr}「あれ、目だっけ？手？歯？{key}{nl}そう、ネコの歯をみがきたいぐらい！{key}{nl}{clr}「だから、{v1}さん。{nl}私のかわりに湖で、おせんたくして来て{nl}下さらない？{key}{end}",
-  "en": ""
+  "en": "{clr}\"Oh! So busy! So busy!!{nl}I need an extra pair of feet!{key}{nl}{clr}\"Wait, was it eyes? Hands? Teeth?{key}{nl}Right, I need an extra pair of teeth!{key}{nl}{clr}\"So, {v1}-san, would you be a dear{nl}and do my laundry at the lake{nl}for me?{key}{end}"
  },
  {
   "id": "604F",
   "jp": "{clr}「たすかるわァ。じゃあ、これ、{nl}しっかりキレイにして来て下さいね！{key}{end}",
-  "en": ""
+  "en": "{clr}\"What a help. Now then, take these,{nl}and get them good and clean!{key}{end}"
  },
  {
   "id": "6050",
   "jp": "{clr}{v1}は、山のようにヨゴレモノを{nl}かついで、水辺へやってきた。{key}{nl}{clr}{v1}は無心になって{nl}おせんたくに集中した！{key}{nl}{clr}{nl}    ゴシゴシゴシゴシ…{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} hauled a mountain of dirty{nl}laundry down to the water's edge.{key}{nl}{clr}{v1} cleared all thoughts and{nl}focused on the washing!{key}{nl}{clr}{nl}{at4}Scrub scrub scrub scrub...{key}{end}"
  },
  {
   "id": "6051",
   "jp": "{clr}「あァ！アタシの遊び場を{nl}こんなにアブクだらけにしてっ！もう！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Aah! You've filled my playground{nl}with suds! Honestly!{key}{nl}{end}"
  },
  {
   "id": "6052",
   "jp": "{clr}{v1}は、タップリ２時間かけて{nl}全てキレイにした。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} spent a good two hours{nl}getting everything clean.{key}{end}"
  },
  {
   "id": "6053",
   "jp": "{clr}「あら～～ずいぶんかかったわね！{nl}{v1}さん！{key}どれどれ…ふんふん{nl}なかなかキレイにあらってあるわね。{key}{nl}{clr}「上出来よ！{v1}さん。{nl}もし勇者をクビになったりしたら、{nl}ウチでメイドにやとってあげるわね。{key}{end}",
-  "en": ""
+  "en": "{clr}\"My~~, that took you a while,{nl}{v1}-san!{key} Let's see... hmm hmm.{nl}Quite a nice clean wash, I must say.{key}{nl}{clr}\"Well done, {v1}-san!{nl}If you ever get fired from being a hero,{nl}I'll hire you on here as a maid.{key}{end}"
  },
  {
   "id": "6054",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}勇者{v1}、パンツの山をかかえて{nl}ウロウロ。何が勇者に起きたのか？！{nl} ～サイスポ～{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} read the signboard.{key}{nl}{clr}Hero {v1} wanders about clutching{nl}a pile of underpants. What happened?!{nl}~Siland Sports~{key}{end}"
  },
  {
   "id": "6055",
   "jp": "{clr}「ガウウウ～～！{key}{nl}{clr}「オレ、とても運悪い。アウ～。{nl}おまえ、オレより運悪いか？{nl}おまえオレより運悪い、オレうれしい。{key}{nl}{clr}「う、運のダイス、な、なげれ{nl}たいへん少ない、いいモノやる！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Gawoooo~~!{key}{nl}{clr}\"Me, very bad luck. Awoo~.{nl}You, worse luck than me?{nl}You worse luck than me, me happy.{key}{nl}{clr}\"Th-throw luck dice, g-get very{nl}low, me give good thing!{key}{end}"
  },
  {
   "id": "6056",
   "jp": "{clr}「くぅ～～ン。{key}{end}",
-  "en": ""
+  "en": "{clr}\"Whiiine~~.{key}{end}"
  },
  {
   "id": "6057",
   "jp": "{clr}オオカミ男に運の悪さを見せるため{nl}{end}",
-  "en": ""
+  "en": "{clr}To show the Werewolf your bad luck,{nl}{end}"
  },
  {
   "id": "6058",
   "jp": "{clr}「お、おまえ運いい！！出て行け！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Y-you good luck!! Get out!!{key}{end}"
  },
  {
   "id": "6059",
   "jp": "{clr}「おおおおおおお～～～～！！！{key}{nl}{clr}「お！おまえ！すごい！！かっこいい！{nl}すごく運が悪い！気に入った～～ッ！{nl}こ、この武器も鎧も盾も、や、やる！{key}{end}",
-  "en": ""
+  "en": "{clr}\"Awoooooooo~~~~!!!{key}{nl}{clr}\"Y-you! Amazing!! So cool!{nl}Luck so bad! Me like you~~!{nl}Th-this weapon, armor, shield, m-me give!{key}{end}"
  },
  {
   "id": "605A",
   "jp": "{clr}「まいどっ！サイランドでいちばん{nl}フェイマスなドラゴン、ローギー様だァ{key}{nl}{clr}「{v1}さん、聞いておくれよ。{nl}オレのおとっつあんは、体の調子が{nl}良くないのさ。ビョーキなのさ。{key}{nl}{clr}「そんで、オレはこうやって商人として{nl}サイランド上空を飛び回ってＴＫを稼ぎ{nl}おとっつあんの体を治してあげるのさ。{key}{nl}{clr}「どーだい？グっと来る話しだろう？{nl}ああ、オレ、なけてきちゃったよ。{key}{nl}{clr}「で、{v1}さんよォ！{nl}おとっつあんのために、５００００ＴＫ{nl}ポーンとチャリティーしておくれよ！{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Howdy! It's me, Rogie-sama, the most{nl}famous dragon in all of Siland!{key}{nl}{clr}\"{v1}-san, hear me out, will ya?{nl}My old pops ain't in good shape.{nl}He's sick, see.{key}{nl}{clr}\"So I fly all over Siland's skies{nl}as a merchant, earnin' TK{nl}to make my old pops better.{key}{nl}{clr}\"Well? Ain't that a heart-tugger?{nl}Aw, I'm tearin' up just tellin' it.{key}{nl}{clr}\"So, {v1}-san!{nl}For my pops' sake, how 'bout you{nl}toss me 50000 TK for charity!{key}{nl}{end}"
  },
  {
   "id": "605B",
   "jp": "{clr}「世間の人情ってのは、{nl}こんなもんかねェ。ま、１０ＴＫずつ{nl}コツコツ集めるさ！！フンっだッ！！{key}{end}",
-  "en": ""
+  "en": "{clr}\"So that's how much folks care{nl}these days, huh. Well, I'll scrape it{nl}together 10 TK at a time!! Hmph!!{key}{end}"
  },
  {
   "id": "605C",
   "jp": "{clr}「おおォ、マジマジぃ？{v1}さん？{key}{nl}{end}",
-  "en": ""
+  "en": "{clr}\"Ooh, for real, for real? {v1}-san?{key}{nl}{end}"
  },
  {
   "id": "605D",
   "jp": "{clr}「でも、５００００ＴＫ持ってない{nl}ようだね…、気持ちだけもらっとくよ{nl}ぐすっ。{key}{end}",
-  "en": ""
+  "en": "{clr}\"But looks like you ain't got{nl}50000 TK... I'll take the thought,{nl}then. Sniff.{key}{end}"
  },
  {
   "id": "605E",
   "jp": "{clr}「じ、じゃ、じゃあ。ホントにホントに{nl}５００００ＴＫいただくね……。{nl}うううっ、オレ、カンゲキしちゃった。{key}{nl}{clr}「おとっつあんもきっと良くなるよ。{key}{nl}{clr}「そ、そうだ！オレのとっときの宝を{nl}あげちゃうぜ！これで魔王でもポクっと{nl}倒しておくれよ！{key}{end}",
-  "en": ""
+  "en": "{clr}\"W-w-well then. I'll really, really{nl}take the 50000 TK...{nl}Uuuh, I'm so touched.{key}{nl}{clr}\"I bet my pops'll get better now.{key}{nl}{clr}\"Oh, I know! I'll give ya my{nl}secret treasure! Use it to bonk{nl}the Demon Lord flat or somethin'!{key}{end}"
  }
 ]

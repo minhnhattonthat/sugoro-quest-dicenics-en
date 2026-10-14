@@ -27,11 +27,12 @@ def glyph_rows(code):
     return rows, font.widths().get(code, 0)
 
 
-def strip(text, ntiles, align):
-    """-> pixel rows (16 x ntiles*8) of palette indices."""
+def strip(text, ntiles, align, style=None):
+    """-> pixel rows (16 x ntiles*8) of palette indices. style "header": options-screen title font
+    (outline 6, body A/4/5 top to bottom)."""
     from tbl import Table
     en = Table.load(ROOT / "tbl/en.tbl")
-    codes = en.encode(text)
+    codes = en.encode(text.strip()) if text.strip() else b""
     width = sum(font.widths().get(c, 0) for c in codes)
     if width > ntiles * 8:
         raise ValueError(f"{text!r}: {width}px > {ntiles * 8}px")
@@ -45,9 +46,18 @@ def strip(text, ntiles, align):
                     continue
                 if ink & (0x80 >> b):
                     px[y][x + b] = INK
-                elif sh & (0x80 >> b):
+                elif sh & (0x80 >> b) and style != "header":
                     px[y][x + b] = SHADOW
         x += w
+    if style == "header":
+        ink = [[v == INK for v in row] for row in px]
+        for y in range(16):
+            for x in range(ntiles * 8):
+                if ink[y][x]:
+                    px[y][x] = 0xA if y <= 5 else 0x4 if y <= 9 else 0x5
+                elif any(0 <= y + dy < 16 and 0 <= x + dx < ntiles * 8 and ink[y + dy][x + dx]
+                         for dy in (-1, 0, 1) for dx in (-1, 0, 1)):
+                    px[y][x] = 0x6
     return px
 
 
@@ -230,7 +240,7 @@ def apply(rom_orig):
             if not item.get("en"):
                 continue
             tiles = item["tiles"]
-            px = strip(item["en"], len(tiles), item.get("align", "left"))
+            px = strip(item["en"], len(tiles), item.get("align", "left"), item.get("style"))
             for k, t in enumerate(tiles):
                 base = max(b for b in blocks if b <= t)
                 bid = blocks[base]

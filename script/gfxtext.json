@@ -100,6 +100,152 @@
    ]
   },
   {
+   "name": "sub-screen menu (tilemap LZ 122657 rewritten so no item shares tiles; canvas as the title menu)",
+   "blocks": {
+    "100": "11D1C4",
+    "140": "11D4F7",
+    "180": "11D815",
+    "1C0": "11DB85"
+   },
+   "items": [
+    {
+     "jp": "途中参加",
+     "en": "Join Game",
+     "tiles": [
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      431
+     ],
+     "map": {
+      "block": "122657",
+      "row": 4,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    },
+    {
+     "jp": "途中抜け",
+     "en": "Leave Game",
+     "tiles": [
+      422,
+      423,
+      424,
+      456,
+      462,
+      463,
+      396,
+      397
+     ],
+     "map": {
+      "block": "122657",
+      "row": 6,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    },
+    {
+     "jp": "ルール変更",
+     "en": "Change Rules",
+     "tiles": [
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      398,
+      399,
+      494
+     ],
+     "map": {
+      "block": "122657",
+      "row": 8,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    },
+    {
+     "jp": "ＢＧＭ変更",
+     "en": "Change BGM",
+     "tiles": [
+      457,
+      458,
+      459,
+      460,
+      461,
+      491,
+      492,
+      493
+     ],
+     "map": {
+      "block": "122657",
+      "row": 10,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    },
+    {
+     "jp": "セーブする",
+     "en": "Save Game",
+     "tiles": [
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455
+     ],
+     "map": {
+      "block": "122657",
+      "row": 12,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    },
+    {
+     "jp": "ゲームへもどる",
+     "en": "Return to Game",
+     "tiles": [
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490
+     ],
+     "map": {
+      "block": "122657",
+      "row": 14,
+      "col": 5,
+      "width": 11,
+      "attr": 8192,
+      "blank": 10541
+     }
+    }
+   ]
+  },
+  {
    "name": "char-select bios 1177A3 (BG3 2bpp, 8x8 rows)",
    "type": "rows2",
    "block": "1177A3",
@@ -634,6 +780,152 @@
       "Always Happy!",
       "Siland Vacation"
      ]
+    }
+   ]
+  },
+  {
+   "name": "character name plates (120CEE, 40x16 boxes)",
+   "type": "boxes4",
+   "block": "120CEE",
+   "items": [
+    {
+     "jp": "プリッツ",
+     "rect": [
+      2,
+      1,
+      37,
+      13
+     ],
+     "lines": [
+      "Pritz"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "タンギー",
+     "rect": [
+      42,
+      1,
+      77,
+      13
+     ],
+     "lines": [
+      "Tanguy"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "ウルリク",
+     "rect": [
+      82,
+      1,
+      117,
+      13
+     ],
+     "lines": [
+      "Ulrik"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "シンシア",
+     "rect": [
+      2,
+      17,
+      37,
+      29
+     ],
+     "lines": [
+      "Cynthia"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "デヒテル",
+     "rect": [
+      42,
+      17,
+      77,
+      29
+     ],
+     "lines": [
+      "Dechtel"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "ディアナ",
+     "rect": [
+      82,
+      17,
+      117,
+      29
+     ],
+     "lines": [
+      "Diana"
+     ],
+     "font": "cond"
+    }
+   ]
+  },
+  {
+   "name": "load/save 'don't' boxes (1210D5)",
+   "type": "boxes4",
+   "block": "1210D5",
+   "items": [
+    {
+     "jp": "ロードしない",
+     "rect": [
+      42,
+      1,
+      77,
+      13
+     ],
+     "lines": [
+      "No Load"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "セーブしない",
+     "rect": [
+      82,
+      1,
+      117,
+      13
+     ],
+     "lines": [
+      "No Save"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "ロード／しない",
+     "rect": [
+      2,
+      25,
+      37,
+      45
+     ],
+     "lines": [
+      "Don't",
+      "Load"
+     ],
+     "font": "cond"
+    },
+    {
+     "jp": "セーブ／しない",
+     "rect": [
+      42,
+      25,
+      77,
+      45
+     ],
+     "lines": [
+      "Don't",
+      "Save"
+     ],
+     "font": "cond"
     }
    ]
   }

@@ -144,6 +144,68 @@ def apply_lines2(data, screen):
                         data[i + 1] |= m
 
 
+def apply_boxes4(data, screen):
+    """4bpp block, 16 tiles wide. item = {"rect": [x0, y0, x1, y1] interior in block pixels (inclusive),
+    "lines": [en..]}: every pixel of the interior becomes the interior's most common colour (the box fill), then
+    the lines are drawn centred in the VWF font, ink = the most common other colour (the old text)."""
+    from collections import Counter
+    from tbl import Table
+    en = Table.load(ROOT / "tbl/en.tbl")
+
+    def loc(x, y):
+        return (y // 8) * 16 + x // 8, x % 8, y % 8
+
+    def get(x, y):
+        t, px, py = loc(x, y)
+        return sum(((data[t * 32 + (p // 2) * 16 + 2 * py + (p & 1)] >> (7 - px)) & 1) << p for p in range(4))
+
+    def put(x, y, v):
+        t, px, py = loc(x, y)
+        for p in range(4):
+            i = t * 32 + (p // 2) * 16 + 2 * py + (p & 1)
+            data[i] = (data[i] | (0x80 >> px)) if v & (1 << p) else (data[i] & ~(0x80 >> px) & 0xFF)
+
+    for item in screen["items"]:
+        x0, y0, x1, y1 = item["rect"]
+        c = Counter(get(x, y) for x in range(x0, x1 + 1) for y in range(y0, y1 + 1)).most_common()
+        fill, ink = c[0][0], (c[1][0] if len(c) > 1 else 1)
+        for x in range(x0, x1 + 1):
+            for y in range(y0, y1 + 1):
+                put(x, y, fill)
+        n = len(item["lines"])
+        h = y1 - y0 + 1
+        if item.get("font") == "cond":
+            import labels
+            for li, text in enumerate(item["lines"]):
+                w = labels.text_width(text)
+                if w > x1 - x0 + 1:
+                    raise ValueError(f"{text!r}: {w}px > {x1 - x0 + 1}px")
+                bits = labels.render(text)
+                top = y0 + (h - 9 * n) // 2 + 9 * li
+                for yy in range(8):
+                    for t in range(8):
+                        for b in range(8):
+                            if bits[t * 8 + yy] & (0x80 >> b):
+                                x = x0 + (x1 - x0 + 1 - 64) // 2 + t * 8 + b
+                                if x0 <= x <= x1 and y0 <= top + yy <= y1:
+                                    put(x, top + yy, ink)
+            continue
+        for li, text in enumerate(item["lines"]):
+            codes = en.encode(text)
+            w = sum(font.widths().get(k, 0) for k in codes)
+            if w > x1 - x0 + 1:
+                raise ValueError(f"{text!r}: {w}px > {x1 - x0 + 1}px")
+            x = x0 + (x1 - x0 + 1 - w) // 2
+            top = y0 + (h - 12 * n) // 2 + 12 * li - 3  # glyph rows 3..14 hold the ink
+            for k in codes:
+                rows, gw = glyph_rows(k)
+                for yy, (inkb, _) in enumerate(rows):
+                    for b in range(8):
+                        if inkb & (0x80 >> b) and y0 <= top + yy <= y1 and x + b <= x1:
+                            put(x + b, top + yy, ink)
+                x += gw
+
+
 def apply(rom_orig):
     """-> {block id: new decompressed bytes} for every block a spec item touches."""
     spec = json.loads(SPEC.read_text(encoding="utf-8"))
@@ -152,6 +214,11 @@ def apply(rom_orig):
         if screen.get("type") == "rulewin":
             import rulewin
             out.update(rulewin.apply(rom_orig, screen))
+            continue
+        if screen.get("type") == "boxes4":
+            bid = screen["block"]
+            out.setdefault(bid, bytearray(lz.decompress(rom_orig, int(bid, 16))[0]))
+            apply_boxes4(out[bid], screen)
             continue
         if screen.get("type") in ("rows2", "lines2"):
             bid = screen["block"]
@@ -171,6 +238,16 @@ def apply(rom_orig):
                     out[bid] = bytearray(lz.decompress(rom_orig, int(bid, 16))[0])
                 put_tile4(out[bid], t - base, px, 8 * k, 0)
                 put_tile4(out[bid], t - base + 0x10, px, 8 * k, 8)
+            m = item.get("map")
+            if m:  # point the screen's tilemap rows at this item's tiles (32-entry rows, words)
+                if m["block"] not in out:
+                    out[m["block"]] = bytearray(lz.decompress(rom_orig, int(m["block"], 16))[0])
+                tm = out[m["block"]]
+                for c in range(m["width"]):
+                    for dr, add in ((0, 0), (1, 0x10)):
+                        o = 2 * ((m["row"] + dr) * 32 + m["col"] + c)
+                        word = (m["attr"] | (tiles[c] + add)) if c < len(tiles) else m["blank"]
+                        tm[o:o + 2] = word.to_bytes(2, "little")
     return out
 
 

@@ -18,6 +18,7 @@ import font  # noqa: E402
 import gfxtext  # noqa: E402
 import labels  # noqa: E402
 import names  # noqa: E402
+import plates  # noqa: E402
 import text  # noqa: E402
 
 ORIG = ROOT / "rom/orig.sfc"
@@ -105,6 +106,7 @@ def build(identity=False, marker_build=False, qa=None, out=None):
     names.pack(rom, names.load(), lambda e: EN.encode(e["en"]) if e["en"] else names.JP.encode(e["jp"]))
     labels.pack(rom)
     gfxtext.pack(rom, ORIG.read_bytes())
+    plates.pack(rom)
     out.write_bytes(rom)
     return bytes(rom)
 

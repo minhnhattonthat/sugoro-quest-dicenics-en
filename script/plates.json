@@ -1,0 +1,8 @@
+[
+ {"jp": "たじゅう じんかく プリッツ", "class": ["Split", "Persona"], "name": "Pritz"},
+ {"jp": "ドラゴン タンギー", "class": ["Dragon"], "name": "Tanguy"},
+ {"jp": "チャネラー ウルリク", "class": ["Channeler"], "name": "Ulrik"},
+ {"jp": "ふこうつかい シンシア", "class": ["Jinx"], "name": "Cynthia"},
+ {"jp": "きゅうけつき デヒテル", "class": ["Vampire"], "name": "Dechtel"},
+ {"jp": "こううんのせいれい ディアナ", "class": ["Luck", "Spirit"], "name": "Diana"}
+]

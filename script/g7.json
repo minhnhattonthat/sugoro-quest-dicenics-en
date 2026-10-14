@@ -2,7 +2,7 @@
  {
   "id": "7000",
   "jp": "{clr}{wait1}     高き天空のかなたか…{wait0}{nl}     埋もれた時の果てか…{nl}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{at3}Beyond the heavens on high...{wait0}{nl}{at3}Or at the end of buried time...{nl}{wait1}{wait1}{end}"
  },
  {
   "id": "7001",
@@ -10,28 +10,28 @@
  },
  {
   "id": "7002",
-  "jp": "{clr}{wait1}  剣に力をやどし、{wait0}杯に魔力を満たし{wait0}{nl}    凍てつく命運に魂を見いだす{nl}{wait1}{wait1}{end}",
-  "en": ""
+  "jp": "{clr}{wait1}  剣に力をやどし、{wait0}杖に魔力を満たし{wait0}{nl}    凍てつく命運に魂を見いだす{nl}{wait1}{wait1}{end}",
+  "en": "{clr}{wait1}Power in the sword,{wait0} magic in the staff...{wait0}{nl}they find their souls in a frozen fate.{nl}{wait1}{wait1}{end}"
  },
  {
   "id": "7003",
   "jp": "{clr}{wait1}   闇の魔性を倒し、辺境に法を{nl}   呼びさます、われらが戦士たち{nl}{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{at1}They slay the fiends of darkness and{nl}{at1}wake the law in the far frontier...{nl}{wait1}{wait1}{end}"
  },
  {
   "id": "7004",
   "jp": "{clr}{wait1}     かれらの治める所{wait0}{nl}  人は、サイランド王国と呼んだ…{nl}{wait1}{wait1}{clr}{end}",
-  "en": ""
+  "en": "{clr}{wait1}{at2}The land these warriors governed...{wait0}{nl}{at1}people called it the Kingdom of Siland.{nl}{wait1}{wait1}{clr}{end}"
  },
  {
   "id": "7005",
   "jp": "{clr}{v1}は、何もないマスにとまった。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} stopped on an empty space.{key}{end}"
  },
  {
   "id": "7006",
   "jp": "{clr}{v1}はワープマスへ入った！{key}{nl}{v1}の体は、不思議な力で{nl}他のワープマスへ運ばれます！{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} entered a warp space!{key}{nl}A mysterious force carries {v1}{nl}off to another warp space!{key}{end}"
  },
  {
   "id": "7007",
@@ -56,7 +56,7 @@
  {
   "id": "700C",
   "jp": "{clr}{v1}は、水辺のマスにとまった。{nl}何も起きません。{key}{end}",
-  "en": ""
+  "en": "{clr}{v1} landed on a waterside space.{nl}Nothing happens.{key}{end}"
  },
  {
   "id": "700D",
@@ -69,381 +69,381 @@
  {
   "id": "700F",
   "jp": "{clr}ダッシュマス！{nl}{v1}は、もういちど歩くチャンス！{key}{end}",
-  "en": ""
+  "en": "{clr}Dash space!{nl}{v1} gets a chance to move again!{key}{end}"
  },
  {
   "id": "7010",
   "jp": "{clr}    ゲームに参加する人は{nl}  スタートボタンを押して下さい。{end}",
-  "en": ""
+  "en": "{clr}Players who want to join the game,{nl}please press the START button.{end}"
  },
  {
   "id": "7011",
   "jp": "{clr} にんげん{v9}人と、コンピューターが{nl}{end}",
-  "en": ""
+  "en": "{clr}There are now {v9} human player(s){nl}{end}"
  },
  {
   "id": "7012",
   "jp": "    {v9}人になりました。{wait1}{end}",
-  "en": ""
+  "en": "and {v9} computer player(s).{wait1}{end}"
  },
  {
   "id": "7013",
   "jp": "{clr}  これでよろしいでしょうか？{nl}    はい     いいえ{end}",
-  "en": ""
+  "en": "{clr}Is this all right?{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "7014",
   "jp": "{clr}   使用するキャラクターを{nl}    えらんで下さい。{wait1}{end}",
-  "en": ""
+  "en": "{clr}Please choose the characters{nl}you will use.{wait1}{end}"
  },
  {
   "id": "7015",
   "jp": "{clr}  {v9}Ｐさん、{nl} どのキャラクターを使いますか？{end}",
-  "en": ""
+  "en": "{clr}Player {v9},{nl}which character will you use?{end}"
  },
  {
   "id": "7016",
   "jp": "{clr}  ＣＯＭＰ{v9}の{nl}使うキャラクターをえらんで下さい。{end}",
-  "en": ""
+  "en": "{clr}Please choose the character{nl}that COMP {v9} will use.{end}"
  },
  {
   "id": "7017",
   "jp": "{clr}  どのマップであそびますか？{end}",
-  "en": ""
+  "en": "{clr}Which map will you play?{end}"
  },
  {
   "id": "7018",
   "jp": "{clr}  どのルールであそびますか？{end}",
-  "en": ""
+  "en": "{clr}Which rules will you play by?{end}"
  },
  {
   "id": "7019",
   "jp": "{clr}  では最後に、まちがいがないか{nl}    良くたしかめましょう。{wait1}{wait1}{wait1}{wait1}{nl}{clr} 以上で、すべてよろしいですね？{nl}    はい     いいえ{end}",
-  "en": ""
+  "en": "{clr}Finally, let's make sure{nl}that everything is correct.{wait1}{wait1}{wait1}{wait1}{nl}{clr}Is everything all right, then?{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "701A",
   "jp": "{clr}    コマンドを決定せよ{wait1}{wait1}{end}",
-  "en": ""
+  "en": "{clr}Choose your command.{wait1}{wait1}{end}"
  },
  {
   "id": "701B",
   "jp": "{clr}  みんなイジワルなんだからー！{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Everyone's being so mean to me!{wait1}{wait0}{end}"
  },
  {
   "id": "701C",
   "jp": "{clr} ねえ、リセットしてやりなおさない？{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Hey, why don't we reset and start over?{wait1}{wait0}{end}"
  },
  {
   "id": "701D",
   "jp": "{clr}  ここでアレを使うと…、う～ん。{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}If I use THAT here... Hmmm.{wait1}{wait0}{end}"
  },
  {
   "id": "701E",
   "jp": "{clr}       よしっ！{wait2}{nl}{clr} この勝負、ボクの勝ちで決まりだね。{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}All right!{wait2}{nl}{clr}This match is mine, no question!{wait1}{wait0}{end}"
  },
  {
   "id": "701F",
   "jp": "{clr}  オイラを攻撃しないでおくれよ{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Don't attack me, pleeease!{wait1}{wait0}{end}"
  },
  {
   "id": "7020",
   "jp": "{clr} やっぱ、オイラがいちばん強ェぜ！{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Knew it! I'm the strongest, y'know!{wait1}{wait0}{end}"
  },
  {
   "id": "7021",
   "jp": "{clr} オイラの近くにいると死ぬどォ～～{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Get near me and you're toast~!{wait1}{wait0}{end}"
  },
  {
   "id": "7022",
   "jp": "{clr} トホホホ、次は何をすればいいんだ～{wait1}{nl}{clr}     トホホホのホ～！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Waaah, what am I s'posed to do next~?{wait1}{nl}{clr}Woe is meeee~!{wait1}{end}"
  },
  {
   "id": "7023",
   "jp": "{clr}ファイアーステップは、あったかのう？{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Did I have a Fire Step, I wonder?{wait1}{wait0}{end}"
  },
  {
   "id": "7024",
   "jp": "{clr}もっとお金を、あつめねばならんのじゃ{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}I must gather more money, I must.{wait1}{wait0}{end}"
  },
  {
   "id": "7025",
   "jp": "{clr}  うぬぬ…、いまに見ておれ…{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Hmph... You'll see soon enough...{wait1}{wait0}{end}"
  },
  {
   "id": "7026",
   "jp": "{clr}  良い作戦を思いついたのじゃ{wait1}{end}",
-  "en": ""
+  "en": "{clr}I've thought of a fine strategy.{wait1}{end}"
  },
  {
   "id": "7027",
   "jp": "{clr}あァ、私ってどうしてこんなに不幸なの{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Ohh, why am I always so unlucky?{wait1}{wait0}{end}"
  },
  {
   "id": "7028",
   "jp": "{clr}  おねがい、私を攻撃しないで！{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Please, don't attack me!{wait1}{wait0}{end}"
  },
  {
   "id": "7029",
   "jp": "{clr}     はぁ…、つらいわ。{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Sigh... This is so hard.{wait1}{wait0}{end}"
  },
  {
   "id": "702A",
   "jp": "{clr}     私ってダメね…。{wait1}{nl}{clr}もっと運が良くないと勝てないのかしら{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}I'm hopeless...{wait1}{nl}{clr}Can I never win without better luck?{wait1}{wait0}{end}"
  },
  {
   "id": "702B",
   "jp": "{clr}    オレ様を攻撃するなよっ{wait1}{end}",
-  "en": ""
+  "en": "{clr}Don't you dare attack the great me!{wait1}{end}"
  },
  {
   "id": "702C",
   "jp": "{clr}  ガハハハ！勝てる！勝てるぞォ！{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Gahahaha! I'll win! I'm gonna win!{wait1}{wait0}{end}"
  },
  {
   "id": "702D",
   "jp": "{clr}  そろそろ本気を出す事にするか{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Guess it's time I got serious.{wait1}{wait0}{end}"
  },
  {
   "id": "702E",
   "jp": "{clr}   よし、ここでアレを使って…{wait1}{nl}{clr}   いっきに逆転だな！ガハハ！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Right, now I use THAT, and...{wait1}{nl}{clr}...turn it all around! Gahaha!{wait1}{end}"
  },
  {
   "id": "702F",
-  "jp": "{clr}  園りましたわ～、どうしましょ～{wait1}{end}",
-  "en": ""
+  "jp": "{clr}  困りましたわ～、どうしましょ～{wait1}{end}",
+  "en": "{clr}Oh dear~, whatever shall I do~?{wait1}{end}"
  },
  {
   "id": "7030",
   "jp": "{clr}   たとえ負けても幸せですぅ{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Even if I lose, I'm happy~{wait1}{wait0}{end}"
  },
  {
   "id": "7031",
   "jp": "{clr}   モンスターだって本当は…{wait1}{nl}{clr}   悪い人じゃありませんのよ{wait1}{end}",
-  "en": ""
+  "en": "{clr}Even monsters, deep down...{wait1}{nl}{clr}aren't such bad people, you know.{wait1}{end}"
  },
  {
   "id": "7032",
   "jp": "{clr}  あんまりイジメないで下さい～{wait1}{wait0}{end}",
-  "en": ""
+  "en": "{clr}Please don't pick on me so much~{wait1}{wait0}{end}"
  },
  {
   "id": "7033",
-  "jp": "{clr}ここは、サイランド王国のお城の{nl}中心にある、ありがたい認見の間です。{key}{nl}{clr}それでは、さっそく{nl}王様の、お話を聞く事にしましょう。{key}{end}",
-  "en": ""
+  "jp": "{clr}ここは、サイランド王国のお城の{nl}中心にある、ありがたい謁見の間です。{key}{nl}{clr}それでは、さっそく{nl}王様の、お話を聞く事にしましょう。{key}{end}",
+  "en": "{clr}This is the honored audience chamber{nl}at the heart of Siland's castle.{key}{nl}{clr}Now then, without further ado,{nl}let us hear what the King has to say.{key}{end}"
  },
  {
   "id": "7034",
   "jp": "{clr}良く来た。４人の冒険者達よ。{nl}ワシがサイランド国王であるぞ。{key}{nl}{clr}おぬしらは、なかなかの強者ぞろいと{nl}聞いておる。頼もしいかぎりじゃ。{key}{end}",
-  "en": ""
+  "en": "{clr}Welcome, four adventurers.{nl}I am the King of Siland.{key}{nl}{clr}I hear you are a mighty bunch indeed.{nl}Most reassuring.{key}{end}"
  },
  {
   "id": "7035",
   "jp": "{clr}マップ{v9}を冒険したいそうじゃな。{nl}ではワシから、そなた達にいくつかの{nl}品物をさずけようと思う。{key}{end}",
-  "en": ""
+  "en": "{clr}So, you wish to adventure on Map {v9}.{nl}Then allow me to bestow upon you{nl}a few items.{key}{end}"
  },
  {
   "id": "7036",
   "jp": "{clr}まず金{v9}ＴＫと…{key}{end}",
-  "en": ""
+  "en": "{clr}First, {v9} TK in gold, and...{key}{end}"
  },
  {
   "id": "7037",
   "jp": "{clr}武器 「{v6}」{nl}{end}",
-  "en": ""
+  "en": "{clr}Weapon: \"{v6}\"{nl}{end}"
  },
  {
   "id": "7038",
   "jp": "鎧  「{v6}」{nl}{end}",
-  "en": ""
+  "en": "Armor: \"{v6}\"{nl}{end}"
  },
  {
   "id": "7039",
   "jp": "盾  「{v6}」{key}{end}",
-  "en": ""
+  "en": "Shield: \"{v6}\"{key}{end}"
  },
  {
   "id": "703A",
   "jp": "{clr}以上の品を、みなに平等にあたえよう。{nl}えんりょはいらぬぞ。{key}{end}",
-  "en": ""
+  "en": "{clr}I give these items to all of you equally.{nl}Do not be shy.{key}{end}"
  },
  {
   "id": "703B",
   "jp": "{clr}ロードしたキャラクターの場合、{nl}前回遊んだときの魔法とアイテムが{nl}ひき続き使えるはずじゃ。{key}{nl}{clr}それ以外のキャラクターには、ワシが{nl}見立てた、魔法とアイテムを持たせて{nl}おいたからのう。ほっほっほ。{key}{nl}{clr}では、最後に、冒険を共にする{nl}ダイスマン達を、えらぶのじゃ。{nl}お前達の力になってくれるじゃろう。{key}{end}",
-  "en": ""
+  "en": "{clr}Characters you have loaded should{nl}still have the magic and items{nl}from their last adventure.{key}{nl}{clr}The other characters I have given{nl}magic and items of my own choosing.{nl}Ho ho ho.{key}{nl}{clr}Now, lastly, choose the Dicemen{nl}who will share your adventure.{nl}They will lend you their strength.{key}{end}"
  },
  {
   "id": "703C",
   "jp": "{clr}{v1}よ、気に入ったダイスマンを{nl}２ひき、えらぶが良い{end}",
-  "en": ""
+  "en": "{clr}{v1}, choose two Dicemen{nl}that you like.{end}"
  },
  {
   "id": "703D",
   "jp": "{clr}   それでまちがいはないな？{nl}    はい     いいえ{end}",
-  "en": ""
+  "en": "{clr}Is that your final choice?{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "703E",
   "jp": "{clr}よし、これでじゅんびは整った{nl}行け！勇者達よ！{end}",
-  "en": ""
+  "en": "{clr}Good, now you are all prepared.{nl}Go forth, heroes!{end}"
  },
  {
   "id": "703F",
   "jp": "{clr}  {v1}のＨＰはゼロになった…{wait1}{end}",
-  "en": ""
+  "en": "{clr}{v1}'s HP has dropped to zero...{wait1}{end}"
  },
  {
   "id": "7040",
   "jp": "{clr}    {v1}は死んだ…{wait1}{nl}{clr}{v1}の死体はスタート場所へ{nl}運ばれ、持っている「おたから」は{nl}すべて没収されます。{wait1}{nl}{clr}{v1}は、いきかえるまで{nl}しばし死の静寂を味わう事になります。{wait1}{nl}{end}",
-  "en": ""
+  "en": "{clr}{v1} has died...{wait1}{nl}{clr}{v1}'s body goes back to the start{nl}and all the \"treasure\" it carried{nl}is confiscated.{wait1}{nl}{clr}Until {v1} comes back to life,{nl}the silence of death must be endured.{wait1}{nl}{end}"
  },
  {
   "id": "7041",
   "jp": "{clr}  {v1}は、いきかえった！！{wait0}{wait2}{end}",
-  "en": ""
+  "en": "{clr}{v1} has come back to life!!{wait0}{wait2}{end}"
  },
  {
   "id": "7042",
   "jp": "{clr}    サブ画面に入りますか？{end}",
-  "en": ""
+  "en": "{clr}Enter the sub-screen?{end}"
  },
  {
   "id": "7043",
-  "jp": "{clr}  マップ１の冒険をはじめます{wait0}{nl}{clr}  ゲーム絡了まで、全力で戦って{nl}  １位の座を勝ち取りましょう！{wait1}{nl}{end}",
-  "en": ""
+  "jp": "{clr}  マップ１の冒険をはじめます{wait0}{nl}{clr}  ゲーム終了まで、全力で戦って{nl}  １位の座を勝ち取りましょう！{wait1}{nl}{end}",
+  "en": "{clr}The Map 1 adventure begins!{wait0}{nl}{clr}Fight with all your might until the{nl}game ends, and seize first place!{wait1}{nl}{end}"
  },
  {
   "id": "7044",
-  "jp": "{clr}  マップ２の冒険をはじめます{wait0}{nl}{clr}   洞窟のモンスターを倒して{nl}お城へ帰ると、ゲーム絡了になります！{wait1}{nl}{end}",
-  "en": ""
+  "jp": "{clr}  マップ２の冒険をはじめます{wait0}{nl}{clr}   洞窟のモンスターを倒して{nl}お城へ帰ると、ゲーム終了になります！{wait1}{nl}{end}",
+  "en": "{clr}The Map 2 adventure begins!{wait0}{nl}{clr}Defeat the monster in the cave and{nl}return to the castle to end the game!{wait1}{nl}{end}"
  },
  {
   "id": "7045",
   "jp": "{clr}  マップ３の冒険をはじめます{wait0}{nl}{clr}  大きなマップですが、気合いで{nl}   最後まで戦って下さいっ！{wait1}{end}",
-  "en": ""
+  "en": "{clr}The Map 3 adventure begins!{wait0}{nl}{clr}It's a big map, but show some spirit{nl}and fight to the very end!{wait1}{end}"
  },
  {
   "id": "7046",
   "jp": "{clr}  マップ４の冒険をはじめます{wait0}{nl}{clr}    サイランドの勇者達は、{nl}  果たして魔王を倒し、世界に光を{nl} 取りもどす事は出来るのでしょうか？{wait1}{wait2}{nl}{end}",
-  "en": ""
+  "en": "{clr}The Map 4 adventure begins!{wait0}{nl}{clr}Will the heroes of Siland{nl}defeat the Demon Lord and{nl}bring light back to the world?{wait1}{wait2}{nl}{end}"
  },
  {
   "id": "7047",
   "jp": "{clr}  いよいよ、ゲームスタートです！{wait1}{end}",
-  "en": ""
+  "en": "{clr}And now, the game begins!{wait1}{end}"
  },
  {
   "id": "7048",
   "jp": "{clr}プリッツさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Pritz-san!{wait0}{end}"
  },
  {
   "id": "7049",
   "jp": "{clr}タンギーさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Tanguy-san!{wait0}{end}"
  },
  {
   "id": "704A",
   "jp": "{clr}ウルリクさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Ulrik-san!{wait0}{end}"
  },
  {
   "id": "704B",
   "jp": "{clr}シンシアさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Cynthia-san!{wait0}{end}"
  },
  {
   "id": "704C",
   "jp": "{clr}デヒテルさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Dechtel-san!{wait0}{end}"
  },
  {
   "id": "704D",
   "jp": "{clr}ディアナさん、がんばって下さいね！{wait0}{end}",
-  "en": ""
+  "en": "{clr}Good luck, Diana-san!{wait0}{end}"
  },
  {
   "id": "704E",
-  "jp": "{clr}  クエストが半分絡わりました。{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
-  "en": ""
+  "jp": "{clr}  クエストが半分終わりました。{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
+  "en": "{clr}Half of the quests are done.{wait0}{nl}{clr}Now the real contest begins!{wait0}{end}"
  },
  {
   "id": "704F",
-  "jp": "{clr}  あとクエスト１回で絡了です！{wait1}{end}",
-  "en": ""
+  "jp": "{clr}  あとクエスト１回で終了です！{wait1}{end}",
+  "en": "{clr}Just one more quest until the end!{wait1}{end}"
  },
  {
   "id": "7050",
-  "jp": "{clr}      おめでとう！{nl}   ルールが達成されました！{wait1}{nl}{clr}  サイランドの国民達も、大いに{nl}   よろこんでいる事でしょう！{wait1}{nl}{clr}       さあ！{nl}   まもなくサイランド城で、{nl} 王様からの成績発表が行われます。{wait1}{nl}{clr} 衆えある１位の座にかがやくのは{nl}   はたして誰でしょうか？！{wait1}{end}",
-  "en": ""
+  "jp": "{clr}      おめでとう！{nl}   ルールが達成されました！{wait1}{nl}{clr}  サイランドの国民達も、大いに{nl}   よろこんでいる事でしょう！{wait1}{nl}{clr}       さあ！{nl}   まもなくサイランド城で、{nl} 王様からの成績発表が行われます。{wait1}{nl}{clr} 栄えある１位の座にかがやくのは{nl}   はたして誰でしょうか？！{wait1}{end}",
+  "en": "{clr}Congratulations!{nl}The victory condition has been met!{wait1}{nl}{clr}The people of Siland must be{nl}overjoyed!{wait1}{nl}{clr}And now!{nl}Soon, at Siland Castle, the King{nl}will announce the final results.{wait1}{nl}{clr}Who will shine in glorious{nl}first place?!{wait1}{end}"
  },
  {
   "id": "7051",
-  "jp": "{clr}  クエストが半分絡わりました。{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
-  "en": ""
+  "jp": "{clr}  クエストが半分終わりました。{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
+  "en": "{clr}Half of the quests are done.{wait0}{nl}{clr}Now the real contest begins!{wait0}{end}"
  },
  {
   "id": "7052",
-  "jp": "{clr}  あとクエスト２回で絡了です！{wait1}{end}",
-  "en": ""
+  "jp": "{clr}  あとクエスト２回で終了です！{wait1}{end}",
+  "en": "{clr}Just two more quests until the end!{wait1}{end}"
  },
  {
   "id": "7053",
-  "jp": "{clr}  スタートから１時間たちました{wait0}{nl}{clr}    あと１時間で絡了です{wait1}{end}",
-  "en": ""
+  "jp": "{clr}  スタートから１時間たちました{wait0}{nl}{clr}    あと１時間で終了です{wait1}{end}",
+  "en": "{clr}One hour has passed since the start.{wait0}{nl}{clr}One hour left until the end.{wait1}{end}"
  },
  {
   "id": "7054",
-  "jp": "{clr}    あと１０分で絡了です{wait1}{end}",
-  "en": ""
+  "jp": "{clr}    あと１０分で終了です{wait1}{end}",
+  "en": "{clr}10 minutes left until the end.{wait1}{end}"
  },
  {
   "id": "7055",
   "jp": "{clr}  スタートから２時間たちました{wait0}{nl}{clr} のこり２時間！がんばりましょう！{wait1}{end}",
-  "en": ""
+  "en": "{clr}Two hours have passed since the start.{wait0}{nl}{clr}Two hours left! Keep it up!{wait1}{end}"
  },
  {
   "id": "7056",
-  "jp": "{clr}    あと２５分で絡了です{wait0}{nl}{clr} ながい時間ごくろうさまでした！{wait1}{end}",
-  "en": ""
+  "jp": "{clr}    あと２５分で終了です{wait0}{nl}{clr} ながい時間ごくろうさまでした！{wait1}{end}",
+  "en": "{clr}25 minutes left until the end.{wait0}{nl}{clr}Thank you for playing so long!{wait1}{end}"
  },
  {
   "id": "7057",
-  "jp": "{clr}    あと５回死ぬと絡了です{wait1}{end}",
-  "en": ""
+  "jp": "{clr}    あと５回死ぬと終了です{wait1}{end}",
+  "en": "{clr}5 more deaths and the game ends.{wait1}{end}"
  },
  {
   "id": "7058",
-  "jp": "{clr}    あと１回死ぬと絡了です{wait0}{nl}{clr} はたして誰が最後の死者でしょう？{wait1}{nl}{end}",
-  "en": ""
+  "jp": "{clr}    あと１回死ぬと終了です{wait0}{nl}{clr} はたして誰が最後の死者でしょう？{wait1}{nl}{end}",
+  "en": "{clr}1 more death and the game ends.{wait0}{nl}{clr}Who will be the final casualty?{wait1}{nl}{end}"
  },
  {
   "id": "7059",
   "jp": "{clr} １００００ＴＫ集めた人がいます！{wait0}{nl}{clr} あと半分です、がんばりましょう。{wait1}{nl}{end}",
-  "en": ""
+  "en": "{clr}Someone has collected 10000 TK!{wait0}{nl}{clr}Halfway there, keep going!{wait1}{nl}{end}"
  },
  {
   "id": "705A",
-  "jp": "{clr}  あと５０００ＴＫで絡了です！{wait0}{nl}{clr}   がんばって稼いで下さい！{wait1}{end}",
+  "jp": "{clr}  あと５０００ＴＫで終了です！{wait0}{nl}{clr}   がんばって稼いで下さい！{wait1}{end}",
   "en": ""
  },
  {
@@ -453,7 +453,7 @@
  },
  {
   "id": "705C",
-  "jp": "{clr}    あと５分で絡了です！{wait1}{end}",
+  "jp": "{clr}    あと５分で終了です！{wait1}{end}",
   "en": ""
  },
  {
@@ -463,12 +463,12 @@
  },
  {
   "id": "705E",
-  "jp": "{clr}  あと１０分でゲーム絡了です！{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
+  "jp": "{clr}  あと１０分でゲーム終了です！{wait0}{nl}{clr}    ここからが勝負です！{wait0}{end}",
   "en": ""
  },
  {
   "id": "705F",
-  "jp": "{clr}  あと１回誰かが死ぬと絡了です{wait1}{end}",
+  "jp": "{clr}  あと１回誰かが死ぬと終了です{wait1}{end}",
   "en": ""
  },
  {
@@ -492,7 +492,7 @@
  },
  {
   "id": "7064",
-  "jp": "{clr}おつかれさまでした！４人の勇者達よ！{nl}認見の間で、王様がおまちかねです。{nl}{wait1}{wait1}{end}",
+  "jp": "{clr}おつかれさまでした！４人の勇者達よ！{nl}謁見の間で、王様がおまちかねです。{nl}{wait1}{wait1}{end}",
   "en": ""
  },
  {
@@ -512,22 +512,22 @@
  },
  {
   "id": "7068",
-  "jp": "{clr}「うぉっほん。{nl}では各貸の発表にまいるぞ。{key}{end}",
+  "jp": "{clr}「うぉっほん。{nl}では各賞の発表にまいるぞ。{key}{end}",
   "en": ""
  },
  {
   "id": "7069",
-  "jp": "{clr}「はじめは、{nl}いちばんクエストを解いたで貸！じゃ！{key}{nl}{end}",
+  "jp": "{clr}「はじめは、{nl}いちばんクエストを解いたで賞！じゃ！{key}{nl}{end}",
   "en": ""
  },
  {
   "id": "706A",
-  "jp": "{clr}「つづいて、{nl}いちばんレベルが上がったで貸じゃ！{key}{end}",
+  "jp": "{clr}「つづいて、{nl}いちばんレベルが上がったで賞じゃ！{key}{end}",
   "en": ""
  },
  {
   "id": "706B",
-  "jp": "{clr}「さいごに、{nl}いちばんたくさん死んだで貸じゃ！{key}{end}",
+  "jp": "{clr}「さいごに、{nl}いちばんたくさん死んだで賞じゃ！{key}{end}",
   "en": ""
  },
  {
@@ -542,7 +542,7 @@
  },
  {
   "id": "706E",
-  "jp": "{clr}「ざんねんながら、この貸は該当者なし{nl}じゃったわい。ワシが１０００ポイント{nl}もらっておこう。{key}{end}",
+  "jp": "{clr}「ざんねんながら、この賞は該当者なし{nl}じゃったわい。ワシが１０００ポイント{nl}もらっておこう。{key}{end}",
   "en": ""
  },
  {
@@ -737,7 +737,7 @@
  },
  {
   "id": "7095",
-  "jp": "{clr}最後の戦いは絡わり、{nl}勇者達はサイランド城に集まった。{wait1}{wait1}{wait1}{wait1}{end}",
+  "jp": "{clr}最後の戦いは終わり、{nl}勇者達はサイランド城に集まった。{wait1}{wait1}{wait1}{wait1}{end}",
   "en": ""
  },
  {
@@ -767,7 +767,7 @@
  },
  {
   "id": "709B",
-  "jp": "{clr}{wait1}{wait1}{wait1}ディアナ『王様、私の使命は{nl}絡わりましたわ。{wait1}天空へ帰る時が{nl}来ました。おわかれですの。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そうか…{wait1}とうとうその時が来たか。{wait1}{nl}ディアナよ、{wait0}そしてプリッツ、{wait0}タンギー{wait0}{nl}ウルリク、{wait0}シンシア、{wait0}デヒテル。{wait1}{wait1}{nl}{clr}{wait0}「サイランドの全国民になりかわり{nl}礼をいうぞ。心から感謝しておる！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}ディアナ『さようならですわ！{nl}{wait1}{wait1}{wait1}{wait1}{end}",
+  "jp": "{clr}{wait1}{wait1}{wait1}ディアナ『王様、私の使命は{nl}終わりましたわ。{wait1}天空へ帰る時が{nl}来ました。おわかれですの。{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}「そうか…{wait1}とうとうその時が来たか。{wait1}{nl}ディアナよ、{wait0}そしてプリッツ、{wait0}タンギー{wait0}{nl}ウルリク、{wait0}シンシア、{wait0}デヒテル。{wait1}{wait1}{nl}{clr}{wait0}「サイランドの全国民になりかわり{nl}礼をいうぞ。心から感謝しておる！{wait1}{wait1}{wait1}{wait1}{nl}{clr}{wait0}ディアナ『さようならですわ！{nl}{wait1}{wait1}{wait1}{wait1}{end}",
   "en": ""
  },
  {

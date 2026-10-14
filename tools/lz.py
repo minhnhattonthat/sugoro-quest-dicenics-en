@@ -43,6 +43,53 @@ def decompress(data, pos=0):
 
 
 def compress(src):
+    """Greedy LZSS, hash-chained over the source history (ring = last 4078 bytes of output). The zero pre-fill is
+    used for zero runs while it is still untouched (positions 0xFDC.. stay zero until the ring wraps)."""
+    out = bytearray([len(src) & 0xFF, len(src) >> 8])
+    heads = {}
+    i = 0
+    n = len(src)
+    while i < n:
+        flag_pos = len(out)
+        out.append(0)
+        flags = 0
+        for bit in range(8):
+            if i >= n:
+                break
+            best_len, best_pos = 0, 0
+            maxlen = min(F, n - i)
+            if maxlen >= 3:
+                for j in reversed(heads.get(src[i:i + 3], [])[-64:]):
+                    if i - j > N - F:
+                        break
+                    L = 3
+                    while L < maxlen and src[j + L] == src[i + L]:
+                        L += 1
+                    if L > best_len:
+                        best_len, best_pos = L, (R0 + j) & (N - 1)
+                        if L == maxlen:
+                            break
+                if best_len < maxlen and i + maxlen < N - F and src[i] == 0:
+                    z = 0
+                    while z < maxlen and src[i + z] == 0:
+                        z += 1
+                    if z > best_len:
+                        best_len, best_pos = z, (R0 - F) & (N - 1)
+            if best_len >= 3:
+                out += bytes([best_pos & 0xFF, (best_pos >> 4) & 0xF0 | (best_len - 3)])
+                step = best_len
+            else:
+                flags |= 1 << bit
+                out.append(src[i])
+                step = 1
+            for k in range(i, i + step):
+                heads.setdefault(src[k:k + 3], []).append(k)
+            i += step
+        out[flag_pos] = flags
+    return bytes(out)
+
+
+def compress_slow(src):
     """Greedy LZSS matching the decoder (ring starts zero-filled, so leading zero runs can match the pre-fill)."""
     ring = bytearray(N)
     r = R0

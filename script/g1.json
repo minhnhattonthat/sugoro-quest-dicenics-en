@@ -27,7 +27,7 @@
  {
   "id": "1005",
   "jp": "{clr}      {v9}発ヒット！{end}",
-  "en": "{clr}{v9} hit(s)!{end}"
+  "en": "{clr}Hit x{v9}!{end}"
  },
  {
   "id": "1006",
@@ -187,22 +187,22 @@
  {
   "id": "1025",
   "jp": "{clr}{v1}はモンスターから{nl}{v6}を獲得！{key}{end}",
-  "en": "{clr}{v1} got from the monster:{nl}{v6}!{key}{end}"
+  "en": "{clr}{v1} got {v6}{nl}from the monster!{key}{end}"
  },
  {
   "id": "1026",
   "jp": "{clr}{v1}はモンスターから{nl}{v5}を獲得{key}{end}",
-  "en": "{clr}{v1} got from the monster:{nl}{v5}!{key}{end}"
+  "en": "{clr}{v1} got {v5}{nl}from the monster!{key}{end}"
  },
  {
   "id": "1027",
   "jp": "{clr}{v1}はモンスターから{nl}{v8}を獲得{key}{end}",
-  "en": "{clr}{v1} got from the monster:{nl}{v8}!{key}{end}"
+  "en": "{clr}{v1} got {v8}{nl}from the monster!{key}{end}"
  },
  {
   "id": "1028",
   "jp": "{clr}{v1}はモンスターから{nl}{v6}を獲得{key}{end}",
-  "en": "{clr}{v1} got from the monster:{nl}{v6}!{key}{end}"
+  "en": "{clr}{v1} got {v6}{nl}from the monster!{key}{end}"
  },
  {
   "id": "1029",
@@ -212,22 +212,22 @@
  {
   "id": "102A",
   "jp": "{clr}  {v1}は、やわらかくなった！{wait2}{end}",
-  "en": "{clr}{v1} softened up!{wait2}{end}"
+  "en": "{clr}{v1} turned soft!{wait2}{end}"
  },
  {
   "id": "102B",
   "jp": "{clr} モンスターは、やわらかくなった！{wait2}{end}",
-  "en": "{clr}The monsters softened up!{wait2}{end}"
+  "en": "{clr}The monsters turned soft!{wait2}{end}"
  },
  {
   "id": "102C",
   "jp": "{clr}   {v1}は、かたくなった！{wait2}{end}",
-  "en": "{clr}{v1} toughened up!{wait2}{end}"
+  "en": "{clr}{v1} turned hard!{wait2}{end}"
  },
  {
   "id": "102D",
   "jp": "{clr}  モンスターは、かたくなった！{wait2}{end}",
-  "en": "{clr}The monsters toughened up!{wait2}{end}"
+  "en": "{clr}The monsters turned hard!{wait2}{end}"
  },
  {
   "id": "102E",

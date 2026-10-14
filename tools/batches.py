@@ -208,12 +208,13 @@ def main():
     elif cmd == "fit":
         for line in arg.split("{nl}"):
             print(f"{lint.line_px(line):4d}px  {line}")
-    elif cmd in ("check", "merge", "apply"):
-        out, errs = check(None, Path(arg), require_all=False) if cmd == "apply" else check(arg)
+    elif cmd in ("check", "merge", "apply", "checkfile"):
+        partial = cmd in ("apply", "checkfile")
+        out, errs = check(None, Path(arg), require_all=False) if partial else check(arg)
         report(errs)
         if errs:
             sys.exit(f"{len(errs)} errors")
-        if cmd != "check":
+        if cmd in ("merge", "apply"):
             merge(out)
             print(f"merged {len(out)}")
         else:

@@ -145,7 +145,7 @@
  {
   "id": "201E",
   "jp": "{clr}    {v1}は死体だね！{wait2}{end}",
-  "en": "{clr}{v1} is a corpse, see!{wait2}{end}"
+  "en": "{clr}{v1} is a corpse, you know!{wait2}{end}"
  },
  {
   "id": "201F",
@@ -155,7 +155,7 @@
  {
   "id": "2020",
   "jp": "{clr}{v2}は、{nl}しびれて{v9}回オヤスミだ！{wait2}{end}",
-  "en": "{clr}{v2} is paralyzed and{nl}must nap for {v9} turn(s)!{wait2}{end}"
+  "en": "{clr}{v2} is paralyzed!{nl}Nap turns left: {v9}!{wait2}{end}"
  },
  {
   "id": "2021",
@@ -190,7 +190,7 @@
  {
   "id": "2027",
   "jp": "{clr}{v1}は{v2}のＨＰを{nl}{v9}ポイントきゅうしゅうした！{wait2}{end}",
-  "en": "{clr}{v1} drained {v2}'s HP{nl}by {v9} points!{wait2}{end}"
+  "en": "{clr}{v1} drained {v9} points{nl}of {v2}'s HP!{wait2}{end}"
  },
  {
   "id": "2028",

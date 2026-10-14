@@ -99,7 +99,7 @@ def lint_entry(e):
 
 
 def main():
-    files = [Path(f) for f in sys.argv[1:]] or sorted((ROOT / "script").glob("g*.json"))
+    files = [Path(f) for f in sys.argv[1:]] or sorted((ROOT / "script").glob("g[0-9].json"))
     n_err = n_done = 0
     for f in files:
         for e in json.loads(f.read_text(encoding="utf-8")):

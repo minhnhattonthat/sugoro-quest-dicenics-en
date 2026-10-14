@@ -96,7 +96,7 @@
  {
   "id": "4013",
   "jp": "{clr}デヒテル「ウグググ…。{nl}こんな解せない事があってたまるか…。{key}{end}",
-  "en": "{clr}Dechtel: \"Grrrgh...{nl}How can such nonsense be allowed...!\"{key}{end}"
+  "en": "{clr}Dechtel: \"Grrrgh...{nl}How can such nonsense be allowed...\"{key}{end}"
  },
  {
   "id": "4014",
@@ -116,7 +116,7 @@
  {
   "id": "4017",
   "jp": "{clr}ディアナ「ひィ～～ん{key}{end}",
-  "en": "{clr}Diana: \"Eeeeeeek~~\"{key}{end}"
+  "en": "{clr}Diana: \"Boo-hooo~~\"{key}{end}"
  },
  {
   "id": "4018",
@@ -136,7 +136,7 @@
  {
   "id": "401B",
   "jp": "{clr}{v1}は、とつぜん痛みを感じた。{nl}虫歯がズキズキする。{key}{nl}{clr}ちゃんと冒険に出かける前になおして{nl}おかなかったのが悪い。{nl}ハンセイしながら、ぐっとこらえた。{key}{end}",
-  "en": "{clr}{v1} suddenly felt a pain.{nl}A cavity is throbbing.{key}{nl}{clr}It was a mistake not to fix it before{nl}setting off on the adventure.{nl}Lesson learned... Grin and bear it!{key}{end}"
+  "en": "{clr}{v1} suddenly felt a pain.{nl}A cavity is throbbing.{key}{nl}{clr}Should have fixed it before setting{nl}off on the adventure. Reflecting on{nl}that, {v1} grimly bore the pain.{key}{end}"
  },
  {
   "id": "401C",
@@ -161,12 +161,12 @@
  {
   "id": "4020",
   "jp": "{clr}{v1}は{v9}ラウンドのあいだ、{nl}オヤスミです。{key}{end}",
-  "en": "{clr}{v1} takes a break for{nl}{v9} round(s).{key}{end}"
+  "en": "{clr}{v1} takes a break.{nl}Rounds to rest: {v9}{key}{end}"
  },
  {
   "id": "4021",
   "jp": "{clr}どこからともなく、不気味なうた声が{nl}きこえてきた。{key}{nl}{clr}{v1}は、あわててみみを{nl}ふさごうとしたが、手がうごかない。{key}{nl}{clr}声をきいていると、アタマがぼーっと{nl}して、魔法をどんどん忘れてしまう…。{nl}魔法使用回数が、減ってしまった！！{key}{end}",
-  "en": "{clr}From out of nowhere, an eerie song{nl}could be heard.{key}{nl}{clr}{v1} hurried to cover both ears,{nl}but couldn't move a hand.{key}{nl}{clr}Hearing the voice, the mind goes{nl}foggy and spells keep slipping away...{nl}Spell uses have gone down!!{key}{end}"
+  "en": "{clr}From out of nowhere, an eerie song{nl}could be heard.{key}{nl}{clr}{v1} hurried to cover both ears,{nl}but the hands wouldn't budge.{key}{nl}{clr}Listening to it, {v1}'s head went{nl}foggy, and spells kept slipping away...{nl}Spell uses have gone down!!{key}{end}"
  },
  {
   "id": "4022",
@@ -250,17 +250,17 @@
  {
   "id": "4032",
   "jp": "{clr}{v1}の足の下で、何かがモゾモゾと{nl}うごいた。{key}{nl}{clr}悪い予感がして、たしかめて見ると、{nl}イモ虫をふんづけていた！！{nl}{v1}「ギエェェェェ～～～！！{key}{nl}{clr}イモ虫がニガテな{v1}は、{nl}ショックから、しばらく回復出来そうも{nl}ない。{key}{end}",
-  "en": "{clr}Something squirmed under{nl}{v1}'s foot.{key}{nl}{clr}With a bad feeling, a quick check{nl}showed a squashed caterpillar!!{nl}{v1}: \"Gyaaaaaaah~~~!!\"{key}{nl}{clr}{v1} can't stand caterpillars,{nl}and won't get over the shock{nl}for a while.{key}{end}"
+  "en": "{clr}Something squirmed under{nl}{v1}'s foot.{key}{nl}{clr}With a bad feeling, {v1} checked:{nl}a squashed caterpillar underfoot!!{nl}{v1}: \"Gyaaaaaaah~~~!!\"{key}{nl}{clr}{v1} can't stand caterpillars,{nl}and won't get over the shock{nl}for a while.{key}{end}"
  },
  {
   "id": "4033",
   "jp": "{clr}「最近イヤなウワサをきいたんですよ。{nl}何でも、大魔王ナントカっていうのが{nl}世界を滅ぼそうと、うごき出したとか。{key}{nl}{clr}本当だったらコワイですね。{nl}でも、{v1}さんがいるから、私は{nl}しんぱいしてませんけどね！{key}{end}",
-  "en": "{clr}\"I've heard a nasty rumor lately.{nl}The Demon Lord Whatsit the Great{nl}is out to destroy the world, they say.{key}{nl}{clr}Scary, if it's true. But with{nl}{v1}-san around, I'm not worried{nl}one bit!\"{key}{end}"
+  "en": "{clr}\"I've heard a nasty rumor lately.{nl}The Demon Lord Whatsit the Great{nl}is out to destroy the world, they say.\"{key}{nl}{clr}\"Scary, if it's true. But with{nl}{v1}-san around, I'm not worried{nl}one bit!\"{key}{end}"
  },
  {
   "id": "4034",
   "jp": "{clr}「やっと見つけた！{nl}エイッ！おとうさまのカタキ！{nl}{v1}『え？！？！{key}{nl}{clr}とつぜん、見おぼえのない娘が{nl}ナイフを振りかざして、切りつけて{nl}来た！{key}{nl}{clr}娘は、人ちがいをしているようだ。{key}{end}",
-  "en": "{clr}\"Found you at last!{nl}Hyah! Revenge for my father!\"{nl}{v1}: \"Wha?!?!\"{key}{nl}{clr}Suddenly a girl never seen before{nl}swings a knife and slashes out!{key}{nl}{clr}It seems she has the wrong person.{key}{end}"
+  "en": "{clr}\"Found you at last!{nl}Hyah! Revenge for my father!\"{nl}{v1}: \"Wha?!?!\"{key}{nl}{clr}Suddenly a girl never seen before{nl}swung a knife and slashed out!{key}{nl}{clr}She seemed to have the wrong person.{key}{end}"
  },
  {
   "id": "4035",
@@ -320,7 +320,7 @@
  {
   "id": "4040",
   "jp": "{clr}小さなこどもが、こっちを見ている。{key}{nl}{clr}{v1}『どうしたのじゃ？{nl}お前も、私のありがたい話しを、{nl}ききたいのか？見所のあるこどもじゃ。{key}{nl}{clr}「あっ！コワイおねえちゃんだ！{nl}にげろ！{key}{end}",
-  "en": "{clr}A little child is staring this way.{key}{nl}{clr}{v1}: \"What is it, child?{nl}Wouldst thou hear my blessed words?{nl}Thou hast promise, I see.\"{key}{nl}{clr}\"Ah! It's the scary lady!{nl}Run!\"{key}{end}"
+  "en": "{clr}A little child is staring this way.{key}{nl}{clr}{v1}: \"What is it, child?{nl}Do you want my blessed words too?{nl}You show promise, I see.\"{key}{nl}{clr}\"Ah! It's the scary lady!{nl}Run!\"{key}{end}"
  },
  {
   "id": "4041",
@@ -370,12 +370,12 @@
  {
   "id": "404A",
   "jp": "{clr}{v1}は、不思議な光をはなつ{nl}ふるめかしい宝箱を見つけた。{key}{nl}{clr}箱の表面に、こう書かれている。{key}{nl}{clr}{nl}     「金食いの箱」{key}{nl}{clr}{v1}は{nl}あわてて飛び退いたが、見る見るうちに{nl}ＴＫがすいこまれてしまった！！{key}{end}",
-  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at5}\"Money-Guzzler Box\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}TK got sucked right in!!{key}{end}"
+  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at5}\"Money-Guzzler Box\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}some TK got sucked right in!!{key}{end}"
  },
  {
   "id": "404B",
   "jp": "{clr}「ワシは、便利な魔法もアイテムも{nl}持っておらんのだが、何かお前達の{nl}力になってやりたいと思っておるのだ。{key}{nl}{clr}「こんな物でも、少しは戦いの足しに{nl}なるのではないかと、集めておいたぞ。{key}{nl}{end}",
-  "en": "{clr}\"I've no handy spells or items to{nl}offer, but I'd still like to lend{nl}you folks a hand somehow.\"{key}{nl}{clr}\"It's not much, but I gathered these{nl}to help a little in your battles.\"{key}{nl}{end}"
+  "en": "{clr}\"I've no handy spells or items to{nl}offer, but I'd still like to lend{nl}you all a hand somehow.\"{key}{nl}{clr}\"It's not much, but I gathered these{nl}to help a little in your battles.\"{key}{nl}{end}"
  },
  {
   "id": "404C",
@@ -400,7 +400,7 @@
  {
   "id": "4050",
   "jp": "{clr}{v1}『ああ！ダイスダイス…{key}{nl}{clr}{v1}はダイスを探したが、なかなか{nl}見つからない。ダイスを探している間に{nl}お金を落としてしまった！{key}{nl}{clr}{nl}      チャリ～～ン{key}{end}",
-  "en": "{clr}{v1}: \"Ah! My dice, my dice...\"{key}{nl}{clr}{v1} looked for the dice, but they{nl}just wouldn't turn up. And while{nl}searching, some money fell out!{key}{nl}{clr}{nl}{at7}Ka-chiiing~{key}{end}"
+  "en": "{clr}{v1}: \"Ah! My dice, my dice...\"{key}{nl}{clr}{v1} looked for the dice, but they{nl}just wouldn't turn up. And while{nl}searching, some money fell out!{key}{nl}{clr}{nl}{at7}Clink-clink~{key}{end}"
  },
  {
   "id": "4051",
@@ -410,6 +410,6 @@
  {
   "id": "4052",
   "jp": "{clr}{v1}は、不思議な光をはなつ{nl}ふるめかしい宝箱を見つけた。{key}{nl}{clr}箱の表面に、こう書かれている。{key}{nl}{clr}{nl}    「金食いの箱ターボ」{key}{nl}{clr}{v1}は{nl}あわてて飛び退いたが、見る見るうちに{nl}ＴＫがすいこまれてしまった！！{key}{end}",
-  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at3}\"Money-Guzzler Box Turbo\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}TK got sucked right in!!{key}{end}"
+  "en": "{clr}{v1} found an ancient treasure{nl}chest giving off a strange light.{key}{nl}{clr}On its lid, these words are written:{key}{nl}{clr}{nl}{at3}\"Money-Guzzler Box Turbo\"{key}{nl}{clr}{v1} leapt back in a panic,{nl}but in the blink of an eye,{nl}some TK got sucked right in!!{key}{end}"
  }
 ]

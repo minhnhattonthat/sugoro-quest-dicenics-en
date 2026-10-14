@@ -12,92 +12,92 @@
  {
   "id": "3002",
   "jp": "{clr}プリッツ『アハハハ！{nl}ボクはいつも運がいいねぇ。{key}{end}",
-  "en": "{clr}Pritz: Ahahaha!{nl}I'm always so lucky, aren't I?{key}{end}"
+  "en": "{clr}Pritz: \"Ahahaha!{nl}I'm always so lucky, aren't I?\"{key}{end}"
  },
  {
   "id": "3003",
   "jp": "{clr}プリッツ『あ…。{nl}ううん、何でもないの。気にしないで。{key}{end}",
-  "en": "{clr}Pritz: Oh...{nl}Nah, it's nothing. Don't mind me.{key}{end}"
+  "en": "{clr}Pritz: \"Oh...{nl}Nah, it's nothing. Don't mind me.\"{key}{end}"
  },
  {
   "id": "3004",
   "jp": "{clr}プリッツ『ややっ{nl}みんなゴメンね。ボクばかり良い思いを{nl}しちゃって。{key}{end}",
-  "en": "{clr}Pritz: Whoops!{nl}Sorry, everyone. Looks like I'm the{nl}only one having all the fun.{key}{end}"
+  "en": "{clr}Pritz: \"Whoops!{nl}Sorry, everyone. Looks like I'm the{nl}only one having all the fun.\"{key}{end}"
  },
  {
   "id": "3005",
   "jp": "{clr}タンギー『クア～～！{nl}やっぱオイラがいちばん強えェ{key}{end}",
-  "en": "{clr}Tanguy: Kwaaah~~!{nl}Knew it! I'm the strongest, y'know!{key}{end}"
+  "en": "{clr}Tanguy: \"Kwaaah~~!{nl}Knew it! I'm the strongest, y'know!\"{key}{end}"
  },
  {
   "id": "3006",
   "jp": "{clr}タンギー『クアッ、クアッ、見たぁ？{nl}どんなもんだい、はっはーーん。{key}{end}",
-  "en": "{clr}Tanguy: Kwah, kwah, didja see that?{nl}How about THAT? Ha-haaaah!{key}{end}"
+  "en": "{clr}Tanguy: \"Kwah, kwah, didja see that?{nl}How about THAT? Ha-haaaah!\"{key}{end}"
  },
  {
   "id": "3007",
   "jp": "{clr}タンギー『ヒャッホー{key}{end}",
-  "en": "{clr}Tanguy: Yahoo!{key}{end}"
+  "en": "{clr}Tanguy: \"Yippee!\"{key}{end}"
  },
  {
   "id": "3008",
   "jp": "{clr}ウルリク『クックック…{key}{end}",
-  "en": "{clr}Ulrik: Heh heh heh...{key}{end}"
+  "en": "{clr}Ulrik: \"Heh heh heh...\"{key}{end}"
  },
  {
   "id": "3009",
   "jp": "{clr}ウルリク『おーほほほほ。{nl}何でも私の思い通りになるのじゃ。{nl}ゆかいな世の中じゃのう。{key}{end}",
-  "en": "{clr}Ulrik: Oh ho ho ho ho.{nl}All things go just as I wish them to.{nl}What a delightful world it is.{key}{end}"
+  "en": "{clr}Ulrik: \"Oh ho ho ho ho.{nl}All things go just as I wish them to.{nl}What a delightful world it is.\"{key}{end}"
  },
  {
   "id": "300A",
   "jp": "{clr}ウルリク『ヒラニプラの神は{nl}いつもいつも見ておられるのじゃ。{key}{end}",
-  "en": "{clr}Ulrik: The god Hiranipla{nl}is ever watching, ever watching.{key}{end}"
+  "en": "{clr}Ulrik: \"The god Hiranipla{nl}is ever watching, ever watching.\"{key}{end}"
  },
  {
   "id": "300B",
   "jp": "{clr}シンシア『あァ…。{nl}私にも、たまには良いことがあるのね…{key}{end}",
-  "en": "{clr}Cynthia: Ahh...{nl}So even I get lucky once in a while...{key}{end}"
+  "en": "{clr}Cynthia: \"Ahh...{nl}So even I get lucky once in a while...\"{key}{end}"
  },
  {
   "id": "300C",
   "jp": "{clr}シンシア『うれしい…。{key}{end}",
-  "en": "{clr}Cynthia: I'm so happy...{key}{end}"
+  "en": "{clr}Cynthia: \"I'm so happy...\"{key}{end}"
  },
  {
   "id": "300D",
   "jp": "{clr}シンシア『こんな事って…。きっと何か{nl}悪いことが起きる前ぶれ…？{key}{end}",
-  "en": "{clr}Cynthia: This can't be... Surely it's{nl}a sign that something bad is coming...?{key}{end}"
+  "en": "{clr}Cynthia: \"This can't be... Surely it's{nl}a sign that something bad is coming...?\"{key}{end}"
  },
  {
   "id": "300E",
   "jp": "{clr}デヒテル『グハハハハ！{nl}見たか。オレ様の強運を！どうだ！{key}{end}",
-  "en": "{clr}Dechtel: Gwahahahaha!{nl}Behold the great me's luck! How's that!{key}{end}"
+  "en": "{clr}Dechtel: \"Gahahahaha!{nl}Behold the luck of the great me! Well?!\"{key}{end}"
  },
  {
   "id": "300F",
   "jp": "{clr}デヒテル『どうだ？{nl}みんなうらやましいか？何もやらんぞ。{key}{end}",
-  "en": "{clr}Dechtel: Well?{nl}Jealous, all of you? You get nothing!{key}{end}"
+  "en": "{clr}Dechtel: \"Well?{nl}Jealous, all of you? You get nothing!\"{key}{end}"
  },
  {
   "id": "3010",
   "jp": "{clr}デヒテル『かたじけない…。{key}{end}",
-  "en": "{clr}Dechtel: Much obliged...{key}{end}"
+  "en": "{clr}Dechtel: \"Much obliged...\"{key}{end}"
  },
  {
   "id": "3011",
   "jp": "{clr}ディアナ『うれしいですわァ～。{key}{end}",
-  "en": "{clr}Diana: I'm sooo happy~.{key}{end}"
+  "en": "{clr}Diana: \"I'm sooo happy~.\"{key}{end}"
  },
  {
   "id": "3012",
   "jp": "{clr}ディアナ『これもみなさんのおかげです{nl}本当に感謝していますの。{key}{end}",
-  "en": "{clr}Diana: It's all thanks to everyone.{nl}I'm truly grateful to you all.{key}{end}"
+  "en": "{clr}Diana: \"It's all thanks to everyone.{nl}I'm truly grateful to you all.\"{key}{end}"
  },
  {
   "id": "3013",
   "jp": "{clr}ディアナ『幸せですぅ。{key}{end}",
-  "en": "{clr}Diana: Such bliss~.{key}{end}"
+  "en": "{clr}Diana: \"Such bliss~.\"{key}{end}"
  },
  {
   "id": "3014",
@@ -112,7 +112,7 @@
  {
   "id": "3016",
   "jp": "{clr}{v1}は、道ばたに何か落ちている{nl}のに気づいた。{key}{nl}{clr}拾ってみると、それはお金のぎっしり{nl}つまったサイフだった！{nl}サイフの中に、てがみもはいっていた。{key}{nl}{clr}「使いきれないので、拾った人に{nl}さしあげます。  ～大金持ちより～{key}{end}",
-  "en": "{clr}{v1} noticed something lying{nl}by the roadside.{key}{nl}{clr}On picking it up, it turned out to be{nl}a wallet stuffed full of money!{nl}There was a letter in it, too.{key}{nl}{clr}\"I can't spend it all, so I give it{nl}to whoever finds it. ~A Millionaire~{key}{end}"
+  "en": "{clr}{v1} noticed something lying{nl}by the roadside.{key}{nl}{clr}On picking it up, it turned out to be{nl}a wallet stuffed full of money!{nl}There was a letter in it, too.{key}{nl}{clr}\"I can't spend it all, so I give it{nl}to whoever finds it.\" ~From a Millionaire~{key}{end}"
  },
  {
   "id": "3017",
@@ -127,7 +127,7 @@
  {
   "id": "3019",
   "jp": "{clr}「こんにちは{v1}さん。{nl}いつも私たちのためにがんばってくれて{nl}本当にありがとう。感謝しています。{key}{nl}{clr}「お礼といってはなんですが、教わった{nl}ばかりの魔法をかけてあげますね。{key}{nl}{clr}{nl}     ハイパ～ヒ～ルぅ！{wait1}{end}",
-  "en": "{clr}\"Hello, {v1}-san.{nl}Thank you for always working so hard{nl}for us. We're truly grateful.{key}{nl}{clr}\"It's not much of a thank-you, but{nl}let me cast a spell I just learned.{key}{nl}{clr}{nl}{at5}Hyper Heeeal~!{wait1}{end}"
+  "en": "{clr}\"Hello, {v1}-san.{nl}Thank you for always working so hard{nl}for us. We're truly grateful.\"{key}{nl}{clr}\"It's not much of a thank-you, but{nl}let me cast a spell I just learned.\"{key}{nl}{clr}{nl}{at5}Hyper Heeeal~!{wait1}{end}"
  },
  {
   "id": "301A",
@@ -137,22 +137,22 @@
  {
   "id": "301B",
   "jp": "{clr}「あら？ちょっとうまく行かなかった{nl}かもしれないわ。{key}{end}",
-  "en": "{clr}\"Oh my? I think that might not have{nl}worked quite right.{key}{end}"
+  "en": "{clr}\"Oh my? I think that might not have{nl}worked quite right.\"{key}{end}"
  },
  {
   "id": "301C",
   "jp": "{clr}「{v1}よ…{nl}お前こそ世界をすくう、まことの冒険者{nl}かもしれません。{key}{nl}{clr}「お前の持つ力をためしましょう{key}{nl}{clr}女は小さな声で何か唱えている…。{nl}{v1}のカラダの中に、不思議な{nl}感覚が起き、少しずつ遠退いていった。{key}{nl}{clr}なんと！{v1}の全てのダイスが{nl}最大に増えている！{key}{nl}{clr}「{v1}よ…{nl}私から話す事は、もうありません。{nl}ただしい道を歩むのですよ…。{key}{end}",
-  "en": "{clr}\"{v1}...{nl}You may be the true adventurer{nl}who will save the world.{key}{nl}{clr}\"Let me test the power you hold.{key}{nl}{clr}The woman softly chants something.{nl}A strange feeling rises in {v1}'s{nl}body, then slowly fades away.{key}{nl}{clr}Incredible! All of {v1}'s dice{nl}have grown to the maximum!{key}{nl}{clr}\"{v1}...{nl}I have nothing more to tell you.{nl}Walk the righteous path...{key}{end}"
+  "en": "{clr}\"{v1}...{nl}You may be the true adventurer{nl}who will save the world.\"{key}{nl}{clr}\"Let me test the power you hold.\"{key}{nl}{clr}The woman softly chants something.{nl}A strange feeling rises in {v1}'s{nl}body, then slowly fades away.{key}{nl}{clr}Incredible! All of {v1}'s dice{nl}have grown to the maximum!{key}{nl}{clr}\"{v1}...{nl}I have nothing more to tell you.{nl}Walk the righteous path...\"{key}{end}"
  },
  {
   "id": "301D",
   "jp": "{clr}「まあ！ケイヌちゃん？無事だったの？{key}{nl}{clr}{v1}「？？？？{nl}「え？ケイヌちゃんではないの？{nl}………、そう…、人ちがいだったのね。{key}{nl}{clr}「じつは、私には行方しれずのこどもが{nl}いるの。アナタが、あんまりそっくり{nl}だったから、つい…。{key}{nl}{clr}「そうだわ、おわびというわけじゃ{nl}ないけれど、これを使って下さいな。{key}{end}",
-  "en": "{clr}\"Oh! Keinu-chan? You're safe?{key}{nl}{clr}{v1}: ????{nl}\"Huh? You're not Keinu-chan?{nl}......I see... I had the wrong person.{key}{nl}{clr}\"The truth is, I have a child who's{nl}gone missing. You looked so much{nl}alike that I just...{key}{nl}{clr}\"Oh, I know. It's no real apology,{nl}but please, use this.{key}{end}"
+  "en": "{clr}\"Oh! Keinu-chan? You're safe?\"{key}{nl}{clr}{v1}: \"????\"{nl}\"Huh? You're not Keinu-chan?{nl}......I see... I had the wrong person.\"{key}{nl}{clr}\"The truth is, I have a child who's{nl}gone missing. You looked so much{nl}alike that I just...\"{key}{nl}{clr}\"Oh, I know. It's no real apology,{nl}but please, use this.\"{key}{end}"
  },
  {
   "id": "301E",
   "jp": "{clr}「はいはい！そこのアンタ！{nl}そうそう、アンタだよ。宝クジを買って{nl}行かないか？きっと大当たりが出るよ。{key}{nl}{clr}「お金は後からでけっこう！{nl}さあー！運だめしだよお客さんっ！{nl}ダイスを振っておくれ。{key}{end}",
-  "en": "{clr}\"Hey hey! You there!{nl}Yeah, yeah, you! Won't you buy a{nl}lottery ticket? It's sure to hit big!{key}{nl}{clr}\"You can pay me later!{nl}Come on! Test your luck, friend!{nl}Roll the dice for me.{key}{end}"
+  "en": "{clr}\"Hey hey! You there!{nl}Yeah, yeah, you! Won't you buy a{nl}lottery ticket? It's sure to hit big!\"{key}{nl}{clr}\"You can pay me later!{nl}Come on! Test your luck, friend!{nl}Roll the dice for me.\"{key}{end}"
  },
  {
   "id": "301F",
@@ -162,32 +162,32 @@
  {
   "id": "3020",
   "jp": "運のダイスを使って{nl}セービングロールを行います。{key}{end}",
-  "en": "a saving roll is made{nl}using the Luck dice.{key}{end}"
+  "en": "a saving roll is made{nl}using the Luck Dice.{key}{end}"
  },
  {
   "id": "3021",
   "jp": "ちからのダイスを使って{nl}セービングロールを行います。{key}{end}",
-  "en": "a saving roll is made{nl}using the Power dice.{key}{end}"
+  "en": "a saving roll is made{nl}using the Power Dice.{key}{end}"
  },
  {
   "id": "3022",
   "jp": "魔法のダイスを使って{nl}セービングロールを行います。{key}{end}",
-  "en": "a saving roll is made{nl}using the Magic dice.{key}{end}"
+  "en": "a saving roll is made{nl}using the Magic Dice.{key}{end}"
  },
  {
   "id": "3023",
   "jp": "すばやさのダイスを使って{nl}セービングロールを行います。{key}{end}",
-  "en": "a saving roll is made{nl}using the Speed dice.{key}{end}"
+  "en": "a saving roll is made{nl}using the Speed Dice.{key}{end}"
  },
  {
   "id": "3024",
   "jp": "{clr}「おしかったねえ、もうちょいだ！{nl}大マケで２００ＴＫあげちゃおう。{nl}また買いに来てちょ。たっしゃでな！{key}{end}",
-  "en": "{clr}\"Ooh, so close! Almost had it!{nl}I'll be generous and give you 200 TK.{nl}Come buy again! Take care now!{key}{end}"
+  "en": "{clr}\"Ooh, so close! Almost had it!{nl}I'll be generous and give you 200 TK.{nl}Come buy again! Take care now!\"{key}{end}"
  },
  {
   "id": "3025",
   "jp": "{clr}「お、おお、お客さん！たまんないなー{nl}やられちゃったよ、持ってけドロボー！{nl}１００００ＴＫだァ～～～～！！{key}{end}",
-  "en": "{clr}\"Wh-wh-whoa, friend! Unbelievable!{nl}You got me! Take it, you bandit!{nl}10000 TK~~~~!!{key}{end}"
+  "en": "{clr}\"Wh-wh-whoa, friend! Unbelievable!{nl}You got me! Take it, you bandit!{nl}10000 TK~~~~!!\"{key}{end}"
  },
  {
   "id": "3026",
@@ -227,17 +227,17 @@
  {
   "id": "302D",
   "jp": "{clr}「あのォ、私、{v1}さんの{nl}大ファンなんです。{nl}それで…、これを使ってもらいたくて…{key}{nl}{clr}大事に使って下さいね！{nl}とっても、くろうして見つけたんです。{nl}じゃ…、またさがして来ますね！{key}{end}",
-  "en": "{clr}\"Umm, I'm a huge fan of yours,{nl}{v1}-san.{nl}So... I'd love for you to use this...{key}{nl}{clr}Please take good care of it!{nl}It was really hard to find.{nl}Well... I'll go look for more!{key}{end}"
+  "en": "{clr}\"Umm, I'm a huge fan of yours,{nl}{v1}-san.{nl}So... I'd love for you to use this...\"{key}{nl}{clr}\"Please take good care of it!{nl}It was really hard to find.{nl}Well... I'll go look for more!\"{key}{end}"
  },
  {
   "id": "302E",
   "jp": "{clr}「あ～、魔法～～、魔法はいらんかね～{key}{nl}いやぁ、弱った弱った。ちっとも魔法が{nl}売れんわい。{key}{nl}{clr}「やっぱ、もっとハデでカッコイイ{nl}魔法じゃないと売れないのかねえ。{key}{nl}{clr}「お、アンタ、たしか{v1}とか{nl}いう人だね？あまり物で良ければ{nl}この魔法、いらんか？もらっとくれよ。{key}{nl}{clr}「タダじゃよタダ！！{key}{end}",
-  "en": "{clr}\"Ahh~ Spells~~ Who wants spells~?{key}{nl}Ohh, what a fix, what a fix. These{nl}spells just won't sell at all.{key}{nl}{clr}\"Guess spells gotta be flashier and{nl}cooler, or they just won't sell, eh?{key}{nl}{clr}\"Oh, you there, you're the one called{nl}{v1}, right? If leftovers are fine,{nl}want this spell? Go on, take it.{key}{nl}{clr}\"It's free! Free, I say!!{key}{end}"
+  "en": "{clr}\"Ahh~ Spells~~ Who wants spells~?{key}{nl}Ohh, what a fix, what a fix. These{nl}spells just won't sell at all.\"{key}{nl}{clr}\"Guess spells gotta be flashier and{nl}cooler, or they just won't sell, eh?\"{key}{nl}{clr}\"Oh, you there, you're the one called{nl}{v1}, right? If leftovers are fine,{nl}want this spell? Go on, take it.\"{key}{nl}{clr}\"It's free! Free, I say!!\"{key}{end}"
  },
  {
   "id": "302F",
   "jp": "{clr}「{v1}さんよォ。どうだい？{nl}オレとサイコロで勝負しないかァ？{key}{nl}{clr}「勝っても負けても、うらみっこ{nl}なしだぜ。７００ＴＫの勝負だ！{nl}勇者は、にげ出したりしねえよなァ？{key}{nl}{clr}「おし、じゃあまずオレから行くぜ。{wait0}{nl}{clr}とう！{wait2}{clr}チッ、１かよ。{wait0}{nl}{clr}よし次だ。うりゃ！{wait0}{clr}…また１だ…{wait0}{nl}{clr}これが最後のサイコロだ…、{wait0}{nl}{clr}てぇい！{wait2}やった！２だ……。{key}{nl}{clr}「さ、さささ、さあ！{nl}おめぇの番だぜ！ちくしょう。{nl}手加減なんかいらねえ！{key}{end}",
-  "en": "{clr}\"Hey, {v1}-san. Whaddya say?{nl}Wanna play me a game of dice?{key}{nl}{clr}\"Win or lose, no hard feelings.{nl}We're playin' for 700 TK!{nl}A hero wouldn't run away, right?{key}{nl}{clr}\"Right, I'll go first, then.{wait0}{nl}{clr}Hyah!{wait2}{clr}Tch, a 1.{wait0}{nl}{clr}Okay, next. Hrraah!{wait0}{clr}...Another 1...{wait0}{nl}{clr}This is my last die...{wait0}{nl}{clr}Taaah!{wait2} Yes! A 2......{key}{nl}{clr}\"N-n-n-now then!{nl}Your turn! Dang it.{nl}And don't you go easy on me!{key}{end}"
+  "en": "{clr}\"Hey, {v1}-san. Whaddya say?{nl}Wanna play me a game of dice?\"{key}{nl}{clr}\"Win or lose, no hard feelings.{nl}We're playin' for 700 TK!{nl}A hero wouldn't run away, right?\"{key}{nl}{clr}\"Right, I'll go first, then.\"{wait0}{nl}{clr}\"Hyah!\"{wait2}{clr}\"Tch, a 1.\"{wait0}{nl}{clr}\"Okay, next. Hrraah!\"{wait0}{clr}\"...Another 1...\"{wait0}{nl}{clr}\"This is my last die...\"{wait0}{nl}{clr}\"Taaah!{wait2}Yes! A 2......\"{key}{nl}{clr}\"N-n-n-now then!{nl}Your turn! Dang it.{nl}And don't you go easy on me!\"{key}{end}"
  },
  {
   "id": "3030",
@@ -247,12 +247,12 @@
  {
   "id": "3031",
   "jp": "{clr}「ほぉぉ～～。{nl}サイランドの冒険者ってのは、ずいぶん{nl}弱ェもんだァ。さ、７００ＴＫ出しな。{key}{end}",
-  "en": "{clr}\"Hohhh~~.{nl}Siland's adventurers sure are a{nl}weak bunch. Now, hand over 700 TK.{key}{end}"
+  "en": "{clr}\"Hohhh~~.{nl}Siland's adventurers sure are a{nl}weak bunch. Now, hand over 700 TK.\"{key}{end}"
  },
  {
   "id": "3032",
   "jp": "{clr}「くゥ…。{nl}もってけ！！７００ＴＫだっ！！{key}{end}",
-  "en": "{clr}\"Grrr...{nl}Take it!! 700 TK!!{key}{end}"
+  "en": "{clr}\"Grrr...{nl}Take it!! 700 TK!!\"{key}{end}"
  },
  {
   "id": "3033",
@@ -262,12 +262,12 @@
  {
   "id": "3034",
   "jp": "{clr}「あのォ、私、{v1}さんの{nl}ファンなんです！！それで…、{nl}{v1}さんの、おやくにたちたいと…{key}{nl}{clr}「何でもいって下さい！{nl}私、がんばりますからァ。{key}{nl}{clr}{v1}は、{nl}えんりょなく血をすわせてもらった。{nl}「ううぅ…。{key}{nl}{clr}{v1}の魔法使用回数がアップ！{key}{end}",
-  "en": "{clr}\"Umm, I'm a big fan of yours,{nl}{v1}-san!! And so... I wanted to{nl}be of use to you, {v1}-san...{key}{nl}{clr}\"Just ask me for anything!{nl}I'll do my very best!{key}{nl}{clr}{v1} didn't hold back{nl}and drank deeply of the offered blood.{nl}\"Uuugh...{key}{nl}{clr}{v1}'s spell uses went up!{key}{end}"
+  "en": "{clr}\"Umm, I'm a big fan of yours,{nl}{v1}-san!! And so... I wanted to{nl}be of use to you, {v1}-san...\"{key}{nl}{clr}\"Just ask me for anything!{nl}I'll do my very best!\"{key}{nl}{clr}{v1} didn't hold back{nl}and drank deeply of the offered blood.{nl}\"Uuugh...\"{key}{nl}{clr}{v1}'s spell uses went up!{key}{end}"
  },
  {
   "id": "3035",
   "jp": "{clr}「{v1}様。ごきげんうるわしゅう…{nl}およろこび下さい。信者の数も、{nl}ちゃくじつに増えてございます。{key}{nl}{clr}「きょうは{v1}様へと、みつぎ物が{nl}ございます。どうか、お使い下さい。{nl}では、私はこれにて！ご武運を！{key}{end}",
-  "en": "{clr}\"{v1}-sama. I trust you are well...{nl}Rejoice, for the number of believers{nl}grows steadily.{key}{nl}{clr}\"Today I bring an offering for{nl}{v1}-sama. Please, make use of it.{nl}Now, I take my leave! Fight well!{key}{end}"
+  "en": "{clr}\"{v1}-sama. I trust you are well...{nl}Rejoice, for the number of believers{nl}grows steadily.\"{key}{nl}{clr}\"Today I bring an offering for{nl}{v1}-sama. Please, make use of it.{nl}Now, I take my leave! Fight well!\"{key}{end}"
  },
  {
   "id": "3036",
@@ -277,17 +277,17 @@
  {
   "id": "3037",
   "jp": "{clr}「よお{v1}さんじゃないか。{nl}最近、なかなかの大人気だそうだねぇ。{key}{nl}{clr}そうそう、ウチの宿屋へとまって{nl}行かないかね？サービスしとくよ。{nl}なあに、お金はいただかないさ。{key}{nl}{clr}{v1}はゆっくりやすんで{nl}ちからがみなぎった！{key}{end}",
-  "en": "{clr}\"Well, if it isn't {v1}-san.{nl}Hear you're mighty popular lately.{key}{nl}{clr}Oh yes, why not stay the night at{nl}my inn? I'll treat you right.{nl}Why, I won't charge you a thing.{key}{nl}{clr}{v1} rested well and{nl}was brimming with power!{key}{end}"
+  "en": "{clr}\"Well, if it isn't {v1}-san.{nl}Hear you're mighty popular lately.\"{key}{nl}{clr}\"Oh yes, why not stay the night at{nl}my inn? I'll treat you right.{nl}Why, I won't charge you a thing.\"{key}{nl}{clr}{v1} rested well and{nl}was brimming with power!{key}{end}"
  },
  {
   "id": "3038",
   "jp": "{clr}{v1}『あれれ？{nl}おかしいなァ、ボクいつのまに、こんな{nl}物を持っていたんだろう？{key}{nl}{clr}『まあいいや！もうかっちゃった！{key}{end}",
-  "en": "{clr}{v1}: Huh?{nl}That's weird. When did I get{nl}my hands on something like this?{key}{nl}{clr}\"Oh well! What a windfall!{key}{end}"
+  "en": "{clr}{v1}: \"Huh?{nl}That's weird. When did I get{nl}my hands on something like this?\"{key}{nl}{clr}\"Oh well! What a windfall!\"{key}{end}"
  },
  {
   "id": "3039",
   "jp": "{clr}{v1}は、不思議なかたちのビンを{nl}拾った。おいしそうなかおりがする。{nl}中には水が入っているようだ…。{key}{nl}{clr}{v1}『何かしら？{nl}無謀だけど、飲んでみますの……。{nl}ゴクゴクゴク……。{key}{nl}{clr}{v1}のカラダは光につつまれ、{nl}みるみるうちに、ちからがみなぎって{nl}行く！{key}{end}",
-  "en": "{clr}{v1} picked up a strangely shaped{nl}bottle. It smells delicious.{nl}There seems to be water inside...{key}{nl}{clr}{v1}: What could it be~?{nl}It's reckless, but I'll try a sip......{nl}Gulp, gulp, gulp......{key}{nl}{clr}{v1} is wrapped in light,{nl}and before your eyes, power comes{nl}surging in!{key}{end}"
+  "en": "{clr}{v1} picked up a strangely shaped{nl}bottle. It smells delicious.{nl}There seems to be water inside...{key}{nl}{clr}{v1}: \"What could it be~?{nl}How rash of me, but I'll take a sip~...\"{nl}Gulp, gulp, gulp......{key}{nl}{clr}{v1} is wrapped in light,{nl}and before your eyes, power comes{nl}surging in!{key}{end}"
  },
  {
   "id": "303A",
@@ -312,22 +312,22 @@
  {
   "id": "303E",
   "jp": "{clr}{v1}は、山に向かって叫んでみた。{key}{nl}{v1}『ンガ～～～～！！{nl}ギャオ～～～！！グア～～～ッッ！{key}{nl}{clr}『はあはあ…、どうだいオイラの{nl}男らしい声ェ。シビレルぜェー。{key}{end}",
-  "en": "{clr}{v1} tried yelling at the mountains.{key}{nl}{v1}: Ngaaaaah!!{nl}Gyaoooooo!! Gwaaaaagh!!{key}{nl}{clr}\"Hah, hah... How 'bout my{nl}manly voice? Gives ya chills, huh?{key}{end}"
+  "en": "{clr}{v1} tried yelling at the mountains.{key}{nl}{v1}: \"Ngaaaaah!!{nl}Gyaoooooo!! Gwaaaaagh!!\"{key}{nl}{clr}\"Hah, hah... How 'bout my{nl}manly voice? Gives ya chills, huh?\"{key}{end}"
  },
  {
   "id": "303F",
   "jp": "{clr}「まあ、何てステキな声なんでしょう…{nl}惚れてしまいそうだわ、ポッ。{key}{nl}{clr}「あの…、コレ、つまらない物ですけど{nl}使って下さいな。{key}{end}",
-  "en": "{clr}\"Oh my, what a wonderful voice...{nl}I might just fall for you... Swoon.{key}{nl}{clr}\"Um... this is just a worthless little{nl}thing, but please use it.{key}{end}"
+  "en": "{clr}\"Oh my, what a wonderful voice...{nl}I might just fall for you... Swoon.\"{key}{nl}{clr}\"Um... this is just a worthless little{nl}thing, but please use it.\"{key}{end}"
  },
  {
   "id": "3040",
   "jp": "{clr}{v1}『ホ、ホントに{nl}つまらない物だぜ、キョエ～～！！{key}{end}",
-  "en": "{clr}{v1}: I-It really IS a{nl}worthless little thing! Kyoeeeh!!{key}{end}"
+  "en": "{clr}{v1}: \"I-It really IS a{nl}worthless little thing! Kyoeeeh!!\"{key}{end}"
  },
  {
   "id": "3041",
   "jp": "{clr}「あのォ、{v1}さんですよね？{nl}これ、ウチのカベにかざってあった{nl}物なんですけど。使って下さい。{key}{nl}{clr}「ウチのジイさんが、わかいころに{nl}使っていた武器なんだそうです。{key}{end}",
-  "en": "{clr}\"Umm, you're {v1}-san, aren't you?{nl}This used to hang on the wall at our{nl}place. Please use it.{key}{nl}{clr}\"They say it's a weapon my grandpa{nl}used when he was young.{key}{end}"
+  "en": "{clr}\"Umm, you're {v1}-san, aren't you?{nl}This used to hang on the wall at our{nl}place. Please use it.\"{key}{nl}{clr}\"They say it's a weapon my grandpa{nl}used when he was young.\"{key}{end}"
  },
  {
   "id": "3042",
@@ -337,72 +337,72 @@
  {
   "id": "3043",
   "jp": "{clr}「ねえ、{v1}さんにコレあげる！{key}{nl}{clr}「ワタシには、この武器は{nl}使いこなせないみたいなのよね。{key}{nl}{clr}「けっこう高い武器を買ったんだけど{nl}無謀な買い物だったかしら…。{key}{end}",
-  "en": "{clr}\"Hey, {v1}-san, you can have this!{key}{nl}{clr}\"Looks like I just can't handle{nl}this weapon very well.{key}{nl}{clr}\"It was a pretty pricey weapon, but{nl}maybe buying it was reckless...{key}{end}"
+  "en": "{clr}\"Hey, {v1}-san, you can have this!\"{key}{nl}{clr}\"Looks like I just can't handle{nl}this weapon very well.\"{key}{nl}{clr}\"It was a pretty pricey weapon, but{nl}maybe buying it was reckless...\"{key}{end}"
  },
  {
   "id": "3044",
   "jp": "{clr}「{v1}殿！{nl}せっしゃの使わなくなった鎧を{nl}{v1}殿に、さしあげるでござる。{key}{nl}{clr}「多少のニオイは{nl}かんべんしてくだされ……。{key}{nl}{clr}{v1}『クンクン…、う…。{key}{end}",
-  "en": "{clr}\"{v1}-dono!{nl}This humble one offers {v1}-dono{nl}the armor he no longer uses.{key}{nl}{clr}\"Kindly forgive it if there be{nl}a slight odor......{key}{nl}{clr}{v1}: Sniff sniff... Ugh.{key}{end}"
+  "en": "{clr}\"{v1}-dono!{nl}This humble one offers {v1}-dono{nl}the armor this one no longer uses.\"{key}{nl}{clr}\"Kindly forgive it if there be{nl}a slight odor......\"{key}{nl}{clr}{v1}: \"Sniff sniff... Ugh.\"{key}{end}"
  },
  {
   "id": "3045",
   "jp": "{clr}「ハロ～～、{v1}さん。{key}{nl}{clr}「アタシには、そうび出来ない鎧を{nl}拾ったのよ。良かったら使ってくれる？{key}{nl}{clr}「少しダイエットしたら、きっと{nl}そうび出来ると思うんだけど{wait2}…{wait2}…。{wait2}{nl}なによ！！信じてないのね！{key}{nl}{end}",
-  "en": "{clr}\"Hellooo~, {v1}-san.{key}{nl}{clr}\"I picked up some armor I can't{nl}wear. Would you use it for me?{key}{nl}{clr}\"If I just diet a little, I'm sure{nl}I could wear it, though{wait2}...{wait2}...{wait2}{nl}What!! You don't believe me!{key}{nl}{end}"
+  "en": "{clr}\"Hellooo~, {v1}-san.\"{key}{nl}{clr}\"I picked up some armor I can't{nl}wear. Would you use it for me?\"{key}{nl}{clr}\"If I just diet a little, I'm sure{nl}I could wear it, though{wait2}...{wait2}...{wait2}{nl}What!! You don't believe me!\"{key}{nl}{end}"
  },
  {
   "id": "3046",
   "jp": "{clr}「グルルル………。{key}{nl}{clr}「コレ、かたい。とてもかたい。{nl}コレ食えない。オマエに、コレ、やる。{key}{nl}{end}",
-  "en": "{clr}\"Grrrrr.........{key}{nl}{clr}\"This, hard. Very hard.{nl}This, not food. You, this, take.{key}{nl}{end}"
+  "en": "{clr}\"Grrrrr.........\"{key}{nl}{clr}\"This, hard. Very hard.{nl}This, not food. You, this, take.\"{key}{nl}{end}"
  },
  {
   "id": "3047",
   "jp": "{clr}「けけけけけっ！メチャメチャ弱いと{nl}ひょうばんの{v1}に、アタイが{nl}盾をめぐんでやろうじゃないかッ！{key}{nl}{clr}「まァ、メチャメチャ弱い{v1}の{nl}事だから、盾もらったぐらいじゃ{nl}何も起きないだろうねぇ。けけけけっ！{key}{nl}{end}",
-  "en": "{clr}\"Kekekekeke! To {v1}, famous{nl}for being super-duper weak, I'll{nl}go and bestow a shield!{key}{nl}{clr}\"Well, since {v1} is SO{nl}super-duper weak, I bet a shield{nl}won't change a thing. Kekekeke!{key}{nl}{end}"
+  "en": "{clr}\"Kekekekeke! To {v1}, famous{nl}for being super-duper weak, I'll{nl}go and bestow a shield!\"{key}{nl}{clr}\"Well, since {v1} is SO{nl}super-duper weak, I bet a shield{nl}won't change a thing. Kekekeke!\"{key}{nl}{end}"
  },
  {
   "id": "3048",
   "jp": "{clr}「お…オレはもうダメだ…。{nl}何も良い事がなかったオレのじんせい、{nl}最後に世の中のためになる事をしよう…{key}{nl}{clr}「こ、このダイスを{v1}に{nl}ぜんぶ、くれてやる…。た、頼む…、{nl}オレのぶんも戦ってくれ…。{key}{nl}{clr}「死ぬ前にトウモロコシをたらふく{nl}食べたかったなあ…。{key}{end}",
-  "en": "{clr}\"I... I'm done for...{nl}My life never had a single good thing.{nl}At the end, I'll do the world a favor...{key}{nl}{clr}\"Th-these dice... I'll give them{nl}all to {v1}... P-please...{nl}fight for my share, too...{key}{nl}{clr}\"Before I die... I wish I'd eaten{nl}my fill of corn...{key}{end}"
+  "en": "{clr}\"I... I'm done for...{nl}My life never had a single good thing.{nl}At the end, I'll do the world a favor...\"{key}{nl}{clr}\"Th-these dice... I'll give them{nl}all to {v1}... P-please...{nl}fight for my share, too...\"{key}{nl}{clr}\"Before I die... I wish I'd eaten{nl}my fill of corn...\"{key}{end}"
  },
  {
   "id": "3049",
   "jp": "{clr}「聞いてくれ{v1}さん。{key}{nl}{clr}「ボクのいもうとのアリエルは{nl}魔物に連れ去られてしまったんだ。{key}{nl}{clr}「きっと魔王のすんでいるという{nl}魔界のどこかに、いまも……{key}{nl}{clr}「いや、もうアリエルは{nl}死んでしまっているだろう………。{key}{nl}{clr}「{v1}さん。もう誰も{nl}アリエルのような目にあわせないように{nl}がんばってください…。{key}{nl}{end}",
-  "en": "{clr}\"Listen to me, {v1}-san.{key}{nl}{clr}\"My little sister, Ariel, was{nl}carried off by monsters.{key}{nl}{clr}\"She must still be somewhere in the{nl}Demon Realm, home of the Demon Lord...{key}{nl}{clr}\"No... Ariel must already be{nl}dead.........{key}{nl}{clr}\"{v1}-san. Please do your best{nl}so that nobody else ever suffers{nl}the way Ariel did...{key}{nl}{end}"
+  "en": "{clr}\"Listen to me, {v1}-san.\"{key}{nl}{clr}\"My little sister, Ariel, was{nl}carried off by monsters.\"{key}{nl}{clr}\"She must still be somewhere in the{nl}Demon Realm, home of the Demon Lord...\"{key}{nl}{clr}\"No... Ariel must already be{nl}dead.........\"{key}{nl}{clr}\"{v1}-san. Please do your best{nl}so that nobody else ever suffers{nl}the way Ariel did...\"{key}{nl}{end}"
  },
  {
   "id": "304A",
   "jp": "{clr}「私はちょっとゆうめいな魔法使い{nl}だったのよ。最近じゃ、ひっそりと{nl}くらしているんだけどね。{key}{nl}{clr}「{v1}さんのように、戦いに{nl}あけくれた事もあったわ。{key}{nl}{clr}「たいした物じゃないけど{nl}持ち合わせの魔法をあげるね。{key}{end}",
-  "en": "{clr}\"I was once a rather famous sorceress.{nl}These days, though, I live a{nl}quiet life.{key}{nl}{clr}\"Like you, {v1}-san, I once spent{nl}my days in battle after battle.{key}{nl}{clr}\"It's nothing much, but I'll give you{nl}a spell I happen to have.{key}{end}"
+  "en": "{clr}\"I was once a rather famous sorceress.{nl}These days, though, I live a{nl}quiet life.\"{key}{nl}{clr}\"Like you, {v1}-san, I once spent{nl}my days in battle after battle.\"{key}{nl}{clr}\"It's nothing much, but I'll give you{nl}a spell I happen to have.\"{key}{end}"
  },
  {
   "id": "304B",
   "jp": "{clr}「オレは勇者と呼ばれた事もあった。{nl}それももう、むかしの話しさ。{key}{nl}{clr}「だけど、いまでも剣のしゅぎょうは{nl}忘れていないぜ。{key}{nl}{clr}「そうだ{v1}に、この武器を{nl}あげよう。大した物じゃないが{nl}きっとやくに立つだろう。がんばれよ！{key}{nl}{end}",
-  "en": "{clr}\"I was once called a hero myself.{nl}But that's ancient history now.{key}{nl}{clr}\"Still, I haven't forgotten my{nl}sword training, not even now.{key}{nl}{clr}\"I know, I'll give {v1}{nl}this weapon. It's nothing special,{nl}but it'll come in handy. Good luck!{key}{nl}{end}"
+  "en": "{clr}\"I was once called a hero myself.{nl}But that's ancient history now.\"{key}{nl}{clr}\"Still, I haven't forgotten my{nl}sword training, not even now.\"{key}{nl}{clr}\"I know, I'll give {v1}{nl}this weapon. It's nothing special,{nl}but it'll come in handy. Good luck!\"{key}{nl}{end}"
  },
  {
   "id": "304C",
   "jp": "{clr}「おおッ、あんたが{v1}かぁ？{nl}ワシは見た目はおいぼれじゃが{nl}かつて勇者と呼ばれた事もある男じゃ。{key}{nl}{clr}「お前はどうも弱そうに見えて{nl}イカンのう。そうじゃ、ワシの盾を{nl}くれてやろう。{key}{nl}{clr}「これで多少は強そうに見えるかな？{nl}わっはっはっは！！{key}{end}",
-  "en": "{clr}\"Ohh, so you're {v1}, eh?{nl}I may look like an old geezer, but I'm{nl}a man who was once called a hero.{key}{nl}{clr}\"Trouble is, you look awfully weak.{nl}No good at all. I know, I'll give{nl}you my shield.{key}{nl}{clr}\"Bet you look a bit stronger now, eh?{nl}Wahahahaha!!{key}{end}"
+  "en": "{clr}\"Ohh, so you're {v1}, eh?{nl}I may look like an old geezer, but I'm{nl}a man who was once called a hero.\"{key}{nl}{clr}\"Trouble is, you look awfully weak.{nl}No good at all. I know, I'll give{nl}you my shield.\"{key}{nl}{clr}\"Bet you look a bit stronger now, eh?{nl}Wahahahaha!!\"{key}{end}"
  },
  {
   "id": "304D",
   "jp": "{clr}「アタシはこう見えても、以前は勇者と{nl}呼ばれていたんだよ。{key}{nl}{clr}「びっくりした？ねえねえ？{nl}あ、信じていないんだね。{key}{nl}{clr}「まあいいや。{nl}そうだ、アタシの持っているアイテムを{nl}分けてあげるよ。{key}{end}",
-  "en": "{clr}\"Believe it or not, I used to be{nl}called a hero, y'know.{key}{nl}{clr}\"Surprised? Huh? Huh?{nl}Oh, you don't believe me, do you?{key}{nl}{clr}\"Oh well.{nl}I know, I'll share some of the items{nl}I've got with you.{key}{end}"
+  "en": "{clr}\"Believe it or not, I used to be{nl}called a hero, y'know.\"{key}{nl}{clr}\"Surprised? Huh? Huh?{nl}Oh, you don't believe me, do you?\"{key}{nl}{clr}\"Oh well.{nl}I know, I'll share some of the items{nl}I've got with you.\"{key}{end}"
  },
  {
   "id": "304E",
   "jp": "{clr}「よう、{v1}。{nl}この金の出所は聞かないでくれよ…{key}{nl}{clr}「どうだい？やくそくしてくれるかい？{nl}    はい     いいえ{end}",
-  "en": "{clr}\"Hey, {v1}.{nl}Don't ask where this money came from...{key}{nl}{clr}\"Well? Will you promise me that?{nl}{at4}Yes{at11}No{end}"
+  "en": "{clr}\"Hey, {v1}.{nl}Don't ask where this money came from...\"{key}{nl}{clr}\"Well? Will you promise me that?\"{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "304F",
   "jp": "{clr}「よしよし、物わかりがいいな。{nl}{v1}よ、誰にもいうなよ。{key}{end}",
-  "en": "{clr}\"Good, good, you catch on quick.{nl}{v1}, don't tell a soul.{key}{end}"
+  "en": "{clr}\"Good, good, you catch on quick.{nl}{v1}, don't tell a soul.\"{key}{end}"
  },
  {
   "id": "3050",
   "jp": "{clr}「ちッ！{nl}じゃ聞かなかった事にしてもらおうか。{key}{nl}{end}",
-  "en": "{clr}\"Tch!{nl}Then pretend you never heard this.{key}{nl}{end}"
+  "en": "{clr}\"Tch!{nl}Then pretend you never heard this.\"{key}{nl}{end}"
  },
  {
   "id": "3051",
@@ -412,7 +412,7 @@
  {
   "id": "3052",
   "jp": "{clr}{v1}は{nl}ダイスが山のように落ちているのを{nl}発見した！！{key}{nl}{clr}{v1}『なんだかアヤシイ…。{key}{nl}{clr}  山のようなダイスを拾いますか？{nl}    はい     いいえ{end}",
-  "en": "{clr}{v1}{nl}discovered a whole mountain{nl}of dice lying around!!{key}{nl}{clr}{v1}: Something's fishy...{key}{nl}{clr}Pick up the mountain of dice?{nl}{at4}Yes{at11}No{end}"
+  "en": "{clr}{v1}{nl}discovered a whole mountain{nl}of dice lying around!!{key}{nl}{clr}{v1}: \"Something's fishy...\"{key}{nl}{clr}Pick up the mountain of dice?{nl}{at4}Yes{at11}No{end}"
  },
  {
   "id": "3053",
@@ -422,27 +422,27 @@
  {
   "id": "3054",
   "jp": "{clr}{v1}は、{nl}ハートマスであるのにもかかわらず{nl}用心してダイスを拾わなかった。{key}{end}",
-  "en": "{clr}{v1}, despite it being{nl}a Heart space, stayed cautious{nl}and didn't pick up the dice.{key}{end}"
+  "en": "{clr}Though this was a Heart space,{nl}{v1} stayed cautious and{nl}left the dice alone.{key}{end}"
  },
  {
   "id": "3055",
   "jp": "{clr}「きゃあ、{v1}だわ！{nl}あのウワサの勇者の{v1}ッ！{key}{nl}{clr}「本物に会えるなんてカンゲキだわぁ{nl}さ、サインいいですか？{key}{nl}{clr}{v1}は、どんなに{nl}もてはやされるより、アイテムを{nl}もらう方がうれしいと思った。{key}{end}",
-  "en": "{clr}\"Kyaa, it's {v1}!{nl}The famous hero, {v1}!!{key}{nl}{clr}\"I can't believe I'm meeting the real{nl}deal! C-can I get your autograph?{key}{nl}{clr}{v1} thought that getting{nl}an item would beat any amount{nl}of fawning admiration.{key}{end}"
+  "en": "{clr}\"Kyaa, it's {v1}!{nl}The famous hero, {v1}!!\"{key}{nl}{clr}\"I can't believe I'm meeting the real{nl}deal! C-can I get your autograph?\"{key}{nl}{clr}{v1} thought that getting{nl}an item would beat any amount{nl}of fawning admiration.{key}{end}"
  },
  {
   "id": "3056",
   "jp": "{clr}「これを食べなさい。うまいぞ。{key}{nl}じゃんじゃん食べなさい。{key}{nl}{clr}「食物センイも、ほうふじゃ。{key}{end}",
-  "en": "{clr}\"Eat this. It's tasty.{key}{nl}Go on, eat as much as you like.{key}{nl}{clr}\"It's rich in dietary fiber, too.{key}{end}"
+  "en": "{clr}\"Eat this. It's tasty.{key}{nl}Go on, eat as much as you like.\"{key}{nl}{clr}\"It's rich in dietary fiber, too.\"{key}{end}"
  },
  {
   "id": "3057",
   "jp": "{clr}「ムダづかいしちゃダメだよ。{nl}いどうのダイスが足りない時のために{nl}とっておいてね。{key}{end}",
-  "en": "{clr}\"Don't you go wasting them, now.{nl}Save them for when you're short{nl}on Move dice.{key}{end}"
+  "en": "{clr}\"Don't you go wasting them, now.{nl}Save them for when you're short{nl}on Move Dice.\"{key}{end}"
  },
  {
   "id": "3058",
   "jp": "{clr}「うえぇぇぇ～～ん…、ボクのペットの{nl}ダイスマンが死にそうなんだ…。{key}{nl}{clr}子どもの足下に、大ケガをした{nl}ダイスマンがくるしそうに倒れている。{key}{nl}{clr}「おねがい！{v1}さん！{nl}魔法でダイスマンをたすけてあげて！{key}{end}",
-  "en": "{clr}\"Waaaaah~~... My pet Diceman{nl}is dying...{key}{nl}{clr}At the child's feet lies a Diceman,{nl}badly hurt and in great pain.{key}{nl}{clr}\"Please! {v1}-san!{nl}Save my Diceman with your magic!{key}{end}"
+  "en": "{clr}\"Waaaaah~~... My pet Diceman{nl}is dying...\"{key}{nl}{clr}At the child's feet lies a Diceman,{nl}badly hurt and in great pain.{key}{nl}{clr}\"Please! {v1}-san!{nl}Save my Diceman with your magic!\"{key}{end}"
  },
  {
   "id": "3059",
@@ -452,27 +452,27 @@
  {
   "id": "305A",
   "jp": "{clr}「すごいや！{v1}さん！おかげで{nl}ダイスマンもげんきになったよ！{key}{nl}{clr}「これ…、あげるね。{key}{end}",
-  "en": "{clr}\"Wow! {v1}-san! Thanks to you{nl}my Diceman is all better!{key}{nl}{clr}\"Here... this is for you.{key}{end}"
+  "en": "{clr}\"Wow! {v1}-san! Thanks to you{nl}my Diceman is all better!\"{key}{nl}{clr}\"Here... this is for you.\"{key}{end}"
  },
  {
   "id": "305B",
   "jp": "{clr}「……死んじゃった……。{nl}うっうっうっ…ボクのダイスマン…。{key}{nl}{clr}「…{v1}さんは悪くないよ、{nl}いっしょうけんめいしてくれたもの。{key}{nl}{clr}「これ…、あげるね。{key}{end}",
-  "en": "{clr}\"......It died......{nl}Sob, sob... My Diceman...{key}{nl}{clr}\"...It's not your fault, {v1}-san.{nl}You tried as hard as you could.{key}{nl}{clr}\"Here... this is for you.{key}{end}"
+  "en": "{clr}\"......It died......{nl}Sob, sob... My Diceman...\"{key}{nl}{clr}\"...It's not your fault, {v1}-san.{nl}You tried as hard as you could.\"{key}{nl}{clr}\"Here... this is for you.\"{key}{end}"
  },
  {
   "id": "305C",
   "jp": "{clr}「はぅ…{key}しまった…。{nl}{v1}よ。ワシをここで見たのは{nl}ナイショじゃぞ！！{key}{nl}{clr}「い、いや…{key}{nl}{clr}「ワシは王様のソックリさんじゃ。{nl}どうじゃ、すごくソックリじゃろう？{key}{nl}{clr}「そんな目で見るでない……。{key}{nl}{clr}「こ、これをあげるから、な！な！{key}{end}",
-  "en": "{clr}\"Hauh...{key} Drat...{nl}{v1}, you must keep it secret{nl}that you saw me here!!{key}{nl}{clr}\"I-I mean...{key}{nl}{clr}\"I am but a lookalike of the King.{nl}Well? Quite the likeness, no?{key}{nl}{clr}\"Don't look at me like that......{key}{nl}{clr}\"H-here, take this! Deal? Deal?{key}{end}"
+  "en": "{clr}\"Hauh...{key} Drat...{nl}{v1}, you must keep it secret{nl}that you saw me here!!\"{key}{nl}{clr}\"I-I mean...\"{key}{nl}{clr}\"I am but a lookalike of the King.{nl}Well? Quite the likeness, no?\"{key}{nl}{clr}\"Don't look at me like that......\"{key}{nl}{clr}\"H-here, take this! Deal? Deal?\"{key}{end}"
  },
  {
   "id": "305D",
   "jp": "{clr}「ホントに誰にもナイショじゃぞ…。{key}{end}",
-  "en": "{clr}\"Truly now, keep it a secret...{key}{end}"
+  "en": "{clr}\"Truly now, keep it a secret...\"{key}{end}"
  },
  {
   "id": "305E",
   "jp": "{clr}「私もクエストを何個か解いたんだけど{nl}なかなか時間が無くてね。{nl}途中で、やめちゃう事にしたのよね。{key}{nl}{clr}「で、私のスコアを{v1}ちゃんに{nl}あげるわ。他の人にはナイショよ。{key}{end}",
-  "en": "{clr}\"I solved a few quests myself, but{nl}I never had much time, so I{nl}decided to quit partway.{key}{nl}{clr}\"So I'll give my score to you,{nl}{v1}-chan. Keep it secret, OK?{key}{end}"
+  "en": "{clr}\"I solved a few quests myself, but{nl}I never had much time, so I{nl}decided to quit partway.\"{key}{nl}{clr}\"So I'll give my score to you,{nl}{v1}-chan. Keep it secret, OK?\"{key}{end}"
  },
  {
   "id": "305F",
@@ -482,21 +482,21 @@
  {
   "id": "3060",
   "jp": "{clr}「あたしゃね、どうも{v2}が{nl}気に食わないんだよ。{key}{nl}{clr}「ねぇ、{v1}もそう思うだろう？{key}{nl}{clr}「へっへっへ、良い物をあげるから{nl}これで{v2}をギャフンといわせて{nl}おくれでないかい！{key}{end}",
-  "en": "{clr}\"Y'know, I just don't care{nl}for {v2} one bit.{key}{nl}{clr}\"Say, {v1}, you agree, don't you?{key}{nl}{clr}\"Heh heh heh, I'll give you a nice{nl}something. Use it to take {v2}{nl}down a peg, won't you, dearie!{key}{end}"
+  "en": "{clr}\"Y'know, I just don't care{nl}for {v2} one bit.\"{key}{nl}{clr}\"Say, {v1}, you agree, don't you?\"{key}{nl}{clr}\"Heh heh heh, I'll give you a nice{nl}something. Use it to take {v2}{nl}down a peg, won't you, dearie!\"{key}{end}"
  },
  {
   "id": "3061",
   "jp": "{clr}「ひゃ～～ひゃっひゃっひゃ！！{nl}ゾクゾクするわい！{key}{end}",
-  "en": "{clr}\"Hyaaa~~hyahyahya!!{nl}I'm all a-tingle!{key}{end}"
+  "en": "{clr}\"Hyaaa~~hyahyahya!!{nl}I'm all a-tingle!\"{key}{end}"
  },
  {
   "id": "3062",
   "jp": "{clr}「これ良い魔法をやる。これを、あれば{nl}戦闘中が魔法をうける、ＨＰを増える。{nl}かいふくするです。べんり。ガルル。{key}{nl}{clr}「３しゅるいある、集めれば、{nl}む、むてき！ニャーゴ！{key}{end}",
-  "en": "{clr}\"This good magic, I give. With this,{nl}in battle get hit by magic, HP go up.{nl}Is healing. Handy. Grrrl.{key}{nl}{clr}\"Three kinds is. Collect, and{nl}y-you invincible! Meowrr!{key}{end}"
+  "en": "{clr}\"This good magic, I give. With this,{nl}in battle get hit by magic, HP go up.{nl}Is healing. Handy. Grrrrr.\"{key}{nl}{clr}\"Three kinds there is. Collect, and{nl}y-you invincible! Meowrr!\"{key}{end}"
  },
  {
   "id": "3063",
   "jp": "{clr}「不思議なアイテムをあげましょう。{key}{nl}{clr}「戦闘のバックグラウンドで使えば、{nl}どちらのパーティーが勝つのか、{nl}カケる事が出来るんだそうです。{key}{nl}{clr}「私はモンスターと戦った事が{nl}ないので{v1}さん、使って下さい！{key}{nl}{end}",
-  "en": "{clr}\"Let me give you a mysterious item.{key}{nl}{clr}\"If you use it during a battle in the{nl}background, they say you can bet{nl}on which party will win.{key}{nl}{clr}\"I've never fought a monster, so{nl}please use it, {v1}-san!{key}{nl}{end}"
+  "en": "{clr}\"Let me give you a mysterious item.\"{key}{nl}{clr}\"If you use it in a battle's{nl}background, they say you can bet{nl}on which party will win.\"{key}{nl}{clr}\"I've never fought a monster, so{nl}please use it, {v1}-san!\"{key}{nl}{end}"
  }
 ]

@@ -2,12 +2,12 @@
  {
   "id": "5000",
   "jp": "{clr}「{v1}さん、ようこそ…。{nl}じつは、すこし困った事があるのです。{nl}話しだけでも、きいてくれませんか？{key}{nl}{clr}「森に、大きな木があるのですが{nl}どうやらそこに、大切なアイテムを{nl}忘れてきてしまったようなのです…。{key}{nl}{clr}「どうでしょう？{v1}さん、{nl}アイテムを拾って、ここまで届けて{nl}くれませんか？{key}{end}",
-  "en": "{clr}\"Welcome, {v1}-san...{nl}The truth is, I'm in a bit of trouble.{nl}Won't you at least hear me out?\"{key}{nl}{clr}\"There's a big tree in the forest,{nl}and it seems I left an important{nl}item behind there...\"{key}{nl}{clr}\"What do you say, {v1}-san?{nl}Would you pick up the item and{nl}bring it back here to me?\"{key}{end}"
+  "en": "{clr}\"Welcome, {v1}-san...{nl}The truth is, I'm in a bit of trouble.{nl}Won't you at least hear me out?\"{key}{nl}{clr}\"There's a great tree in the forest,{nl}and it seems I left an important{nl}item behind there...\"{key}{nl}{clr}\"What do you say, {v1}-san?{nl}Would you pick up the item and{nl}bring it back here to me?\"{key}{end}"
  },
  {
   "id": "5001",
   "jp": "{clr} このクエストを請け負いますか？{nl}{nl}    まかせろ   いやです{end}",
-  "en": "{clr}Will you take on this quest?{nl}{nl}{at4}You bet!{at11}No way{end}"
+  "en": "{clr}Will you take on this quest?{nl}{nl}{at4}You bet!{at11}I'd rather not{end}"
  },
  {
   "id": "5002",
@@ -17,7 +17,7 @@
  {
   "id": "5003",
   "jp": "{clr}「ステキよ！{v1}さん！{nl}ワタシはここで{v1}さんが{nl}帰ってくるのをまつことにしますわ。{key}{end}",
-  "en": "{clr}\"Marvelous, {v1}-san!{nl}I shall wait right here until{nl}{v1}-san comes back to me.\"{key}{end}"
+  "en": "{clr}\"Marvelous, {v1}-san!{nl}I shall wait right here{nl}until {v1}-san comes back.\"{key}{end}"
  },
  {
   "id": "5004",
@@ -37,7 +37,7 @@
  {
   "id": "5007",
   "jp": "{clr}「ざんねんじゃ…、{v1}殿はもっと{nl}たよれる人に見えるんじゃがのう。{key}{end}",
-  "en": "{clr}\"A pity... {v1}-dono seemed{nl}a more dependable sort, I'd thought.\"{key}{end}"
+  "en": "{clr}\"A pity... I thought {v1}-dono{nl}looked more dependable than this.\"{key}{end}"
  },
  {
   "id": "5008",
@@ -62,7 +62,7 @@
  {
   "id": "500C",
   "jp": "{clr}{v1}『誰か、いませんか？{key}{nl}{clr}どうやら{v1}は用事のない所へ{nl}来てしまったようだ。{key}{end}",
-  "en": "{clr}{v1}: \"Hello? Is anyone here?\"{key}{nl}{clr}Looks like {v1} came somewhere{nl}there's no business to be done.{key}{end}"
+  "en": "{clr}{v1}: \"Hello? Is anyone here?\"{key}{nl}{clr}Looks like {v1} wandered{nl}somewhere with no business to do.{key}{end}"
  },
  {
   "id": "500D",
@@ -92,12 +92,12 @@
  {
   "id": "5012",
   "jp": "{clr}{v1}は、報酬として{nl}{v8}を１個手に入れた！{key}{end}",
-  "en": "{clr}As a reward, {v1}{nl}got {v8} x1!{key}{end}"
+  "en": "{clr}As a reward, {v1}{nl}obtained {v8} x1!{key}{end}"
  },
  {
   "id": "5013",
   "jp": "{clr}{v1}は、報酬として{nl}{v8}を２個手に入れた！{key}{end}",
-  "en": "{clr}As a reward, {v1}{nl}got {v8} x2!{key}{end}"
+  "en": "{clr}As a reward, {v1}{nl}obtained {v8} x2!{key}{end}"
  },
  {
   "id": "5014",
@@ -142,7 +142,7 @@
  {
   "id": "501C",
   "jp": "{clr}{v1}は洞窟に入っていった。{key}{nl}{clr}するととつぜん！目の前にモンスターが{nl}飛び出してきた！{key}{nl}{clr}{v1}『のこのこ出てきたなっ。{nl}おあつらえむきだ！肉になれ！{key}{end}",
-  "en": "{clr}{v1} went into the cave.{key}{nl}{clr}Then suddenly, right up ahead,{nl}a monster jumped out!{key}{nl}{clr}{v1}: \"Strolling right out, huh?{nl}Just what I ordered! Be my meat!\"{key}{end}"
+  "en": "{clr}{v1} went into the cave.{key}{nl}{clr}Then suddenly, right up ahead,{nl}a monster jumped out!{key}{nl}{clr}{v1}: \"Strolling right out, huh?{nl}Just what I ordered! Time to be meat!\"{key}{end}"
  },
  {
   "id": "501D",
@@ -162,12 +162,12 @@
  {
   "id": "5020",
   "jp": "{clr}{v1}は、森にそびえる大木の下へ{nl}やって来た。高いこずえを見上げてると{nl}戦いの事など、忘れてしまいそうだ。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、大木の下を立ち去った。{key}{end}",
-  "en": "{clr}{v1} came to the great tree{nl}towering in the forest. Gazing up at{nl}its high boughs, battle feels far away.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the great tree behind.{key}{end}"
+  "en": "{clr}{v1} came to the forest's towering{nl}great tree. Gazing up at its high{nl}boughs, {v1} nearly forgot battle.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the great tree behind.{key}{end}"
  },
  {
   "id": "5021",
   "jp": "{clr}{v1}は、不気味な気配のする{nl}廃虚へやって来た。ただならぬ気配に{nl}思わずみがまえた。{key}{nl}{clr}だが、{v1}はここに用事はない。{nl}{v1}は、廃虚を立ち去った。{key}{end}",
-  "en": "{clr}{v1} arrived at ruins with an eerie{nl}air, and at that ominous presence,{nl}braced for a fight on instinct.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the ruins behind.{key}{end}"
+  "en": "{clr}{v1} arrived at some eerie ruins.{nl}Sensing an ominous presence,{nl}{v1} braced for a fight on instinct.{key}{nl}{clr}But {v1} had no business here.{nl}{v1} left the ruins behind.{key}{end}"
  },
  {
   "id": "5022",
@@ -277,12 +277,12 @@
  {
   "id": "5037",
   "jp": "{clr}カンバンには、こう書かれている。{key}{nl}{clr}{v1}は順調に冒険を続けている{nl}様子である。あたたかく見守ろう。{nl} ～王様より～{key}{end}",
-  "en": "{clr}The signboard says this:{key}{nl}{clr}{v1}'s adventure is going{nl}smoothly. Let us watch over it kindly.{nl}~From the King~{key}{end}"
+  "en": "{clr}The signboard says this:{key}{nl}{clr}{v1} seems to be faring well.{nl}Let us watch over {v1} warmly.{nl}~From the King~{key}{end}"
  },
  {
   "id": "5038",
   "jp": "{clr}{v1}は、大木の下へやってきた。{key}{nl}{clr}足下をさがすと、ゴムのアヒルが落ちて{nl}いた。忘れたアイテムというのは、{nl}きっとこれの事だろう。{key}{nl}{clr}さっそく拾って届けてあげよう！{key}{end}",
-  "en": "{clr}{v1} came to the great tree.{key}{nl}{clr}Searching underfoot, there was{nl}a rubber duck lying on the ground.{nl}It must be the forgotten item.{key}{nl}{clr}Better pick it up and deliver it!{key}{end}"
+  "en": "{clr}{v1} came to the great tree.{key}{nl}{clr}When {v1} searched underfoot,{nl}a rubber duck was lying there.{nl}It must be the forgotten item.{key}{nl}{clr}Better pick it up and deliver it!{key}{end}"
  },
  {
   "id": "5039",
@@ -372,7 +372,7 @@
  {
   "id": "504A",
   "jp": "{clr}{v1}は、どうにかカガミをこわさず{nl}教会にたどりついた。やれやれ。{key}{nl}{clr}「まあ、ミツさんがケガをして？{nl}{v1}さんが、かわりに届けて{nl}くれたの？それはそれは…感謝します。{key}{nl}{clr}「では、さっそくカガミを……、あっ{key}{nl}{clr}{nl}      ガシャーーン！{key}{nl}{clr}「すっ…すみません！届けていただいた{nl}ばかりなのに！手がすべって……。{key}{nl}{clr}「あの…、これ、またミツさんに届けて{nl}下さいませんこと？{key}{end}",
-  "en": "{clr}{v1} somehow reached the church{nl}without breaking the mirror. Whew.{key}{nl}{clr}\"Oh my, Mitsu-san got hurt?{nl}And {v1}-san delivered it{nl}in his place? Why, thank you so much.\"{key}{nl}{clr}\"Now then, let's see the mirror... Oh!\"{key}{nl}{clr}{nl}{at6}CRAAASH!{key}{nl}{clr}\"I-I'm so sorry! You only just{nl}delivered it! My hand slipped...\"{key}{nl}{clr}\"Um... Would you mind taking this{nl}back to Mitsu-san for me?\"{key}{end}"
+  "en": "{clr}{v1} somehow reached the church{nl}without breaking the mirror. Whew.{key}{nl}{clr}\"Oh my, Mitsu-san got hurt?{nl}And {v1}-san delivered it{nl}in Mitsu-san's place? Why, thank you!\"{key}{nl}{clr}\"Now then, let's see the mirror... Oh!\"{key}{nl}{clr}{nl}{at6}CRAAASH!{key}{nl}{clr}\"I-I'm so sorry! You only just{nl}delivered it! My hand slipped...\"{key}{nl}{clr}\"Um... Would you mind taking this{nl}back to Mitsu-san for me?\"{key}{end}"
  },
  {
   "id": "504B",
@@ -382,7 +382,7 @@
  {
   "id": "504C",
   "jp": "{clr}{v1}は、神殿の中を見回した。{nl}しばらく歩き回り、ねじれたカギが{nl}ピタリと合う、カギあなを発見した！{key}{nl}{clr}とびらの向こうから、気味悪い{nl}うなりごえが聞こえる……。{key}{nl}{clr}{nl}      がるるるるッ！！{key}{nl}{clr}{v1}は、勇気をふりしぼって{nl}カギをあけた！！{key}{end}",
-  "en": "{clr}{v1} looked around the temple.{nl}Wandering a while turned up a keyhole{nl}that the twisted key fit perfectly!{key}{nl}{clr}From beyond the door came{nl}an eerie growl...{key}{nl}{clr}{nl}{at6}GRRRRRR!!{key}{nl}{clr}{v1} summoned up the courage{nl}and unlocked the door!!{key}{end}"
+  "en": "{clr}{v1} looked around the temple.{nl}After roaming a while, {v1} found{nl}a keyhole the twisted key fit perfectly!{key}{nl}{clr}From beyond the door came{nl}an eerie growl...{key}{nl}{clr}{nl}{at6}GRRRRRR!!{key}{nl}{clr}{v1} summoned up the courage{nl}and unlocked the door!!{key}{end}"
  },
  {
   "id": "504D",
@@ -407,7 +407,7 @@
  {
   "id": "5051",
   "jp": "{clr}{v1}は、つりざおを手に水辺へと{nl}やって来た。静かな水面の下には{nl}サカナのいる気配がする！！{key}{nl}{clr}{v1}はさっそくサカナつりを{nl}する事にした。{key}{nl}{clr}{v1}『それッ！{key}{nl}{clr}{nl}       ポチャン{key}{nl}{nl}{clr}{v1}は１時間ほどかけて、{nl}満足できる数のサカナをつり上げた！{nl}{v1}『よし、帰るとしよう。{key}{end}",
-  "en": "{clr}{v1} came to the water's edge, rod{nl}in hand. Beneath the still surface,{nl}fish could be sensed lurking!!{key}{nl}{clr}{v1} decided to start{nl}fishing right away.{key}{nl}{clr}{v1}: \"Hup!\"{key}{nl}{clr}{nl}{at7}Plop{key}{nl}{nl}{clr}{v1} fished for about an hour and{nl}reeled in a satisfying number of fish!{nl}{v1}: \"Right, time to head back.\"{key}{end}"
+  "en": "{clr}{v1} came to the water's edge, rod{nl}in hand. Beneath the still surface,{nl}fish seemed to be lurking!!{key}{nl}{clr}{v1} decided to start{nl}fishing right away.{key}{nl}{clr}{v1}: \"Hup!\"{key}{nl}{clr}{nl}{at7}Plop{key}{nl}{nl}{clr}{v1} fished for about an hour and{nl}reeled in a satisfying number of fish!{nl}{v1}: \"Right, time to head back.\"{key}{end}"
  },
  {
   "id": "5052",
@@ -432,7 +432,7 @@
  {
   "id": "5056",
   "jp": "{clr}{v1}は、洞窟の中を歩んだ。{nl}しばらく歩くと、床にいしころが{nl}ゴロゴロしている場所を見つけた！{key}{nl}{clr}{v1}『どれどれ…{nl}ソックリな物は……、っと。{key}{nl}{clr}{v1}は、カケラにソックリな{nl}いしころを発見した！これならきっと{nl}すりかえても判らないだろう。{key}{nl}{clr}さっそく拾って届けてあげよう！{key}{end}",
-  "en": "{clr}{v1} walked through the cave.{nl}Walking on a while led to a spot{nl}with stones scattered all over the floor!{key}{nl}{clr}{v1}: \"Let's see...{nl}One that looks just like it...\"{key}{nl}{clr}{v1} found a stone just like{nl}the piece! Surely no one would{nl}notice if the two were swapped.{key}{nl}{clr}Time to pick it up and deliver it!{key}{end}"
+  "en": "{clr}{v1} walked through the cave.{nl}After a while, {v1} found a spot{nl}with stones scattered all over the floor!{key}{nl}{clr}{v1}: \"Let's see...{nl}One that looks just like it...\"{key}{nl}{clr}{v1} found a stone just like{nl}the piece! Surely no one would{nl}notice if the two were swapped.{key}{nl}{clr}Time to pick it up and deliver it!{key}{end}"
  },
  {
   "id": "5057",
@@ -542,7 +542,7 @@
  {
   "id": "506C",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}お城から、きゅうきょくの回復魔法{nl}ヘカトンヒールぬすまれる！{nl} ～サイランドタイムス～{key}{end}",
-  "en": "{clr}{v1} read the sign.{key}{nl}{clr}Ultimate healing spell \"Hecaton Heal\"{nl}stolen from the castle!{nl}~The Siland Times~{key}{end}"
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}Ultimate healing spell \"Hecaton Heal\"{nl}stolen from the castle!{nl}~Siland Times~{key}{end}"
  },
  {
   "id": "506D",
@@ -557,7 +557,7 @@
  {
   "id": "506F",
   "jp": "{clr}{v1}は洞窟の中を歩んだ。{key}{nl}{clr}床には人のホネらしい物がゴロゴロと{nl}転がっている。勇ましい{v1}は{nl}思わず武者ぶるいした。{key}{nl}{clr}この洞窟のヌシはウェアベアーという{nl}おそろしいモンスターなのだそうだ。{key}{nl}{clr}倒して帰ると、きっと王様がほうびを{nl}下さるにちがいない。{key}{nl}{end}",
-  "en": "{clr}{v1} walked through the cave.{key}{nl}{clr}Things that look like human bones{nl}lie scattered across the floor. Even{nl}brave {v1} trembled with nerves.{key}{nl}{clr}The master of this cave is said to be{nl}a fearsome monster called Werebear.{key}{nl}{clr}Defeat it and return, and the King{nl}is sure to give a reward.{key}{nl}{end}"
+  "en": "{clr}{v1} walked through the cave.{key}{nl}{clr}Things that look like human bones{nl}lie scattered across the floor. Brave{nl}{v1} shivered with battle fever.{key}{nl}{clr}The master of this cave is said to be{nl}a fearsome monster called Werebear.{key}{nl}{clr}Defeat it and return, and the King{nl}is sure to give a reward.{key}{nl}{end}"
  },
  {
   "id": "5070",
@@ -567,7 +567,7 @@
  {
   "id": "5071",
   "jp": "{clr}「そんなに食われたいかぁ～～！！{key}{end}",
-  "en": "{clr}\"You want to be eaten that bad~~!?\"{key}{end}"
+  "en": "{clr}\"You want to be eaten that bad~~!!\"{key}{end}"
  },
  {
   "id": "5072",
@@ -592,7 +592,7 @@
  {
   "id": "5076",
   "jp": "{clr}{v1}は、カンバンをよんだ。{key}{nl}{clr}キケン！人食いモンスター出現！{nl}倒した者には報酬をつかわす。{nl} ～サイランド国王より～{key}{end}",
-  "en": "{clr}{v1} read the sign.{key}{nl}{clr}DANGER! Man-eating monster sighted!{nl}A reward to whoever defeats it.{nl}~By order of the King of Siland~{key}{end}"
+  "en": "{clr}{v1} read the sign.{key}{nl}{clr}DANGER! Man-eating monster sighted!{nl}A reward to whoever defeats it.{nl}~From the King of Siland~{key}{end}"
  },
  {
   "id": "5077",

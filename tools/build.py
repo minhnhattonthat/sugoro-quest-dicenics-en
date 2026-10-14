@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path[:0] = [str(ROOT / "tools"), str(ROOT / ".claude/skills/translate-retro-game/scripts")]
 from tbl import Table  # noqa: E402
 import font  # noqa: E402
+import gfxtext  # noqa: E402
 import labels  # noqa: E402
 import names  # noqa: E402
 import text  # noqa: E402
@@ -103,6 +104,7 @@ def build(identity=False, marker_build=False, qa=None, out=None):
     place_groups(rom, groups, pick)
     names.pack(rom, names.load(), lambda e: EN.encode(e["en"]) if e["en"] else names.JP.encode(e["jp"]))
     labels.pack(rom)
+    gfxtext.pack(rom, ORIG.read_bytes())
     out.write_bytes(rom)
     return bytes(rom)
 

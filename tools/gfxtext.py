@@ -63,11 +63,54 @@ def put_tile4(data, idx, px, x0, y0):
     data[idx * 32:idx * 32 + 32] = t
 
 
+def tile2_px(data, t):
+    b = data[t * 16:t * 16 + 16]
+    return [[((b[2 * y] >> (7 - x)) & 1) | (((b[2 * y + 1] >> (7 - x)) & 1) << 1) for x in range(8)] for y in range(8)]
+
+
+def apply_rows2(data, screen):
+    """2bpp 8 px text rows (char-select bios): item = {"row", "half", "en"}; 8 tiles per half-row, condensed
+    font, colour = the colour the Japanese used there."""
+    import labels
+    from collections import Counter
+    for item in screen["items"]:
+        first = item["row"] * 16 + item["half"] * 8
+        old = Counter(v for t in range(first, first + 8) for r in tile2_px(data, t) for v in r if v)
+        colour = old.most_common(1)[0][0] if old else 1
+        text = item.get("en", "")
+        w = labels.text_width(text)
+        if w > 64:
+            raise ValueError(f"{text!r}: {w}px > 64px")
+        bits = labels.render(text) if text else bytes(64)
+        # labels.render centres; bios are left-aligned: shift left by the centring offset
+        shift = (64 - w) // 2 if text else 0
+        rows = []
+        for y in range(8):
+            v = 0
+            for t in range(8):
+                v = (v << 8) | bits[t * 8 + y]
+            rows.append((v << shift) & ((1 << 64) - 1))
+        for t in range(8):
+            tile = bytearray(16)
+            for y in range(8):
+                byte = (rows[y] >> (8 * (7 - t))) & 0xFF
+                if colour & 1:
+                    tile[2 * y] = byte
+                if colour & 2:
+                    tile[2 * y + 1] = byte
+            data[(first + t) * 16:(first + t) * 16 + 16] = tile
+
+
 def apply(rom_orig):
     """-> {block id: new decompressed bytes} for every block a spec item touches."""
     spec = json.loads(SPEC.read_text(encoding="utf-8"))
     out = {}
     for screen in spec["screens"]:
+        if screen.get("type") == "rows2":
+            bid = screen["block"]
+            out.setdefault(bid, bytearray(lz.decompress(rom_orig, int(bid, 16))[0]))
+            apply_rows2(out[bid], screen)
+            continue
         blocks = {int(k, 16): v for k, v in screen["blocks"].items()}
         for item in screen["items"]:
             if not item.get("en"):

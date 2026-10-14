@@ -2,13 +2,379 @@
  "screens": [
   {
    "name": "title menu (tilemap LZ 11F2A1, canvas VRAM tile 0x100)",
-   "blocks": {"100": "11D1C4", "140": "11D4F7", "180": "11D815", "1C0": "11DB85"},
+   "blocks": {
+    "100": "11D1C4",
+    "140": "11D4F7",
+    "180": "11D815",
+    "1C0": "11DB85"
+   },
    "items": [
-    {"jp": "ゲームをはじめる", "en": "Start Game", "tiles": [256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 360]},
-    {"jp": "コンティニュー", "en": "Continue", "tiles": [288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298]},
-    {"jp": "キャラクターのロード", "en": "Load Character", "tiles": [320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 361, 362, 363, 364]},
-    {"jp": "オプション", "en": "Options", "tiles": [352, 353, 354, 355, 356, 357, 358, 359]},
-    {"jp": "ハイスコアをみる", "en": "View High Scores", "tiles": [384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395]}
+    {
+     "jp": "ゲームをはじめる",
+     "en": "Start Game",
+     "tiles": [
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      360
+     ]
+    },
+    {
+     "jp": "コンティニュー",
+     "en": "Continue",
+     "tiles": [
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298
+     ]
+    },
+    {
+     "jp": "キャラクターのロード",
+     "en": "Load Character",
+     "tiles": [
+      320,
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      361,
+      362,
+      363,
+      364
+     ]
+    },
+    {
+     "jp": "オプション",
+     "en": "Options",
+     "tiles": [
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359
+     ]
+    },
+    {
+     "jp": "ハイスコアをみる",
+     "en": "View High Scores",
+     "tiles": [
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395
+     ]
+    }
+   ]
+  },
+  {
+   "name": "char-select bios 1177A3 (BG3 2bpp, 8x8 rows)",
+   "type": "rows2",
+   "block": "1177A3",
+   "items": [
+    {
+     "jp": "プリッツ",
+     "row": 0,
+     "half": 0,
+     "en": "Pritz"
+    },
+    {
+     "row": 0,
+     "half": 1,
+     "en": "You'll use me?"
+    },
+    {
+     "jp": "",
+     "row": 1,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 1,
+     "half": 1,
+     "en": "Heh, heh..."
+    },
+    {
+     "jp": "",
+     "row": 2,
+     "half": 0,
+     "en": "Split Persona"
+    },
+    {
+     "row": 2,
+     "half": 1,
+     "en": "Oh, it's nothing."
+    },
+    {
+     "jp": "",
+     "row": 3,
+     "half": 0,
+     "en": "Gender: ???"
+    },
+    {
+     "row": 3,
+     "half": 1,
+     "en": "Do as you like."
+    },
+    {
+     "jp": "タンギー",
+     "row": 4,
+     "half": 0,
+     "en": "Tanguy"
+    },
+    {
+     "row": 4,
+     "half": 1,
+     "en": "I'm strong, see!"
+    },
+    {
+     "jp": "",
+     "row": 5,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 5,
+     "half": 1,
+     "en": "Pick me and you"
+    },
+    {
+     "jp": "",
+     "row": 6,
+     "half": 0,
+     "en": "Dragon"
+    },
+    {
+     "row": 6,
+     "half": 1,
+     "en": "can't lose!"
+    },
+    {
+     "jp": "",
+     "row": 7,
+     "half": 0,
+     "en": "Male (Child)"
+    },
+    {
+     "row": 7,
+     "half": 1,
+     "en": "Honest, honest."
+    },
+    {
+     "jp": "ウルリク",
+     "row": 8,
+     "half": 0,
+     "en": "Ulrik"
+    },
+    {
+     "row": 8,
+     "half": 1,
+     "en": "So, you'd use me?"
+    },
+    {
+     "jp": "",
+     "row": 9,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 9,
+     "half": 1,
+     "en": "Hmm, hmm. You've"
+    },
+    {
+     "jp": "",
+     "row": 10,
+     "half": 0,
+     "en": "Channeler"
+    },
+    {
+     "row": 10,
+     "half": 1,
+     "en": "a good eye, dear."
+    },
+    {
+     "jp": "",
+     "row": 11,
+     "half": 0,
+     "en": "Female"
+    },
+    {
+     "row": 11,
+     "half": 1,
+     "en": "Ho ho ho."
+    },
+    {
+     "jp": "シンシア",
+     "row": 12,
+     "half": 0,
+     "en": "Cynthia"
+    },
+    {
+     "row": 12,
+     "half": 1,
+     "en": "I'm terribly"
+    },
+    {
+     "jp": "",
+     "row": 13,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 13,
+     "half": 1,
+     "en": "unlucky, I fear."
+    },
+    {
+     "jp": "",
+     "row": 14,
+     "half": 0,
+     "en": "Jinx"
+    },
+    {
+     "row": 14,
+     "half": 1,
+     "en": "But if you'll use"
+    },
+    {
+     "jp": "",
+     "row": 15,
+     "half": 0,
+     "en": "Female"
+    },
+    {
+     "row": 15,
+     "half": 1,
+     "en": "me, I'd be glad."
+    }
+   ]
+  },
+  {
+   "name": "char-select bios 118017 (BG3 2bpp, 8x8 rows)",
+   "type": "rows2",
+   "block": "118017",
+   "items": [
+    {
+     "jp": "デヒテル",
+     "row": 0,
+     "half": 0,
+     "en": "Dechtel"
+    },
+    {
+     "row": 0,
+     "half": 1,
+     "en": "I'm the strongest"
+    },
+    {
+     "jp": "",
+     "row": 1,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 1,
+     "half": 1,
+     "en": "of all! But magic"
+    },
+    {
+     "jp": "",
+     "row": 2,
+     "half": 0,
+     "en": "Vampire"
+    },
+    {
+     "row": 2,
+     "half": 1,
+     "en": "isn't my thing."
+    },
+    {
+     "jp": "",
+     "row": 3,
+     "half": 0,
+     "en": "Male"
+    },
+    {
+     "row": 3,
+     "half": 1,
+     "en": "Eh, I'll manage."
+    },
+    {
+     "jp": "ディアナ",
+     "row": 4,
+     "half": 0,
+     "en": "Diana"
+    },
+    {
+     "row": 4,
+     "half": 1,
+     "en": "My luck is good,"
+    },
+    {
+     "jp": "",
+     "row": 5,
+     "half": 0,
+     "en": ""
+    },
+    {
+     "row": 5,
+     "half": 1,
+     "en": "but I can't fight."
+    },
+    {
+     "jp": "",
+     "row": 6,
+     "half": 0,
+     "en": "Spirit of Luck"
+    },
+    {
+     "row": 6,
+     "half": 1,
+     "en": "If you pick me,"
+    },
+    {
+     "jp": "",
+     "row": 7,
+     "half": 0,
+     "en": "Female"
+    },
+    {
+     "row": 7,
+     "half": 1,
+     "en": "please run away!"
+    }
    ]
   }
  ]

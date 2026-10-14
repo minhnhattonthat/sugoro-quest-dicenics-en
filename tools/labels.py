@@ -40,7 +40,7 @@ def text_width(text):
     for ch in text:
         rows = GLYPHS[ch]
         cols = [x for x in range(3) if any(r[x] == "#" for r in rows)]
-        w += (cols[-1] + 1 if cols else 2) + 1
+        w += (cols[-1] + 1 if cols else 1) + 1   # space = 2 px advance
     return max(w - 1, 0)
 
 
@@ -54,7 +54,7 @@ def render(text):
     for ch in text:
         rows = GLYPHS[ch]
         cols = [c for c in range(3) if any(r[c] == "#" for r in rows)]
-        gw = cols[-1] + 1 if cols else 2
+        gw = cols[-1] + 1 if cols else 1
         for y, r in enumerate(rows):
             for c in range(gw):
                 if r[c] == "#":
@@ -65,6 +65,14 @@ def render(text):
         for y in range(8):
             out[t * 8 + y] = sum(0x80 >> c for c in range(8) if px[y][t * 8 + c])
     return bytes(out)
+
+
+def pack(rom):
+    """Redraw every translated label in place (script/labels.json)."""
+    import json
+    for e in json.loads((ROOT / "script/labels.json").read_text(encoding="utf-8")):
+        if e["en"]:
+            rom[BASE + 64 * e["idx"]:BASE + 64 * e["idx"] + 64] = render(e["en"])
 
 
 def sheet(rom, first, count, zoom=3):

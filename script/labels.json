@@ -8,595 +8,595 @@
  {
   "idx": 1,
   "jp": "とうもろこし",
-  "en": "",
+  "en": "Corn",
   "name": "N04_92D0"
  },
  {
   "idx": 2,
   "jp": "まほうをとなえる",
-  "en": "",
+  "en": "Cast Magic",
   "name": ""
  },
  {
   "idx": 3,
   "jp": "どうぐをつかう",
-  "en": "",
+  "en": "Use Item",
   "name": ""
  },
  {
   "idx": 4,
   "jp": "とくしゅのうりょく",
-  "en": "",
+  "en": "Special Ability",
   "name": ""
  },
  {
   "idx": 5,
   "jp": "チーズ",
-  "en": "",
+  "en": "Cheese",
   "name": "N04_92CC"
  },
  {
   "idx": 6,
   "jp": "じゅくすい",
-  "en": "",
+  "en": "Deep Sleep",
   "name": "N04_9614"
  },
  {
   "idx": 7,
   "jp": "かみん",
-  "en": "",
+  "en": "Nap",
   "name": "N04_961A"
  },
  {
   "idx": 8,
   "jp": "こうげき",
-  "en": "",
+  "en": "Attack",
   "name": ""
  },
  {
   "idx": 9,
   "jp": "ぼうぎょ",
-  "en": "",
+  "en": "Guard",
   "name": ""
  },
  {
   "idx": 10,
   "jp": "じんかくチェンジ",
-  "en": "",
+  "en": "Persona Change",
   "name": "N04_962C"
  },
  {
   "idx": 11,
   "jp": "みえないかべ",
-  "en": "",
+  "en": "Invisible Wall",
   "name": "N04_9636"
  },
  {
   "idx": 12,
   "jp": "きまぐれ",
-  "en": "",
+  "en": "Whim",
   "name": "N04_963D"
  },
  {
   "idx": 13,
   "jp": "てくせ",
-  "en": "",
+  "en": "Sticky Fingers",
   "name": "N04_9642"
  },
  {
   "idx": 14,
   "jp": "ぶっとびフラッシュ",
-  "en": "",
+  "en": "Blast-Off Flash",
   "name": "N04_9646"
  },
  {
   "idx": 15,
   "jp": "プチブレス",
-  "en": "",
+  "en": "Petit Breath",
   "name": "N04_9652"
  },
  {
   "idx": 16,
   "jp": "ヒール",
-  "en": "",
+  "en": "Heal",
   "name": "N04_943C"
  },
  {
   "idx": 17,
   "jp": "ハイヒール",
-  "en": "",
+  "en": "High Heal",
   "name": "N04_9441"
  },
  {
   "idx": 18,
   "jp": "ハイパーヒール",
-  "en": "",
+  "en": "Hyper Heal",
   "name": "N04_9448"
  },
  {
   "idx": 19,
   "jp": "チェンジヒール",
-  "en": "",
+  "en": "Change Heal",
   "name": "N04_945C"
  },
  {
   "idx": 20,
   "jp": "ダイスコール",
-  "en": "",
+  "en": "Dice Call",
   "name": "N04_9466"
  },
  {
   "idx": 21,
   "jp": "アンチダイスコール",
-  "en": "",
+  "en": "Anti-Dice Call",
   "name": "N04_959A"
  },
  {
   "idx": 22,
   "jp": "ダイスグロウ",
-  "en": "",
+  "en": "Dice Grow",
   "name": "N04_95D3"
  },
  {
   "idx": 23,
   "jp": "ダイスドレイン",
-  "en": "",
+  "en": "Dice Drain",
   "name": "N04_95DB"
  },
  {
   "idx": 24,
   "jp": "ファイアーボール",
-  "en": "",
+  "en": "Fireball",
   "name": "N04_94FD"
  },
  {
   "idx": 25,
   "jp": "ファイアーステップ",
-  "en": "",
+  "en": "Fire Step",
   "name": "N04_948A"
  },
  {
   "idx": 26,
   "jp": "サンダーボルト",
-  "en": "",
+  "en": "Thunderbolt",
   "name": "N04_9507"
  },
  {
   "idx": 27,
   "jp": "ギーガーブラッド",
-  "en": "",
+  "en": "Giger Blood",
   "name": "N04_952E"
  },
  {
   "idx": 28,
   "jp": "インビジブル",
-  "en": "",
+  "en": "Invisible",
   "name": "N04_954C"
  },
  {
   "idx": 29,
   "jp": "カウンターバリア",
-  "en": "",
+  "en": "Counter Barrier",
   "name": "N04_9555"
  },
  {
   "idx": 30,
   "jp": "クエストオフ",
-  "en": "",
+  "en": "Abandon Quest",
   "name": ""
  },
  {
   "idx": 31,
   "jp": "エスケイプ",
-  "en": "",
+  "en": "Escape",
   "name": ""
  },
  {
   "idx": 32,
   "jp": "アミュレット１",
-  "en": "",
+  "en": "Amulet 1",
   "name": "N04_9313"
  },
  {
   "idx": 33,
   "jp": "アミュレット２",
-  "en": "",
+  "en": "Amulet 2",
   "name": "N04_931D"
  },
  {
   "idx": 34,
   "jp": "アミュレット３",
-  "en": "",
+  "en": "Amulet 3",
   "name": "N04_9327"
  },
  {
   "idx": 35,
   "jp": "アミュレット４",
-  "en": "",
+  "en": "Amulet 4",
   "name": "N04_9331"
  },
  {
   "idx": 36,
   "jp": "アミュレット５",
-  "en": "",
+  "en": "Amulet 5",
   "name": "N04_933B"
  },
  {
   "idx": 37,
   "jp": "アミュレット６",
-  "en": "",
+  "en": "Amulet 6",
   "name": "N04_9345"
  },
  {
   "idx": 38,
   "jp": "やくそう",
-  "en": "",
+  "en": "Medicinal Herb",
   "name": "N04_92C7"
  },
  {
   "idx": 39,
   "jp": "いしころ",
-  "en": "",
+  "en": "Pebble",
   "name": "N04_92E8"
  },
  {
   "idx": 40,
   "jp": "くろぱん",
-  "en": "",
+  "en": "Black Bread",
   "name": "N04_92D7"
  },
  {
   "idx": 41,
   "jp": "いかさまダイス",
-  "en": "",
+  "en": "Loaded Dice",
   "name": "N04_93AC"
  },
  {
   "idx": 42,
   "jp": "ほのおのホルン",
-  "en": "",
+  "en": "Flame Horn",
   "name": "N04_92F3"
  },
  {
   "idx": 43,
   "jp": "ようかいのホルン",
-  "en": "",
+  "en": "Corrosion Horn",
   "name": "N04_9308"
  },
  {
   "idx": 44,
   "jp": "らいめいのホルン",
-  "en": "",
+  "en": "Thunder Horn",
   "name": "N04_92FD"
  },
  {
   "idx": 45,
   "jp": "マジックドリンク",
-  "en": "",
+  "en": "Magic Drink",
   "name": "N04_92DD"
  },
  {
   "idx": 46,
   "jp": "しゅりけん",
-  "en": "",
+  "en": "Shuriken",
   "name": "N04_92ED"
  },
  {
   "idx": 47,
   "jp": "アミュレットダブル１",
-  "en": "",
+  "en": "Double Amulet 1",
   "name": "N04_934F"
  },
  {
   "idx": 48,
   "jp": "トラクターヒール",
-  "en": "",
+  "en": "Tractor Heal",
   "name": "N04_9451"
  },
  {
   "idx": 49,
   "jp": "ダイスリトライ",
-  "en": "",
+  "en": "Dice Retry",
   "name": "N04_946E"
  },
  {
   "idx": 50,
   "jp": "ダイスダブル",
-  "en": "",
+  "en": "Dice Double",
   "name": "N04_9478"
  },
  {
   "idx": 51,
   "jp": "ダイストリプル",
-  "en": "",
+  "en": "Dice Triple",
   "name": "N04_9480"
  },
  {
   "idx": 52,
   "jp": "サンダーステップ",
-  "en": "",
+  "en": "Thunder Step",
   "name": "N04_9494"
  },
  {
   "idx": 53,
   "jp": "アシッドステップ",
-  "en": "",
+  "en": "Acid Step",
   "name": "N04_949E"
  },
  {
   "idx": 54,
   "jp": "ブラッドステップ",
-  "en": "",
+  "en": "Blood Step",
   "name": "N04_94A7"
  },
  {
   "idx": 55,
   "jp": "シーフステップ",
-  "en": "",
+  "en": "Thief Step",
   "name": "N04_94B1"
  },
  {
   "idx": 56,
   "jp": "ダイスコールファイアー",
-  "en": "",
+  "en": "Dice Call Fire",
   "name": "N04_94B9"
  },
  {
   "idx": 57,
   "jp": "ダイスコールサンダー",
-  "en": "",
+  "en": "Dice Call Thunder",
   "name": "N04_94C6"
  },
  {
   "idx": 58,
   "jp": "ダイスコールアシッド",
-  "en": "",
+  "en": "Dice Call Acid",
   "name": "N04_94D3"
  },
  {
   "idx": 59,
   "jp": "チェンジロケーション",
-  "en": "",
+  "en": "Change Location",
   "name": "N04_94DF"
  },
  {
   "idx": 60,
   "jp": "スカイウォーク",
-  "en": "",
+  "en": "Sky Walk",
   "name": "N04_94EE"
  },
  {
   "idx": 61,
   "jp": "リターン",
-  "en": "",
+  "en": "Return",
   "name": "N04_94F6"
  },
  {
   "idx": 62,
   "jp": "アシッドレイン",
-  "en": "",
+  "en": "Acid Rain",
   "name": "N04_9511"
  },
  {
   "idx": 63,
   "jp": "パラライズ",
-  "en": "",
+  "en": "Paralyze",
   "name": "N04_9538"
  },
  {
   "idx": 64,
   "jp": "ファイアーボール",
-  "en": "",
+  "en": "Fireball",
   "name": "N04_94FD"
  },
  {
   "idx": 65,
   "jp": "プロミネンス",
-  "en": "",
+  "en": "Prominence",
   "name": "N04_951B"
  },
  {
   "idx": 66,
   "jp": "エナジーミサイル",
-  "en": "",
+  "en": "Energy Missile",
   "name": ""
  },
  {
   "idx": 67,
   "jp": "アトミックボルト",
-  "en": "",
+  "en": "Atomic Bolt",
   "name": "N04_9524"
  },
  {
   "idx": 68,
   "jp": "アシッド",
-  "en": "",
+  "en": "Acid",
   "name": ""
  },
  {
   "idx": 69,
   "jp": "ギーガーブラッド",
-  "en": "",
+  "en": "Giger Blood",
   "name": "N04_952E"
  },
  {
   "idx": 70,
   "jp": "バーサーカー",
-  "en": "",
+  "en": "Berserker",
   "name": "N04_9579"
  },
  {
   "idx": 71,
   "jp": "エスケイプ",
-  "en": "",
+  "en": "Escape",
   "name": ""
  },
  {
   "idx": 72,
   "jp": "シャッフル",
-  "en": "",
+  "en": "Shuffle",
   "name": "N04_9580"
  },
  {
   "idx": 73,
   "jp": "スキップ",
-  "en": "",
+  "en": "Skip",
   "name": "N04_9588"
  },
  {
   "idx": 74,
   "jp": "リバース",
-  "en": "",
+  "en": "Reverse",
   "name": "N04_9594"
  },
  {
   "idx": 75,
   "jp": "セットＨＰブラスター",
-  "en": "",
+  "en": "Set HP Blaster",
   "name": "N04_95B2"
  },
  {
   "idx": 76,
   "jp": "セットＭＰブラスター",
-  "en": "",
+  "en": "Set MP Blaster",
   "name": "N04_95A6"
  },
  {
   "idx": 77,
   "jp": "セットオイル",
-  "en": "",
+  "en": "Set Oil",
   "name": "N04_95BE"
  },
  {
   "idx": 78,
   "jp": "セットムーンウォーク",
-  "en": "",
+  "en": "Set Moonwalk",
   "name": "N04_95C6"
  },
  {
   "idx": 79,
   "jp": "はばたき",
-  "en": "",
+  "en": "Wing Flap",
   "name": "N04_9659"
  },
  {
   "idx": 80,
   "jp": "とうせき",
-  "en": "",
+  "en": "Stone Throw",
   "name": "N04_965E"
  },
  {
   "idx": 81,
   "jp": "ふこうフラッシュ",
-  "en": "",
+  "en": "Misfortune Flash",
   "name": "N04_967D"
  },
  {
   "idx": 82,
   "jp": "さんせいう",
-  "en": "",
+  "en": "Acid Shower",
   "name": "N04_9688"
  },
  {
   "idx": 83,
   "jp": "ぬかるみ",
-  "en": "",
+  "en": "Mud Pit",
   "name": "N04_968E"
  },
  {
   "idx": 84,
   "jp": "ふこうのあらし",
-  "en": "",
+  "en": "Misfortune Storm",
   "name": "N04_9693"
  },
  {
   "idx": 85,
   "jp": "コウモリ",
-  "en": "",
+  "en": "Bats",
   "name": "N04_969B"
  },
  {
   "idx": 86,
   "jp": "きゅうけつ",
-  "en": "",
+  "en": "Bloodsucking",
   "name": "N04_96A2"
  },
  {
   "idx": 87,
   "jp": "マントガード",
-  "en": "",
+  "en": "Cape Guard",
   "name": "N04_96AD"
  },
  {
   "idx": 88,
   "jp": "かみのゆびさき",
-  "en": "",
+  "en": "Finger of God",
   "name": "N04_9663"
  },
  {
   "idx": 89,
   "jp": "ふういん",
-  "en": "",
+  "en": "Seal",
   "name": "N04_966B"
  },
  {
   "idx": 90,
   "jp": "かいふくまほう",
-  "en": "",
+  "en": "Healing Magic",
   "name": ""
  },
  {
   "idx": 91,
   "jp": "いどうまほう",
-  "en": "",
+  "en": "Movement Magic",
   "name": ""
  },
  {
   "idx": 92,
   "jp": "こうげきまほう",
-  "en": "",
+  "en": "Attack Magic",
   "name": ""
  },
  {
   "idx": 93,
   "jp": "とくしゅまほう",
-  "en": "",
+  "en": "Special Magic",
   "name": ""
  },
  {
   "idx": 94,
   "jp": "ドラゴンをよぶ",
-  "en": "",
+  "en": "Call Dragon",
   "name": ""
  },
  {
   "idx": 95,
   "jp": "マップをみわたす",
-  "en": "",
+  "en": "View Map",
   "name": ""
  },
  {
   "idx": 96,
   "jp": "ひだりパーティー",
-  "en": "",
+  "en": "Left Party",
   "name": ""
  },
  {
   "idx": 97,
   "jp": "みぎパーティー",
-  "en": "",
+  "en": "Right Party",
   "name": ""
  },
  {
   "idx": 98,
   "jp": "アミュレットダブル２",
-  "en": "",
+  "en": "Double Amulet 2",
   "name": "N04_935D"
  },
  {
   "idx": 99,
   "jp": "アミュレットダブル３",
-  "en": "",
+  "en": "Double Amulet 3",
   "name": "N04_936B"
  },
  {
@@ -614,55 +614,55 @@
  {
   "idx": 102,
   "jp": "かみのさばき",
-  "en": "",
+  "en": "Judgment of God",
   "name": "N04_9670"
  },
  {
   "idx": 103,
   "jp": "じらいげん",
-  "en": "",
+  "en": "Minefield",
   "name": "N04_9677"
  },
  {
   "idx": 104,
   "jp": "ダイスマンのたましい",
-  "en": "",
+  "en": "Diceman's Soul",
   "name": "N04_93F1"
  },
  {
   "idx": 105,
   "jp": "ほじょまほう",
-  "en": "",
+  "en": "Support Magic",
   "name": ""
  },
  {
   "idx": 106,
   "jp": "きぼうのダイス",
-  "en": "",
+  "en": "Hope Dice",
   "name": "N04_93FD"
  },
  {
   "idx": 107,
   "jp": "ダイスまほう",
-  "en": "",
+  "en": "Dice Magic",
   "name": ""
  },
  {
   "idx": 108,
   "jp": "いましめのダイス",
-  "en": "",
+  "en": "Binding Dice",
   "name": "N04_9405"
  },
  {
   "idx": 109,
   "jp": "サブがめん",
-  "en": "",
+  "en": "Sub-Screen",
   "name": ""
  },
  {
   "idx": 110,
   "jp": "ぼうそうのダイス",
-  "en": "",
+  "en": "Runaway Dice",
   "name": "N04_940E"
  },
  {
@@ -674,7 +674,7 @@
  {
   "idx": 112,
   "jp": "ていめいのダイス",
-  "en": "",
+  "en": "Slump Dice",
   "name": "N04_9417"
  },
  {
@@ -686,7 +686,7 @@
  {
   "idx": 114,
   "jp": "プロテクション",
-  "en": "",
+  "en": "Protection",
   "name": "N04_9561"
  },
  {
@@ -698,7 +698,7 @@
  {
   "idx": 116,
   "jp": "キャンセルアーム",
-  "en": "",
+  "en": "Cancel Arm",
   "name": "N04_956C"
  },
  {
@@ -710,7 +710,7 @@
  {
   "idx": 118,
   "jp": "ダイスマンブレイク",
-  "en": "",
+  "en": "Diceman Break",
   "name": "N04_9540"
  },
  {
@@ -722,283 +722,283 @@
  {
   "idx": 120,
   "jp": "ハッピーフラッシュ",
-  "en": "",
+  "en": "Happy Flash",
   "name": "N04_96B5"
  },
  {
   "idx": 121,
   "jp": "こううんのいやし",
-  "en": "",
+  "en": "Lucky Healing",
   "name": "N04_96C6"
  },
  {
   "idx": 122,
   "jp": "こううんのまもり",
-  "en": "",
+  "en": "Lucky Protection",
   "name": "N04_96CF"
  },
  {
   "idx": 123,
   "jp": "アミュレットダブル６",
-  "en": "",
+  "en": "Double Amulet 6",
   "name": "N04_9395"
  },
  {
   "idx": 124,
   "jp": "アミュレットダブル４",
-  "en": "",
+  "en": "Double Amulet 4",
   "name": "N04_9379"
  },
  {
   "idx": 125,
   "jp": "しっぱいのダイス",
-  "en": "",
+  "en": "Failure Dice",
   "name": "N04_93A3"
  },
  {
   "idx": 126,
   "jp": "アミュレットダブル５",
-  "en": "",
+  "en": "Double Amulet 5",
   "name": "N04_9387"
  },
  {
   "idx": 127,
   "jp": "マジックマイン",
-  "en": "",
+  "en": "Magic Mine",
   "name": "N04_93B4"
  },
  {
   "idx": 128,
   "jp": "とらばさみ",
-  "en": "",
+  "en": "Bear Trap",
   "name": "N04_93BD"
  },
  {
   "idx": 129,
   "jp": "プリッツ",
-  "en": "",
+  "en": "Pritz",
   "name": "N04_92A3"
  },
  {
   "idx": 130,
   "jp": "まきびし",
-  "en": "",
+  "en": "Caltrops",
   "name": "N04_93C3"
  },
  {
   "idx": 131,
   "jp": "タンギー",
-  "en": "",
+  "en": "Tanguy",
   "name": "N04_92A9"
  },
  {
   "idx": 132,
   "jp": "マジックオイル",
-  "en": "",
+  "en": "Magic Oil",
   "name": "N04_93C8"
  },
  {
   "idx": 133,
   "jp": "ウルリク",
-  "en": "",
+  "en": "Ulrik",
   "name": "N04_92AF"
  },
  {
   "idx": 134,
   "jp": "クラインのさいふ",
-  "en": "",
+  "en": "Klein's Wallet",
   "name": "N04_93D1"
  },
  {
   "idx": 135,
   "jp": "シンシア",
-  "en": "",
+  "en": "Cynthia",
   "name": "N04_92B6"
  },
  {
   "idx": 136,
   "jp": "クラインのダイス",
-  "en": "",
+  "en": "Klein's Dice",
   "name": "N04_93DC"
  },
  {
   "idx": 137,
   "jp": "デヒテル",
-  "en": "",
+  "en": "Dechtel",
   "name": "N04_92BC"
  },
  {
   "idx": 138,
   "jp": "クラインのはこ",
-  "en": "",
+  "en": "Klein's Box",
   "name": "N04_93E7"
  },
  {
   "idx": 139,
   "jp": "ディアナ",
-  "en": "",
+  "en": "Diana",
   "name": "N04_92C2"
  },
  {
   "idx": 140,
   "jp": "ゴブリンキング",
-  "en": "",
+  "en": "Goblin King",
   "name": "N08_8B97"
  },
  {
   "idx": 141,
   "jp": "プチゴブリン",
-  "en": "",
+  "en": "Petit Goblin",
   "name": "N08_8BA2"
  },
  {
   "idx": 142,
   "jp": "オーク",
-  "en": "",
+  "en": "Orc",
   "name": "N08_8BAB"
  },
  {
   "idx": 143,
   "jp": "ウェアベア",
-  "en": "",
+  "en": "Werebear",
   "name": "N08_8BAF"
  },
  {
   "idx": 144,
   "jp": "リッチ",
-  "en": "",
+  "en": "Lich",
   "name": "N08_8BB5"
  },
  {
   "idx": 145,
   "jp": "スプライト",
-  "en": "",
+  "en": "Sprite",
   "name": "N08_8BBA"
  },
  {
   "idx": 146,
   "jp": "バーバリアン",
-  "en": "",
+  "en": "Barbarian",
   "name": "N08_8BC1"
  },
  {
   "idx": 147,
   "jp": "バーミスラックス",
-  "en": "",
+  "en": "Vermithrax",
   "name": "N08_8BCA"
  },
  {
   "idx": 148,
   "jp": "ナース",
-  "en": "",
+  "en": "Nurse",
   "name": "N08_8BD4"
  },
  {
   "idx": 149,
   "jp": "マッドヒーラー",
-  "en": "",
+  "en": "Mad Healer",
   "name": "N08_8BD8"
  },
  {
   "idx": 150,
   "jp": "アーミテイジ",
-  "en": "",
+  "en": "Armitage",
   "name": "N08_8BE1"
  },
  {
   "idx": 151,
   "jp": "ポンキャット",
-  "en": "",
+  "en": "Pon Cat",
   "name": "N08_8BE8"
  },
  {
   "idx": 152,
   "jp": "メデューサ",
-  "en": "",
+  "en": "Medusa",
   "name": "N08_8BF1"
  },
  {
   "idx": 153,
   "jp": "ドリアード",
-  "en": "",
+  "en": "Dryad",
   "name": "N08_8BF9"
  },
  {
   "idx": 154,
   "jp": "ソードマン",
-  "en": "",
+  "en": "Swordsman",
   "name": "N08_8C00"
  },
  {
   "idx": 155,
   "jp": "ケチャスネーク",
-  "en": "",
+  "en": "Kecha Snake",
   "name": "N08_8C07"
  },
  {
   "idx": 156,
   "jp": "ダー",
-  "en": "",
+  "en": "Daa",
   "name": "N08_8C10"
  },
  {
   "idx": 157,
   "jp": "ごくらくちょう",
-  "en": "",
+  "en": "Bird of Paradise",
   "name": "N08_8C13"
  },
  {
   "idx": 158,
   "jp": "サッカバス",
-  "en": "",
+  "en": "Succubus",
   "name": "N08_8C1B"
  },
  {
   "idx": 159,
   "jp": "ランスナイト",
-  "en": "",
+  "en": "Lance Knight",
   "name": "N08_8C21"
  },
  {
   "idx": 160,
   "jp": "ヴァルチャー",
-  "en": "",
+  "en": "Vulture",
   "name": "N08_8C2A"
  },
  {
   "idx": 161,
   "jp": "ゴールドドラゴン",
-  "en": "",
+  "en": "Gold Dragon",
   "name": "N08_8C34"
  },
  {
   "idx": 162,
   "jp": "プロブレマティカ",
-  "en": "",
+  "en": "Problematica",
   "name": "N08_8C40"
  },
  {
   "idx": 163,
   "jp": "グリンゴ",
-  "en": "",
+  "en": "Gringo",
   "name": "N08_8C4B"
  },
  {
   "idx": 164,
   "jp": "アタックスネイル",
-  "en": "",
+  "en": "Attack Snail",
   "name": "N08_8C52"
  },
  {
   "idx": 165,
   "jp": "シオシオポット",
-  "en": "",
+  "en": "Shioshio Pot",
   "name": "N08_8C5C"
  },
  {
   "idx": 166,
   "jp": "パーチク",
-  "en": "",
+  "en": "Parchik",
   "name": "N08_8C64"
  },
  {
@@ -1010,163 +1010,163 @@
  {
   "idx": 168,
   "jp": "ダイスマン1ごう",
-  "en": "",
+  "en": "Diceman No. 1",
   "name": ""
  },
  {
   "idx": 169,
   "jp": "ダイスマン2ごう",
-  "en": "",
+  "en": "Diceman No. 2",
   "name": ""
  },
  {
   "idx": 170,
   "jp": "ダイスマン3ごう",
-  "en": "",
+  "en": "Diceman No. 3",
   "name": ""
  },
  {
   "idx": 171,
   "jp": "ダイスマン4ごう",
-  "en": "",
+  "en": "Diceman No. 4",
   "name": ""
  },
  {
   "idx": 172,
   "jp": "ダイスマン5ごう",
-  "en": "",
+  "en": "Diceman No. 5",
   "name": ""
  },
  {
   "idx": 173,
   "jp": "ダイスマン6ごう",
-  "en": "",
+  "en": "Diceman No. 6",
   "name": ""
  },
  {
   "idx": 174,
   "jp": "ダイスマン7ごう",
-  "en": "",
+  "en": "Diceman No. 7",
   "name": ""
  },
  {
   "idx": 175,
   "jp": "ダイスマン8ごう",
-  "en": "",
+  "en": "Diceman No. 8",
   "name": ""
  },
  {
   "idx": 176,
   "jp": "ダイスマン9ごう",
-  "en": "",
+  "en": "Diceman No. 9",
   "name": ""
  },
  {
   "idx": 177,
   "jp": "ダイスマン10ごう",
-  "en": "",
+  "en": "Diceman No. 10",
   "name": ""
  },
  {
   "idx": 178,
   "jp": "ダイスマン11ごう",
-  "en": "",
+  "en": "Diceman No. 11",
   "name": ""
  },
  {
   "idx": 179,
   "jp": "ダイスマン12ごう",
-  "en": "",
+  "en": "Diceman No. 12",
   "name": ""
  },
  {
   "idx": 180,
   "jp": "ダイスマン13ごう",
-  "en": "",
+  "en": "Diceman No. 13",
   "name": ""
  },
  {
   "idx": 181,
   "jp": "ダイスマン14ごう",
-  "en": "",
+  "en": "Diceman No. 14",
   "name": ""
  },
  {
   "idx": 182,
   "jp": "ダイスマン15ごう",
-  "en": "",
+  "en": "Diceman No. 15",
   "name": ""
  },
  {
   "idx": 183,
   "jp": "ダイスマン16ごう",
-  "en": "",
+  "en": "Diceman No. 16",
   "name": ""
  },
  {
   "idx": 184,
   "jp": "ダイスマン17ごう",
-  "en": "",
+  "en": "Diceman No. 17",
   "name": ""
  },
  {
   "idx": 185,
   "jp": "ダイスマン18ごう",
-  "en": "",
+  "en": "Diceman No. 18",
   "name": ""
  },
  {
   "idx": 186,
   "jp": "ダイスマン19ごう",
-  "en": "",
+  "en": "Diceman No. 19",
   "name": ""
  },
  {
   "idx": 187,
   "jp": "ダイスマン20ごう",
-  "en": "",
+  "en": "Diceman No. 20",
   "name": ""
  },
  {
   "idx": 188,
   "jp": "エリクサー",
-  "en": "",
+  "en": "Elixir",
   "name": "N04_9420"
  },
  {
   "idx": 189,
   "jp": "５００ＴＫのカード",
-  "en": "",
+  "en": "500 TK Card",
   "name": "N04_9427"
  },
  {
   "idx": 190,
   "jp": "９９９９ＴＫのカード",
-  "en": "",
+  "en": "9999 TK Card",
   "name": "N04_9431"
  },
  {
   "idx": 191,
   "jp": "ダイスマイティー",
-  "en": "",
+  "en": "Dice Mighty",
   "name": "N04_95E5"
  },
  {
   "idx": 192,
   "jp": "ファイアーリカバー",
-  "en": "",
+  "en": "Fire Recover",
   "name": "N04_95EE"
  },
  {
   "idx": 193,
   "jp": "サンダーリカバー",
-  "en": "",
+  "en": "Thunder Recover",
   "name": "N04_95F9"
  },
  {
   "idx": 194,
   "jp": "アシッドリカバー",
-  "en": "",
+  "en": "Acid Recover",
   "name": "N04_9604"
  },
  {

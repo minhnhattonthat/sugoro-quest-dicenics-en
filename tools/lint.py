@@ -21,7 +21,8 @@ EN = Table.load(ROOT / "tbl/en.tbl")
 WID = font.widths()
 # px budget for run-time inserts: v9 = number, v1-v4/v7 = actor (character/monster) names, others = item/spell names
 VAR_PX = {9: 30, 1: 60, 2: 60, 3: 60, 4: 60, 7: 60}
-VAR_PX_ITEM = 90
+VAR_PX_ITEM = 100
+BATTLE_ACTOR_PX = 82  # group 1 (battle) messages: {v1}..{v7} may be a monster ("Bird of Paradise")
 LINE_PX, WIDE_PX = 216, 240
 TOKEN = re.compile(r"(\{[^}]*\})")
 JP_RE = re.compile(r"[぀-ヿ一-鿿＀-￯]")
@@ -33,7 +34,7 @@ def char_px(ch):
     return WID.get(code[0], 0) if len(code) == 1 else 0
 
 
-def line_px(line):
+def line_px(line, battle=False):
     px = 0
     for part in TOKEN.split(line):
         if not part:
@@ -43,7 +44,9 @@ def line_px(line):
             if m:
                 px = max(px, int(m[1]) * 12)
             elif re.fullmatch(r"\{v\d+\}", part):
-                px += VAR_PX.get(int(part[2:-1]), VAR_PX_ITEM)
+                n = int(part[2:-1])
+                w = VAR_PX.get(n, VAR_PX_ITEM)
+                px += BATTLE_ACTOR_PX if battle and n != 9 and w < VAR_PX_ITEM else w
             continue
         px += sum(char_px(c) for c in part)
     return px
@@ -89,7 +92,7 @@ def lint_entry(e):
         wide = any(jp_cells(x) > 18 for x in jl)
         lim = WIDE_PX if wide else LINE_PX
         for li, line in enumerate(el):
-            px = line_px(line)
+            px = line_px(line, battle=e["id"].startswith("1"))
             if px > lim:
                 errs.append(f"page {pi + 1} line {li + 1}: {px}px > {lim}px: {TOKEN.sub('', line)[:40]!r}")
     return errs

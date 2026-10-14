@@ -376,6 +376,20 @@
      "en": "please run away!"
     }
    ]
+  },
+  {
+   "name": "rule setup windows (sprites; tools/rulewin.py)",
+   "type": "rulewin",
+   "windows": [
+    {"k": 0, "pitch": 9, "jp": ["クエストを６回する", "クエストを１２回する", "２時間あそぶ", "４時間あそぶ", "１０回死ぬまで", "２００００ＴＫあつめる", "なし"],
+     "lines": ["Clear 6 quests", "Clear 12 quests", "Play 2 hours", "Play 4 hours", "Until 10 deaths", "Collect 20000 TK", "None"]},
+    {"k": 1, "pitch": 9, "jp": ["３０分あそぶ", "２時間あそぶ", "４時間あそぶ", "２回死ぬまで", "１０回死ぬまで", "４０００ＴＫあつめる", "なし"],
+     "lines": ["Play 30 minutes", "Play 2 hours", "Play 4 hours", "Until 2 deaths", "Until 10 deaths", "Collect 4000 TK", "None"]},
+    {"k": 2, "pitch": 9, "jp": ["なし", "なし", "なし", "なし", "なし", "なし", "なし"],
+     "lines": ["None", "None", "None", "None", "None", "None", "None"]},
+    {"k": 3, "pitch": 10, "y0": 3, "jp": ["ダイスマンブレイク", "ありがたやウルリクさま", "ぬかるみのシンシア", "だってダーなんだもん", "いつもハッピーですわ♡", "サイランドバケーション"],
+     "lines": ["Diceman Break", "Hail Ulrik-sama", "Muddy Cynthia", "'Cause It's Daa!", "Always Happy!", "Siland Vacation"]}
+   ]
   }
  ]
 }

@@ -106,6 +106,10 @@ def apply(rom_orig):
     spec = json.loads(SPEC.read_text(encoding="utf-8"))
     out = {}
     for screen in spec["screens"]:
+        if screen.get("type") == "rulewin":
+            import rulewin
+            out.update(rulewin.apply(rom_orig, screen))
+            continue
         if screen.get("type") == "rows2":
             bid = screen["block"]
             out.setdefault(bid, bytearray(lz.decompress(rom_orig, int(bid, 16))[0]))

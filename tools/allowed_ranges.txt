@@ -57,4 +57,39 @@
 085E9A-085E9C  # loader -> 11E79E
 086060-086062  # loader -> 11E79E
 06B000-06BEFF  # status plates
+027773-027872  # 8x8 panel font: a-z, apostrophe
+06A1C0-06A1DF  # panel art: Diceman lines
+06A1E0-06A1FF  # panel art: Diceman lines
+06A580-06A59F  # panel art: Diceman lines
+06A5A0-06A5BF  # panel art: Diceman lines
+06A5C0-06A5DF  # panel art: Diceman lines
+06A5E0-06A5FF  # panel art: Diceman lines
+06A980-06A99F  # panel art: Diceman lines
+06A9C0-06A9DF  # panel art: Diceman lines
+06A9E0-06A9FF  # panel art: Diceman lines
+06A3C0-06A3DF  # panel art: Diceman lines
+06A3E0-06A3FF  # panel art: Diceman lines
+06A780-06A79F  # panel art: Diceman lines
+06A7A0-06A7BF  # panel art: Diceman lines
+06A7C0-06A7DF  # panel art: Diceman lines
+06A7E0-06A7FF  # panel art: Diceman lines
+06AB80-06AB9F  # panel art: Diceman lines
+06ABC0-06ABDF  # panel art: Diceman lines
+06ABE0-06ABFF  # panel art: Diceman lines
+0AA000-0AA0BF  # rank screen names
+0AA200-0AA2BF  # rank screen names
+0AA0C0-0AA17F  # rank screen names
+0AA2C0-0AA37F  # rank screen names
+0AA400-0AA4BF  # rank screen names
+0AA600-0AA6BF  # rank screen names
+0AA4C0-0AA57F  # rank screen names
+0AA6C0-0AA77F  # rank screen names
+0AA800-0AA8BF  # rank screen names
+0AAA00-0AAABF  # rank screen names
+0AA8C0-0AA97F  # rank screen names
+0AAAC0-0AAB7F  # rank screen names
+0A9D80-0A9DFF  # rank screen names
+0A9F80-0A9FFF  # rank screen names
+03AF80-03AF84  # panel string rowstart hook
+03AFCF-03AFDD  # panel string draw hook
 039D7A-039DA1  # default ranking names

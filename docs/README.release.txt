@@ -17,7 +17,8 @@ What is translated
 - All dialogue, events, battle and board messages, the King, the ending and the staff credits (romanized).
 - Item, spell, weapon, armor, key item and monster names; the menu/command labels.
 - Graphics text: title menu, sub-screen menu, options, character-select bios, rule and map selection windows,
-  status panel plates, load/save panels, ranking screen.
+  status panel plates and equipment page (condensed font), load/save panels, ranking screen
+  (including the character names).
 - A new proportional (variable-width) font for all dialogue.
 
 Notes

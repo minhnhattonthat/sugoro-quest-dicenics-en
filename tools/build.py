@@ -16,7 +16,10 @@ sys.path[:0] = [str(ROOT / "tools"), str(ROOT / ".claude/skills/translate-retro-
 from tbl import Table  # noqa: E402
 import font  # noqa: E402
 import gfxtext  # noqa: E402
+import font8  # noqa: E402
 import labels  # noqa: E402
+import panelart  # noqa: E402
+import rankart  # noqa: E402
 import names  # noqa: E402
 import plates  # noqa: E402
 import text  # noqa: E402
@@ -88,6 +91,7 @@ def asar(rom_path):
     (ROOT / "build").mkdir(exist_ok=True)
     (ROOT / "build/en_font.bin").write_bytes(font_bin)
     (ROOT / "build/en_widths.bin").write_bytes(wid)
+    (ROOT / "build/cond8_font.bin").write_bytes(font8.cond_table())
     r = subprocess.run([str(ASAR), "--fix-checksum=off", str(ROOT / "asm/main.asm"), str(rom_path)],
                        capture_output=True, text=True)
     if r.returncode:
@@ -121,6 +125,9 @@ def build(identity=False, marker_build=False, qa=None, out=None):
     labels.pack(rom)
     gfxtext.pack(rom, ORIG.read_bytes())
     plates.pack(rom)
+    font8.pack(rom)
+    panelart.pack(rom)
+    rankart.pack(rom)
     pack_ranking(rom)
     out.write_bytes(rom)
     return bytes(rom)

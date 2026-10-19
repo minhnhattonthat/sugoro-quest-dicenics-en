@@ -315,4 +315,80 @@ dma_tile:
     BCS .bottom
     RTS
 
-warnpc $3AFFFF
+; ---------------------------------------------------------------------------------------------------------------
+; Status-panel strings ($07:AF68 loop: 8 px cell = one 2bpp tile per char, row table at ($B1)). We draw two 3 px
+; condensed glyphs per tile (cond_font = 8 bytes per text code, ink at bits 7-5). $9D counts chars left in the row:
+; the row start doubles the cell count, odd $9D = left half, even = right half (shift 4, then next tile, 32 bytes).
+; ---------------------------------------------------------------------------------------------------------------
+pushpc
+org $07AF80
+    JSL cond_rowstart       ; was AND #$00FF : STA $9D
+    NOP
+org $07AFCF
+    JSL cond_draw           ; was JSR $B00D : INC $9F : $99 += $10 : DEC $9D
+    NOP #11
+pullpc
+
+cond_font:
+    incbin "../build/cond8_font.bin"
+
+cond_rowstart:
+    AND #$00FF
+    ASL A
+    INC A
+    STA $9D
+    RTL
+
+cond_draw:
+    PHP
+    REP #$30
+    PHB
+    PHX
+    PHY
+    LDA $A1
+    AND #$00FF
+    ASL A
+    ASL A
+    ASL A
+    TAX
+    LDY #$0000
+    PEA $7E7E
+    PLB
+    PLB
+.row:
+    LDA.l cond_font,x
+    AND #$00FF
+    PHA
+    LDA $9D
+    LSR A
+    PLA
+    BCS .or                 ; odd $9D = left half
+    LSR A
+    LSR A
+    LSR A
+    LSR A
+.or:
+    ORA ($99),y
+    STA ($99),y
+    INX
+    INY
+    INY
+    CPY #$0010
+    BCC .row
+    LDA $9D
+    LSR A
+    BCS .left
+    LDA $99
+    CLC
+    ADC #$0020
+    STA $99
+.left:
+    INC $9F
+    DEC $9D
+    PLY
+    PLX
+    PLB
+    PLP
+    RTL
+
+warnpc $3AAFFF

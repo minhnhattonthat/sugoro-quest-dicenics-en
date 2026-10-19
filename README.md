@@ -1,0 +1,55 @@
+# Sugoro Quest++: Dicenics - English Translation
+
+Unofficial fan translation of **Sugoro Quest++: Dicenics** (スゴロクエスト++ ダイセニクス, Super Famicom, Technos Japan, 1994),
+a dice-driven board game RPG for 1-4 players.
+
+**Status:** v0.95 (beta). Playable start to finish in testing; a few end-game screens are still Japanese (see below).
+
+## Patching
+
+No ROM is included. You need your own dump of the Japanese game:
+
+| | CRC32 | SHA-1 |
+|---|---|---|
+| Original (2 MB, unheadered) | `366C84F3` | `c60efaaf506f8de27dce7af312a022ad5db19271` |
+| Patched | `E04F31B3` | `08c27dc3228f63e813e4a3d89892413988000364` |
+
+Download the `.bps` from [Releases](../../releases) and apply it with [Flips](https://github.com/Alcaro/Flips) or
+[RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/). Start from a cold boot; Japanese save states and old
+save data (`.srm`) keep Japanese code, graphics and ranking names.
+
+## What is translated
+
+- All dialogue, events, battle/board messages, the King, the ending, staff credits
+- Item, spell, weapon, armor, key item, monster and character names; menu and command labels
+- Graphics text: title menu, sub-screen, options, bios, rule/map windows, status panel and equipment page,
+  load/save boxes, ranking screen
+- New variable-width font for all dialogue
+
+## Known issues
+
+Not yet translated: end-of-game results screen labels, name-entry keyboards, save-slot name font.
+
+## Translation notes
+
+- Honorifics kept (hyphenated), Japanese name order. Official romaji where it exists, else Hepburn.
+- Cast has no official romanization; names follow the Western spelling of the katakana (Pritz, Tanguy, Ulrik,
+  Cynthia, Dechtel, Diana). "Siland" follows the series' official English spelling. See `glossary.md`.
+
+## Building from source
+
+Needs Python 3, [asar](https://github.com/RPGHacker/asar) in `tools/asar/` and your ROM at `rom/orig.sfc`.
+
+```
+python -X utf8 tools/build.py            # -> build/sq_en.sfc
+python -X utf8 tools/check.py            # tests + script lint
+python -X utf8 tools/release.py --version X.Y
+```
+
+Script lives in `script/*.json`, tables in `tbl/`, the VWF engine in `asm/main.asm`, notes in `docs/`.
+
+## Credits
+
+Translation and hacking: fan translation project (AI-assisted with Claude; every string reviewed and checked in an
+emulator). Original game (c) 1994 Technos Japan. Not affiliated with the rights holders. Do not distribute patched ROMs.
+Tools and source in this repo: MIT (see `LICENSE`); game text and data remain property of their owners.

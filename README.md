@@ -48,6 +48,12 @@ python -X utf8 tools/release.py --version X.Y
 
 Script lives in `script/*.json`, tables in `tbl/`, the VWF engine in `asm/main.asm`, notes in `docs/`.
 
+## Support
+
+If you enjoy this translation, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minhnhattonthat)
+
 ## Credits
 
 Translation and hacking: fan translation project (AI-assisted with Claude; every string reviewed and checked in an

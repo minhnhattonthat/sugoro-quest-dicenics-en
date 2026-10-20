@@ -18,6 +18,9 @@ Download the `.bps` from [Releases](../../releases) and apply it with [Flips](ht
 [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/). Start from a cold boot; Japanese save states and old
 save data (`.srm`) keep Japanese code, graphics and ranking names.
 
+**Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
+helps most.
+
 ## What is translated
 
 - All dialogue, events, battle/board messages, the King, the ending, staff credits

@@ -26,6 +26,7 @@ Skill: translate-retro-game (H:/translation/sugoro-quest-dicenics/.claude/skills
 - Honorifics kept (hyphenated), Japanese name order. Official romaji else Hepburn (cast has no official romaji:
   Pritz, Tanguy, Ulrik, Cynthia, Dechtel, Diana - flagged to user). Siland = series' official spelling.
 - Credits in English. No abbreviations (engine work first). All graphics text in scope. Plans pre-approved.
+- Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update the Status section.
 
 ## Engine
 - VWF hooked at $08:8121 (asm/main.asm, bank $3A): 8x16 2bpp glyphs by text code, {atN} = jump to cell N.

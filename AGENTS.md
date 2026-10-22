@@ -16,7 +16,8 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 
 ## Paths
 - Original ROM: `rom/orig.sfc` (2 MB LoROM, CRC32 366C84F3; gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`). Emulator: this repo's own copy in `tools/mesen2/` (gitignored; settings.json MUST have Snes.Port1.Type=SnesController or input is ignored). asar: `tools/asar/`. Savestates: `work/states/`.
-- States: en_board.mss (EN build, board, Pritz turn), en_king.mss (EN, Diceman pick), title.mss (orig).
+- States: en_board.mss (EN build, board, Pritz turn), en_king.mss (EN, Diceman pick), title.mss (orig),
+  en_results_pre / en_ranking_pre / en_nameentry.mss (end game); warp to end-game scenes: docs/re/graphics.md.
   States keep VRAM: after gfx changes reach the screen from a cold boot or a state taken before it loads.
 - Text: `script/g0-g7.json` (main, 661 strings), names.json (283), labels.json (240 1bpp labels), gfxtext.json (LZ gfx
   text screens), plates.json. Tables: `tbl/jp.tbl`, `tbl/en.tbl`. Glossary: `glossary.md`. Briefs: `docs/*-brief.md`.

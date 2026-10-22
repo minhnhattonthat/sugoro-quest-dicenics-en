@@ -22,6 +22,7 @@ import font8  # noqa: E402
 import labels  # noqa: E402
 import panelart  # noqa: E402
 import rankart  # noqa: E402
+import namekb  # noqa: E402
 import names  # noqa: E402
 import plates  # noqa: E402
 import text  # noqa: E402
@@ -132,6 +133,7 @@ def build(identity=False, marker_build=False, qa=None, out=None):
     panelart.pack(rom)
     rankart.pack(rom)
     pack_ranking(rom)
+    namekb.pack(rom)
     out.write_bytes(rom)
     return bytes(rom)
 

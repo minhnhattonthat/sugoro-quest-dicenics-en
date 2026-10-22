@@ -1138,6 +1138,10 @@
    ]
   },
   {
+   "name": "high-score name entry keyboard (layout and labels in tools/namekb.py)",
+   "type": "namekb"
+  },
+  {
    "name": "results screen labels (BG2 canvas 0x00 126313, 0xC0 128FED; tilemap LZ 12A6A8; tiles 2C/3C, CB/DB, CC/DC unused)",
    "blocks": {
     "0": "126313",

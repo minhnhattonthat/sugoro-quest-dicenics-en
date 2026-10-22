@@ -24,13 +24,22 @@
 | Status plates | raw 0x6B000 + c*0x280 (80x16, copied by $06:F429) - tools/plates.py, script/plates.json |
 | Ranking | 11E23F/11E79E italic names (5-tile spans at tile 0x260/0x280); default names raw 0x39D7A (4 glyph codes) |
 | 1bpp labels | 0x90000, 240 x 64x8 (tools/labels.py, script/labels.json) |
+| Results screen | BG2 canvas 0x00 = 126313, 0xC0 = 128FED; BG2 tilemap LZ 12A6A8 widened for Spells/Equipment |
+| Name entry | tools/namekb.py: key tables 0x36B50/0x36C04 (2 pages x 90 u16 codes), BG1 map LZ 120812, 8x8 4bpp font LZ 11FB6C.. (tile 0x100 + code); ranking draws names with the JP 16x16 font 0x88000 (glyph = code), so a-z copied to 0x61-0x7A |
 
-## Not done
-- Results screen labels 126313 (アイテム ダイス × スコア 魔法) and 128FED (おたから 装備品 トークン(ＴＫ)): needs the
-  end-of-game screen's tilemap (1273CC/125D1D/12AF5B are loaded with them).
-- Name entry keyboards (11FB6C.. kana pages) - reached only on a top-10 finish; names are raw main-font codes.
-- Save-slot font 12156A (kana/digits for slot info).
-- Panel graphics raw 0x6A000 area has vertical "ダイスマン" text (status panel lower part?).
+Verified (2026-10-23, emulator): results labels, keyboard typing, ranking and save-slot display of a lowercase name.
+
+## Not used / not visible
+- 12156A (save/load scenes, -> $7F:8000 -> BG3 tiles): a pre-rendered sheet of staff names + digit strings; the game
+  draws each filled slot's name/level over it from the 8x8 1bpp font ($04:F49B, font8.py) and empty slots use a blank
+  tile, so it never shows.
+- Raw 0x6A000 top-left: a JP status-panel mockup (たいりょう じんかく プリッツ); the in-game panel doesn't use it.
+
+## Reaching end-game scenes (no playthrough)
+Main mode $0112 (table $00:82A4), substate $0114; scene load lists by index $1D35 (table $10:DA48 via $10:800F).
+`tools/lua/warp.lua --var MODE=8` from en_board.mss = end ceremony -> results -> ranking -> (top 10) name entry ->
+save grid; MODE=9 sub-screen; MODE=11 load grid (add `tools/lua/srmload.lua --var SRM="abs path"` first: savestates
+carry their own SRAM).
 
 ## Tools
 strips.py / spans.py / winview.py / tallview.py (inspect blocks), find_tilemaps.py (tilemap runs), vramfind.py (skill).

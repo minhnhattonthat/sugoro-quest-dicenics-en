@@ -16,6 +16,7 @@ import names  # noqa: E402
 import font8  # noqa: E402
 import panelart  # noqa: E402
 import rankart  # noqa: E402
+import namekb  # noqa: E402
 import plates  # noqa: E402
 import script  # noqa: E402
 
@@ -42,6 +43,7 @@ def ranges():
     out.append((*font8.RANGE, "8x8 panel font: a-z, apostrophe"))
     out += [(a, b, "panel art: Diceman lines") for a, b in panelart.RANGES]
     out += [(a, b, "rank screen names") for a, b in rankart.RANGES]
+    out += [(a, b, "name entry key tables, JP-font a-z") for a, b in namekb.RANGES]
     out += [(0x3AF80, 0x3AF84, "panel string rowstart hook"), (0x3AFCF, 0x3AFDD, "panel string draw hook")]
     out.append((build.RANKING, build.RANKING + 39, "default ranking names"))
     return out

@@ -238,6 +238,10 @@ def apply(rom_orig):
             import rulewin
             out.update(rulewin.apply(rom_orig, screen))
             continue
+        if screen.get("type") == "namekb":
+            import namekb
+            out.update(namekb.blocks(rom_orig))
+            continue
         if screen.get("type") == "boxes4":
             bid = screen["block"]
             out.setdefault(bid, bytearray(lz.decompress(rom_orig, int(bid, 16))[0]))

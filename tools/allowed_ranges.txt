@@ -56,6 +56,9 @@
 086059-08605B  # loader -> 11E23F
 085E9A-085E9C  # loader -> 11E79E
 086060-086062  # loader -> 11E79E
+0860E8-0860EA  # loader -> 120812
+0860EF-0860F1  # loader -> 11FB6C
+0860F6-0860F8  # loader -> 11FE55
 085E8C-085E8E  # loader -> 126313
 085E7E-085E80  # loader -> 12A6A8
 085EA1-085EA3  # loader -> 128FED
@@ -93,6 +96,9 @@
 0AAAC0-0AAB7F  # rank screen names
 0A9D80-0A9DFF  # rank screen names
 0A9F80-0A9FFF  # rank screen names
+036B50-036C03  # name entry key tables, JP-font a-z
+036C04-036CB7  # name entry key tables, JP-font a-z
+089840-089EBF  # name entry key tables, JP-font a-z
 03AF80-03AF84  # panel string rowstart hook
 03AFCF-03AFDD  # panel string draw hook
 039D7A-039DA1  # default ranking names

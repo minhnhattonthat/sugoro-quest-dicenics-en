@@ -56,6 +56,9 @@
 086059-08605B  # loader -> 11E23F
 085E9A-085E9C  # loader -> 11E79E
 086060-086062  # loader -> 11E79E
+085E8C-085E8E  # loader -> 126313
+085E7E-085E80  # loader -> 12A6A8
+085EA1-085EA3  # loader -> 128FED
 06B000-06BEFF  # status plates
 027773-027872  # 8x8 panel font: a-z, apostrophe
 06A1C0-06A1DF  # panel art: Diceman lines

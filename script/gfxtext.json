@@ -1136,6 +1136,59 @@
      "style": "outline:9:6"
     }
    ]
+  },
+  {
+   "name": "results screen labels (BG2 canvas 0x00 126313, 0xC0 128FED; tilemap LZ 12A6A8; tiles 2C/3C, CB/DB, CC/DC unused)",
+   "blocks": {
+    "0": "126313",
+    "C0": "128FED"
+   },
+   "items": [
+    {
+     "jp": "魔法",
+     "en": "Spells",
+     "tiles": [38, 39, 40, 44],
+     "style": "outline:3:1",
+     "map": {"block": "12A6A8", "row": 8, "col": 3, "width": 6, "attr": 8192, "blank": 8255}
+    },
+    {
+     "jp": "アイテム",
+     "en": "Items",
+     "tiles": [0, 1, 2, 3, 4, 5],
+     "style": "outline:3:1"
+    },
+    {
+     "jp": "ダイス",
+     "en": "Dice",
+     "tiles": [6, 7, 8, 9, 10],
+     "style": "outline:3:1"
+    },
+    {
+     "jp": "おたから",
+     "en": "Treasure",
+     "tiles": [192, 193, 194, 195, 196, 197],
+     "style": "outline:3:1"
+    },
+    {
+     "jp": "装備品",
+     "en": "Equipment",
+     "tiles": [198, 199, 200, 201, 202, 203, 204],
+     "style": "outline:3:1",
+     "map": {"block": "12A6A8", "row": 17, "col": 3, "width": 7, "attr": 8192, "blank": 8255}
+    },
+    {
+     "jp": "トークン（ＴＫ）",
+     "en": "Tokens (TK)",
+     "tiles": [224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235],
+     "style": "outline:3:1"
+    },
+    {
+     "jp": "スコア",
+     "en": "Score",
+     "tiles": [33, 34, 35, 36, 37],
+     "style": "outline:3:1"
+    }
+   ]
   }
  ]
 }

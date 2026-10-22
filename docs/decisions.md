@@ -12,3 +12,4 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D4 | 2026-10-14 | Abbreviations | engine work first (default), abbreviate | Engine work first; full names and terms everywhere, flag any last-resort cut. |
 | D5 | 2026-10-14 | Graphics text left in Japanese | none (default), list | None: all graphics text in scope (title logo is already English). |
 | D6 | 2026-10-14 | Specs and plans | need approval, pre-approved | Pre-approved: work through checkpoints, report at the end. |
+| D7 | 2026-10-23 | High-score name-entry keyboard | as built (tools/namekb.py), change layout | As built: both pages A-Z / a-z / 0-9 / . , - ! ? + = / : ~; dakuten and kana-toggle keys blank; no apostrophe (the ranking's 16x16 font has none). |

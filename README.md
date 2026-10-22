@@ -3,7 +3,7 @@
 Unofficial fan translation of **Sugoro Quest++: Dicenics** (スゴロクエスト++ ダイセニクス, Super Famicom, Technos Japan, 1994),
 a dice-driven board game RPG for 1-4 players.
 
-**Status:** v0.95 (beta). Playable start to finish in testing; a few end-game screens are still Japanese (see below).
+**Status:** v0.96 (beta). Playable start to finish in testing; no known Japanese text left.
 
 ## Patching
 
@@ -12,7 +12,7 @@ No ROM is included. You need your own dump of the Japanese game:
 | | CRC32 | SHA-1 |
 |---|---|---|
 | Original (2 MB, unheadered) | `366C84F3` | `c60efaaf506f8de27dce7af312a022ad5db19271` |
-| Patched | `E04F31B3` | `08c27dc3228f63e813e4a3d89892413988000364` |
+| Patched | `E1D51F08` | `ff398b5b8efcd79f5bfe9691cbde256a35c37523` |
 
 Download the `.bps` from [Releases](../../releases) and apply it with [Flips](https://github.com/Alcaro/Flips) or
 [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/). Start from a cold boot; Japanese save states and old
@@ -26,12 +26,13 @@ helps most.
 - All dialogue, events, battle/board messages, the King, the ending, staff credits
 - Item, spell, weapon, armor, key item, monster and character names; menu and command labels
 - Graphics text: title menu, sub-screen, options, bios, rule/map windows, status panel and equipment page,
-  load/save boxes, ranking screen
+  load/save boxes, ranking screen, end-of-game results screen
+- High-score name entry: English keyboard
 - New variable-width font for all dialogue
 
 ## Known issues
 
-Not yet translated: end-of-game results screen labels, name-entry keyboards, save-slot name font.
+None known. Tested in Mesen 2; please report anything that overflows a box or still shows Japanese.
 
 ## Translation notes
 

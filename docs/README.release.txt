@@ -18,7 +18,8 @@ What is translated
 - Item, spell, weapon, armor, key item and monster names; the menu/command labels.
 - Graphics text: title menu, sub-screen menu, options, character-select bios, rule and map selection windows,
   status panel plates and equipment page (condensed font), load/save panels, ranking screen
-  (including the character names).
+  (including the character names), end-of-game results screen.
+- High-score name entry: English keyboard (A-Z, a-z, 0-9 and punctuation).
 - A new proportional (variable-width) font for all dialogue.
 
 Notes
@@ -31,8 +32,6 @@ Notes
 
 Known issues
 ------------
-- Not yet translated: the end-of-game results screen labels, the name-entry keyboard and the save-slot name font
-  (not reached in testing yet).
 - Tested in Mesen 2. Please report anything that overflows a box or still shows Japanese.
 
 Credits

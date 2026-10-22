@@ -12,8 +12,10 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path[:0] = [str(ROOT / "tools"), str(ROOT / ".claude/skills/translate-retro-game/scripts")]
+sys.path.insert(0, str(ROOT / "tools"))
+import skill  # noqa: E402,F401  (puts the skill's scripts/ on sys.path)
 from tbl import Table  # noqa: E402
+import check_rom  # noqa: E402
 import font  # noqa: E402
 import gfxtext  # noqa: E402
 import font8  # noqa: E402
@@ -99,6 +101,7 @@ def asar(rom_path):
 
 
 def build(identity=False, marker_build=False, qa=None, out=None):
+    check_rom.check()
     rom = bytearray(ORIG.read_bytes())
     groups = text.load_groups()
     if identity:

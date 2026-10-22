@@ -12,9 +12,10 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import build  # noqa: E402
+import skill  # noqa: E402
 
 ROOT = build.ROOT
-SKILL = ROOT / ".claude" / "skills" / "translate-retro-game" / "scripts"
+SKILL = skill.SCRIPTS
 NAME = "SugoroQuestPlusPlus_Dicenics_EN"
 
 

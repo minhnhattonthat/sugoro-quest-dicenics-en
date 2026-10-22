@@ -5,7 +5,8 @@ from pathlib import Path
 import pytest
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path[:0] = [str(ROOT / "tools"), str(ROOT / ".claude/skills/translate-retro-game/scripts")]
+sys.path.insert(0, str(ROOT / "tools"))
+import skill  # noqa: E402,F401  (puts the skill's scripts/ on sys.path)
 from tbl import Table  # noqa: E402
 import lz  # noqa: E402
 import script  # noqa: E402

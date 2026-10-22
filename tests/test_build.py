@@ -9,7 +9,8 @@ from pathlib import Path
 import pytest
 
 ROOT = Path(__file__).resolve().parent.parent
-sys.path[:0] = [str(ROOT / "tools"), str(ROOT / ".claude/skills/translate-retro-game/scripts")]
+sys.path.insert(0, str(ROOT / "tools"))
+import skill  # noqa: E402
 import build  # noqa: E402
 import names  # noqa: E402
 import script  # noqa: E402
@@ -53,6 +54,6 @@ def test_romdiff(built, tmp_path):
     out = tmp_path / "b.sfc"
     out.write_bytes(built)
     ranges = [ln.split("#")[0].strip() for ln in (ROOT / "tools/allowed_ranges.txt").read_text().splitlines()]
-    r = subprocess.run([sys.executable, "-X", "utf8", str(ROOT / ".claude/skills/translate-retro-game/scripts/romdiff.py"),
+    r = subprocess.run([sys.executable, "-X", "utf8", str(skill.SCRIPTS / "romdiff.py"),
                         str(build.ORIG), str(out), *[x for x in ranges if x]], capture_output=True, text=True)
     assert r.returncode == 0, r.stdout + r.stderr

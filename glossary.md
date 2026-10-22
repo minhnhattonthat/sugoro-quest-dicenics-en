@@ -2,7 +2,7 @@
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
 
-## Rulings (asked of the user 2026-10-14)
+## Rulings (asked of the user 2026-10-14; options and reasons in docs/decisions.md)
 - Honorifics: kept, hyphenated (Pritz-san). Name order: Japanese.
 - Romanisation source: official romaji where the game/manual/box has it, else Hepburn (no macrons).
 - Credits: English.

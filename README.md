@@ -41,7 +41,9 @@ Not yet translated: end-of-game results screen labels, name-entry keyboards, sav
 
 ## Building from source
 
-Needs Python 3, [asar](https://github.com/RPGHacker/asar) in `tools/asar/` and your ROM at `rom/orig.sfc`.
+Needs Python 3.12+ with Pillow, [asar](https://github.com/RPGHacker/asar) in `tools/asar/`, the
+[translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) skill (Claude Code plugin, or set `SKILL`
+to its directory) and your ROM at `rom/orig.sfc` (SHA-1 above; the build refuses any other dump, see `rom.sha1`).
 
 ```
 python -X utf8 tools/build.py            # -> build/sq_en.sfc
@@ -49,7 +51,18 @@ python -X utf8 tools/check.py            # tests + script lint
 python -X utf8 tools/release.py --version X.Y
 ```
 
-Script lives in `script/*.json`, tables in `tbl/`, the VWF engine in `asm/main.asm`, notes in `docs/`.
+| Path | What it is |
+|---|---|
+| `script/` | Every text block: original Japanese and English. Translation fixes go here. |
+| `glossary.md` | Binding names, terms and style rules. |
+| `asm/` | VWF engine (asar). |
+| `font/`, `tbl/` | English font art; Japanese and English text tables. |
+| `tools/` | Python build chain: extract, insert, lint, release. |
+| `tests/` | pytest suite (ROM-dependent tests skip when the ROM is absent). |
+| `docs/re/` | Reverse-engineering notes. |
+| `docs/decisions.md`, `docs/status.md` | Rulings with their reasons; current progress and open bugs. |
+| `docs/fonts.md` | Fonts used and their licences. |
+| `AGENTS.md` | Instructions for coding agents (`CLAUDE.md` points to it). |
 
 ## Support
 

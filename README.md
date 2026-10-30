@@ -21,18 +21,20 @@ save data (`.srm`) keep Japanese code, graphics and ranking names.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
-## What is translated
+## Translation status
 
-- All dialogue, events, battle/board messages, the King, the ending, staff credits
-- Item, spell, weapon, armor, key item, monster and character names; menu and command labels
-- Graphics text: title menu, sub-screen, options, bios, rule/map windows, status panel and equipment page,
-  load/save boxes, ranking screen, end-of-game results screen
-- High-score name entry: English keyboard
-- New variable-width font for all dialogue
+| Part | Status |
+|---|---|
+| Dialogue, events, battle/board messages, the King, the ending | Translated |
+| Item, spell, weapon, armor, key item, monster and character names; menu and command labels | Translated |
+| Graphics text: title menu, sub-screen, options, bios, rule/map windows, status panel and equipment page, load/save boxes, ranking screen, end-of-game results screen | Translated (the title logo is already English) |
+| High-score name entry | Translated (English keyboard) |
+| Staff credits | Translated (romanised) |
 
-## Known issues
+All dialogue uses a new variable-width font.
 
-None known. Tested in Mesen 2; please report anything that overflows a box or still shows Japanese.
+Known issues: none known (tested in Mesen 2); [report one](../../issues/new/choose) if anything overflows a box or
+still shows Japanese.
 
 ## Translation notes
 
